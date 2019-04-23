@@ -1,59 +1,15 @@
-## Course Offerings
-
-
-### Courses on how to use BDRC resources
-
-**DLD101 \
-**An overview the kinds of resources in BDRC and how to use them.  Includes online and offline.
-
-**DLC102 \
-**Understanding Copyright, BDRC’s License and Access Policy 
-
-**DLD103 \
-**How to search for texts
-
-**DLD103 \
-**How to search for eTexts
-
-**DLD105 \
-**How to search for persons
-
-**DLD106 \
-**How to search for places
-
-**DLD107 \
-**Using the mobile app. BDRC Lib App
-
-**DLD108 \
-**Using the BDRC print masters
-
-
-### Courses in Digital Preservation
-
-**DPP101 \
-Scanning - **Using the BDRC preservation manual
-
-1. Creating ePubs from BDRC resources
-2. How to Catalog a Tibetan Text using BDRC software
-3. How to Digitize Manuscripts
-        1. Archival images
-        2. Derivative images
-        3. Image formats
-4. How to Archive Digital Manuscripts
-
-**Schedule**
-
-*   Implement edX platform on AWS
-*   Develop production workflow for course creation
-    *   Three langues
-    *   Use of video
-    *   Screen casts
-*   Produce the above 4 videos and release them into the platform
-*   Move on to other courses
-
-
-
-
+# Courses on Budax
+1. [MSC101 edx སློབ་ཚན་སྒྲིག་སྟངས། ](https://www.budax.org/courses/course-v1:BDRC+staff01+2018/about)
+2. [DPP103 SayMore ཡིག་ཕབ་མཉེན་ཆས། ](https://www.budax.org/courses/course-v1:BDRC+Epub02+2019/about)
+3. [DLD101 དཔེ་ཆ་འཚོལ་ཚུལ། ](https://www.budax.org/courses/course-v1:BDRC+TEST02+2018/about)
+4. [TEST01 དཔེ་བསྡུར་བྱེད་ཚུལ།](https://www.budax.org/courses/course-v1:BDRC+TEST01+2018_T1/about)
+5. [TibMan301 རྒྱུག་ཆེའི་ཐ་སྙད་འཚོལ་ཞིབ།](https://www.budax.org/courses/course-v1:BDRC+TibMan301+2018Fall/about)
+6. [L.101 ནགས་བྱི་འཚོལ་ཆས་བཀོལ་ཚུལ། ](https://www.budax.org/courses/course-v1:BDRC+L.104+2018-12-30/about)
+7. [Print105 པར་འདེབས་མ་ཕྱི་སློབ་ཚན། (རྒྱ་ཡིག)](https://www.budax.org/courses/course-v1:BDRC+Print105+2019/about)
+8. [Print107 པར་འདེབས་མ་ཕྱི་སློབ་ཚན། (ཨིན་ཡིག)](https://www.budax.org/courses/course-v1:BDRC+print107+2019/about)
+9. [Lib106 དཔེ་ཀློག་མཉེན་ཆས། ](https://www.budax.org/courses/course-v1:BuddhistDigitalResourceCenter+BDRC101+2018_T1/about)
+10. [OCR108 རྣམ་གསལ་ཡིག་འཛིན་མཉེན་ཆས། ](https://www.budax.org/courses/course-v1:BDRC+OCR.108+2019/about)
+11. [DPP101 ཨང་བསྒྱུར་ཚད་གཞི། ](https://www.budax.org/courses/course-v1:BDRC+Staff02+2018/about)
 # Mini-Courses on wjx.cn
 
 
