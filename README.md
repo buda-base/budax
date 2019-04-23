@@ -85,8 +85,6 @@ Scanning - **Using the BDRC preservation manual
 
 ### Beta bdrc.io 
 
-
-
 1. General usage (FY 2018)
 2. Specific searches (FY 2018)
 3. Preparing and contributing images (FY 2019 - BudaX)
@@ -96,10 +94,9 @@ Scanning - **Using the BDRC preservation manual
 ### BDRC Lib 
 
 
-    [༡ བཀོལ་སྤྱོད། Using BDRC Lib](https://ks.wjx.top/jq/24437678.aspx) (FY 2018)
+[༡ བཀོལ་སྤྱོད། Using BDRC Lib](https://ks.wjx.top/jq/24437678.aspx) (FY 2018)
 
-
-    དཀའ་གནད་སེལ་བ། Troubleshooting
+དཀའ་གནད་སེལ་བ། Troubleshooting
 
 
 ### BDRC DLD 
