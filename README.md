@@ -1,20 +1,11 @@
-# Courses on Budax
-1. [MSC101 edx སློབ་ཚན་སྒྲིག་སྟངས། ](https://www.budax.org/courses/course-v1:BDRC+staff01+2018/about)
-2. [DPP103 SayMore ཡིག་ཕབ་མཉེན་ཆས། ](https://www.budax.org/courses/course-v1:BDRC+Epub02+2019/about)
-3. [DLD101 དཔེ་ཆ་འཚོལ་ཚུལ། ](https://www.budax.org/courses/course-v1:BDRC+TEST02+2018/about)
-4. [AD05 དཔེ་བསྡུར་བྱེད་ཚུལ།](https://www.budax.org/courses/course-v1:BDRC+TEST01+2018_T1/about)
-5. [AD03 རྒྱུག་ཆེའི་ཐ་སྙད་འཚོལ་ཞིབ།](https://www.budax.org/courses/course-v1:BDRC+TibMan301+2018Fall/about)
-6. [AD06 ནགས་བྱི་འཚོལ་ཆས་བཀོལ་ཚུལ། ](https://www.budax.org/courses/course-v1:BDRC+L.104+2018-12-30/about)
-7. [AD04C པར་འདེབས་མ་ཕྱི་སློབ་ཚན། (རྒྱ་ཡིག)](https://www.budax.org/courses/course-v1:BDRC+Print105+2019/about)
-8. [AD04E པར་འདེབས་མ་ཕྱི་སློབ་ཚན། (ཨིན་ཡིག)](https://www.budax.org/courses/course-v1:BDRC+print107+2019/about)
-9. [AD02 དཔེ་ཀློག་མཉེན་ཆས། ](https://www.budax.org/courses/course-v1:BuddhistDigitalResourceCenter+BDRC101+2018_T1/about)
-10. [DPP102 རྣམ་གསལ་ཡིག་འཛིན་མཉེན་ཆས། ](https://www.budax.org/courses/course-v1:BDRC+OCR.108+2019/about)
-11. [DPP101 ཨང་བསྒྱུར་ཚད་གཞི། ](https://www.budax.org/courses/course-v1:BDRC+Staff02+2018/about)
-# Mini-Courses on wjx.cn
+1. དུས་རབས་༢༡པའི་དཔེ་ཆ་བ། 21st Century Pecha Reader
+2. དུས་རབས་༢༡པའི་ཡིག་འབེབ་པ། 21st Century Scribe
+3. དུས་རབས་༢༡པའི་ཞུ་དག་པ། 21st Century Proofreader
+4. དུས་རབས་༢༡པའི་རྩོམ་སྒྲིག་པ། 21st Century Editor
+5. དུས་རབས་༢༡པའི་དཔེ་མཛོད་དོ་དམ་པ། 21st Century Librarian
+6. དུས་རབས་༢༡པའི་ལོ་ཙཱ་བ། 21st Century Translator
 
-
-## 1 དུས་རབས་༢༡པའི་དཔེ་ཆ་བ། 21st Century Pecha Reader
-
+# 1 དུས་རབས་༢༡པའི་དཔེ་ཆ་བ། 21st Century Pecha Reader
 
 ### BDRC.info 
 
@@ -61,7 +52,7 @@ C. (budax on edX) བུངྷ་དྲ་སྟེགས།(2019)
 2. [པར་འདེབས་མ་ཕྱི། ཨིན་ཡིག](https://www.budax.org/courses/course-v1:BDRC+print107+2019/about)
 3. [པར་འདེབས་མ་ཕྱི། རྒྱ་ཡིག](https://www.budax.org/courses/course-v1:BDRC+Print105+2019/about)
 
-**USB Project**
+### BDRC Pen-drive
 
 1. [འཁྱེར་བདེ་ཡིག་མཛོད་བཀོལ་ཚུལ།](https://www.wjx.top/jq/27964601.aspx)
 2. [ཁོ་ཌི་མཉེན་ཆས་འཇུག་སྤྲོད་བྱ་ཚུལ།](https://ks.wjx.top/jq/28014977.aspx)
@@ -89,10 +80,10 @@ C. (budax on edX) བུངྷ་དྲ་སྟེགས།(2019)
 ### CBETA
 1. བཀོལ་ཐབས། Using CBETA (FY 2018)
 
-### RKTS ?
+### RKTS
 1. བཀོལ་ཚུལ། Using rKTs  (FY 2019)
 
-### ACIP \
+### ACIP
 1. བཀོལ་ཐབས། Using ACIP website  (FY 2019)
 2. མཉེན་ཆས། Using the ACIP program  (FY 2019)
 
@@ -106,6 +97,7 @@ C. (budax on edX) བུངྷ་དྲ་སྟེགས།(2019)
 
 ### 2 ཡིག་ཕབ་མཉེན་ཆས། (SayMore)
 1. [བཀོལ་ཐབས། Usage](https://ks.wjx.top/jq/25952809.aspx)  (FY 2018)
+- [DPP103 SayMore ཡིག་ཕབ་མཉེན་ཆས། ](https://www.budax.org/courses/course-v1:BDRC+Epub02+2019/about)
 2. གྲ་སྒྲིག་བྱེད་སྟངས། Preparing audio files with Audacity  (FY 2019—BudaX)
 3. དཀའ་གནད་སེལ་བ། Troubleshooting
 
@@ -178,6 +170,7 @@ A. Budax
 
 ### 5  རིམ་ལྡན་རྩོམ་རིག་བྲིས་སྟངས། Leveling texts (FY 2019 BudaX)
 1. མ་ཚིག་སོགས་བརྩི་ཚུལ། Statistical analysis of etexts
+- [རྒྱུག་ཆེའི་ཐ་སྙད་འཚོལ་ཞིབ། Word frequency with AntConc](https://www.budax.org/courses/course-v1:BDRC+TibMan301+2018Fall/about)
 2. རྩོམ་གྱི་རིམ་པ་བརྟག་ཐབས། Automated categorization of texts by topics/reading difficulty
 3. རིམ་ལྡན་རྩོམ་རིགས་འབྲི་ཚུལ། Leveling literature
 
@@ -185,7 +178,7 @@ A. Budax
 1. མ་ཚིག་སོགས་བརྩི་ཚུལ། Keyness analysis of etexts
 2. ཆེད་ལས་ཀྱི་སློབ་ཚན་སོགས་སྒྲིགས་ཚུལ། Writing leveled specialized educational material  
 
-### 6  ཚིག་མཛོད་རིག་པའི་མཉེན་ཆས་བཀོལ་སྟངས། Corpus based lexicography  (FY 2020 BudaX)
+### 7  ཚིག་མཛོད་རིག་པའི་མཉེན་ཆས་བཀོལ་སྟངས། Corpus based lexicography  (FY 2020 BudaX)
 1. མ་ཚིག་སོགས་བརྩི་ཚུལ། Using Sketchengine and Wordsmith
 2. ཆེད་ལས་ཀྱི་སློབ་ཚན་སོགས་སྒྲིགས་ཚུལ། Organizing word senses
 3. ཆེད་ལས་ཀྱི་སློབ་ཚན་སོགས་སྒྲིགས་ཚུལ། Extracting word relations
@@ -198,7 +191,7 @@ A. Budax
 # 6 དུས་རབས་༢༡པའི་ལོ་ཙཱ་བ། 21st Century Translator (FY 2019/20)
 
 ### 1 ལོ་ཙ་མཉེན་ཆས། Using CAT Tools
-1.  
+1. 
 2. 
 
 ### 2 ཡིག་འགྱུར་མཛོད། Translation Memories
@@ -206,31 +199,14 @@ A. Budax
 2. tmx ཡིག་ཆ་བཟོ་སྟངས།
 
 
-
-The courses from the **Pecha Reader **series focus on how to use BDRC’s resources:
-
-
-
-1. [Searching for definitions on bdrc.info](https://ks.wjx.top/jq/24268088.aspx)
-2. [Searching for the source of citations on bdrc.info](https://ks.wjx.top/jq/24730022.aspx)
-3. [Searching for information on people on bdrc.info](https://ks.wjx.top/jq/25112919.aspx)
-4. [Browsing the online library on bdrc.info](https://ks.wjx.top/jq/25246157.aspx)
-5. [Downloading full and partial PDFs from bdrc.info](https://ks.wjx.top/jq/25731301.aspx)
-6. [Downloading and using the BDRC Lib mobile app](https://ks.wjx.top/jq/24437678.aspx)
-7. [Reading texts on the Adharsha platform](https://ks.wjx.top/jq/26024970.aspx)
-
-From the **Scribe **series we’ve done a course on transcription from audio/video:
-
-
-
-8. [Transcribing A/V with Saymore](https://ks.wjx.top/jq/25952809.aspx)
-
-In the **Proofreader **series we’ve done a course on collaborative editing and courses on compared proofreading using 3 different softwares:
-
-
-
-9. [Collaborative proofreading with shimo.im](https://ks.wjx.top/jq/26244576.aspx)
-10. [Compared Proofreading with MS Word](https://ks.wjx.top/jq/25734022.aspx)
-11. [Compared Proofreading with Visual Studio Code](https://ks.wjx.top/jq/25816582.aspx)
-12. [Compared Proofreading with DiffMerge](https://ks.wjx.top/jq/25231684.aspx)
-
+# Courses on Budax
+1. [MSC101 edx སློབ་ཚན་སྒྲིག་སྟངས། ](https://www.budax.org/courses/course-v1:BDRC+staff01+2018/about)
+2. 
+3. [DLD101 དཔེ་ཆ་འཚོལ་ཚུལ། ](https://www.budax.org/courses/course-v1:BDRC+TEST02+2018/about)
+4. [AD05 དཔེ་བསྡུར་བྱེད་ཚུལ།](https://www.budax.org/courses/course-v1:BDRC+TEST01+2018_T1/about)
+5. 
+7. [AD04C པར་འདེབས་མ་ཕྱི་སློབ་ཚན། (རྒྱ་ཡིག)](https://www.budax.org/courses/course-v1:BDRC+Print105+2019/about)
+8. [AD04E པར་འདེབས་མ་ཕྱི་སློབ་ཚན། (ཨིན་ཡིག)](https://www.budax.org/courses/course-v1:BDRC+print107+2019/about)
+9. [AD02 དཔེ་ཀློག་མཉེན་ཆས། ](https://www.budax.org/courses/course-v1:BuddhistDigitalResourceCenter+BDRC101+2018_T1/about)
+10. [DPP102 རྣམ་གསལ་ཡིག་འཛིན་མཉེན་ཆས། ](https://www.budax.org/courses/course-v1:BDRC+OCR.108+2019/about)
+11. [DPP101 ཨང་བསྒྱུར་ཚད་གཞི། ](https://www.budax.org/courses/course-v1:BDRC+Staff02+2018/about)
