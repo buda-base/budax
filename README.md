@@ -1,10 +1,10 @@
 ## Contents
-- དུས་རབས་༢༡པའི་དཔེ་ཆ་བ། 21st Century Pecha Reader
-- དུས་རབས་༢༡པའི་ཡིག་འབེབ་པ། 21st Century Scribe
-- དུས་རབས་༢༡པའི་ཞུ་དག་པ། 21st Century Proofreader
-- དུས་རབས་༢༡པའི་རྩོམ་སྒྲིག་པ། 21st Century Editor
-- དུས་རབས་༢༡པའི་དཔེ་མཛོད་དོ་དམ་པ། 21st Century Librarian
-- དུས་རབས་༢༡པའི་ལོ་ཙཱ་བ། 21st Century Translator
+- [དུས་རབས་༢༡པའི་དཔེ་ཆ་བ། 21st Century Pecha Reader](https://github.com/buda-base/budax/blob/master/README.md#%E0%BD%91%E0%BD%B4%E0%BD%A6%E0%BD%A2%E0%BD%96%E0%BD%A6%E0%BC%A2%E0%BC%A1%E0%BD%94%E0%BD%A0%E0%BD%B2%E0%BD%91%E0%BD%94%E0%BD%BA%E0%BD%86%E0%BD%96-21st-century-pecha-reader)
+- [དུས་རབས་༢༡པའི་ཡིག་འབེབ་པ། 21st Century Scribe](https://github.com/buda-base/budax/blob/master/README.md#%E0%BD%91%E0%BD%B4%E0%BD%A6%E0%BD%A2%E0%BD%96%E0%BD%A6%E0%BC%A2%E0%BC%A1%E0%BD%94%E0%BD%A0%E0%BD%B2%E0%BD%A1%E0%BD%B2%E0%BD%82%E0%BD%A0%E0%BD%96%E0%BD%BA%E0%BD%96%E0%BD%94-21st-century-scribe)
+- [དུས་རབས་༢༡པའི་ཞུ་དག་པ། 21st Century Proofreader]()
+- [དུས་རབས་༢༡པའི་རྩོམ་སྒྲིག་པ། 21st Century Author](https://github.com/buda-base/budax/blob/master/README.md#%E0%BD%91%E0%BD%B4%E0%BD%A6%E0%BD%A2%E0%BD%96%E0%BD%A6%E0%BC%A2%E0%BC%A1%E0%BD%94%E0%BD%A0%E0%BD%B2%E0%BD%A2%E0%BE%A9%E0%BD%BC%E0%BD%98%E0%BD%A6%E0%BE%92%E0%BE%B2%E0%BD%B2%E0%BD%82%E0%BD%94-21st-century-editorwriter)
+- [དུས་རབས་༢༡པའི་དཔེ་མཛོད་དོ་དམ་པ། 21st Century Librarian](https://github.com/buda-base/budax/blob/master/README.md#%E0%BD%91%E0%BD%B4%E0%BD%A6%E0%BD%A2%E0%BD%96%E0%BD%A6%E0%BC%A2%E0%BC%A1%E0%BD%94%E0%BD%A0%E0%BD%B2%E0%BD%91%E0%BD%94%E0%BD%BA%E0%BD%98%E0%BD%9B%E0%BD%BC%E0%BD%91%E0%BD%91%E0%BD%BC%E0%BD%91%E0%BD%98%E0%BD%94-21st-century-librarian)
+- [དུས་རབས་༢༡པའི་ལོ་ཙཱ་བ། 21st Century Translator](https://github.com/buda-base/budax/blob/master/README.md#6-%E0%BD%91%E0%BD%B4%E0%BD%A6%E0%BD%A2%E0%BD%96%E0%BD%A6%E0%BC%A2%E0%BC%A1%E0%BD%94%E0%BD%A0%E0%BD%B2%E0%BD%A3%E0%BD%BC%E0%BD%99%E0%BD%B1%E0%BD%96-21st-century-translator-fy-201920)
 
 # དུས་རབས་༢༡པའི་དཔེ་ཆ་བ། 21st Century Pecha Reader
 
@@ -117,7 +117,7 @@ C. (Github) གྷི་ཐབ་དྲ་སྟེགས་སྟང་གི�
 2. པར་གྲ་སྒྲིག་བྱེད་སྟངས། Preparing images with XnView  (FY 2019)
 3. དཀའ་གནད་སེལ་བ། Troubleshooting  (FY 2019)
 
-# 3 དུས་རབས་༢༡པའི་ཞུ་དག་པ། 21st Century Proofreader
+# དུས་རབས་༢༡པའི་ཞུ་དག་པ། 21st Century Proofreader
 
 ### 1 དྲ་ཐོག་ཡིག་ཆ་དང་མཉམ་འབྲེལ་ཞུ་དག (shimo.im) (Word 2007) \
  Online Documents & Collaborative Proofreading
@@ -145,7 +145,7 @@ C. (Github) གྷི་ཐབ་དྲ་སྟེགས་སྟང་གི�
 
 ### 6 ཞུ་དག་མཉེན་ཆས་བསྐོལ་ཚུལ། Proofreading with Pybo and BoSpell (FY 2019 BudaX)
 
-# དུས་རབས་༢༡པའི་རྩོམ་སྒྲིག་པ། 21st Century Editor/Writer
+# དུས་རབས་༢༡པའི་རྩོམ་སྒྲིག་པ། 21st Century Author
 
 ### 1 པར་འདེབས་མ་ཕྱི། Creating Print masters (FY 2019)
 
@@ -189,7 +189,7 @@ A. Budax
 
 ### 1 དཔེ་མཛོད་མཉེན་ཆས་བཀོལ་ཐབས། Using library management systems (FY 2020 BudaX)
 
-# 6 དུས་རབས་༢༡པའི་ལོ་ཙཱ་བ། 21st Century Translator (FY 2019/20)
+# དུས་རབས་༢༡པའི་ལོ་ཙཱ་བ། 21st Century Translator
 
 ### 1 ལོ་ཙ་མཉེན་ཆས། Using CAT Tools
 1. 
