@@ -56,7 +56,6 @@ Scanning - **Using the BDRC preservation manual
 *   Move on to other courses
 
 
-# 
 
 
 # Mini-Courses on wjx.cn
@@ -67,20 +66,15 @@ Scanning - **Using the BDRC preservation manual
 
 ### BDRC.info 
 
+[༡ མཚན་ཉིད་འཚོལ་སྟངས། Searching for definitions](https://ks.wjx.top/jq/24268088.aspx)  (FY 2018)
 
-    [༡ མཚན་ཉིད་འཚོལ་སྟངས། Searching for definitions](https://ks.wjx.top/jq/24268088.aspx)  (FY 2018)
+[༢ ལུང་ཚིག་འཚོལ་སྟངས། Searching for quotes](https://ks.wjx.top/jq/24730022.aspx)  (FY 2018)
 
+[༣ མི་སྣ། Searching for people](https://ks.wjx.top/jq/25112919.aspx)  (FY 2018)
 
-    [༢ ལུང་ཚིག་འཚོལ་སྟངས། Searching for quotes](https://ks.wjx.top/jq/24730022.aspx)  (FY 2018)
+[༤ དཀར་ཆག Browsing the website](https://ks.wjx.top/jq/25246157.aspx)  (FY 2018)
 
-
-    [༣ མི་སྣ། Searching for people](https://ks.wjx.top/jq/25112919.aspx)  (FY 2018)
-
-
-    [༤ དཀར་ཆག Browsing the website](https://ks.wjx.top/jq/25246157.aspx)  (FY 2018)
-
-
-    [༥ བཙལ་གནས་ཕབ་པ། Downloading full and partial PDFs](https://ks.wjx.top/jq/25731301.aspx)  (FY 2018)
+[༥ བཙལ་གནས་ཕབ་པ། Downloading full and partial PDFs](https://ks.wjx.top/jq/25731301.aspx)  (FY 2018)
 
 
 ### Beta bdrc.io 
@@ -101,11 +95,9 @@ Scanning - **Using the BDRC preservation manual
 
 ### BDRC DLD 
 
+༡ [བཀོལ་སྤྱོད། Using BDRC DLDs (FY 2018)](https://www.wjx.cn/pq/30707378.aspx?t=636916103547378000)
 
-    ༡ [བཀོལ་སྤྱོད། Using BDRC DLDs (FY 2018)](https://www.wjx.cn/pq/30707378.aspx?t=636916103547378000)
-
-
-    ༢ པར་བསྐྲུན་མ་ཕྱི། Using the print masters (FY 2018)
+༢ པར་བསྐྲུན་མ་ཕྱི། Using the print masters (FY 2018)
 
 1. Wjx-DLD (2019)
 
@@ -151,29 +143,23 @@ Scanning - **Using the BDRC preservation manual
 
 ### ADARSHA
 
+[༡ དྲ་ཚིགས། Using the web-resources](https://ks.wjx.top/jq/26024970.aspx)  (FY 2018)
 
-    [༡ དྲ་ཚིགས། Using the web-resources](https://ks.wjx.top/jq/26024970.aspx)  (FY 2018)
-
-
-    ༢ [མཉེན་ཆས། Download Adharsha App in Android phone](https://www.wjx.cn/pq/26664363.aspx?t=636702702633871444) (FY 2018)
+༢ [མཉེན་ཆས། Download Adharsha App in Android phone](https://www.wjx.cn/pq/26664363.aspx?t=636702702633871444) (FY 2018)
 
 
 ### HIMALAYA
 
-
-    ༡[ དྲ་ཚིགས། Using the web-resources](https://ks.wjx.top/jq/26453335.aspx)  (FY 2018)
+ ༡[ དྲ་ཚིགས། Using the web-resources](https://ks.wjx.top/jq/26453335.aspx)  (FY 2018)
 
 
 ### MONLAM Dictionary
 
+ ༡ [སྒེའུ་ཁུང་། Using the dictionary on Windows](https://ks.wjx.top/jq/26567994.aspx)  (FY 2018)
 
-    ༢ [སྒེའུ་ཁུང་། Using the dictionary on Windows](https://ks.wjx.top/jq/26567994.aspx)  (FY 2018)
+ ༢. [ཀུ་ཤུ་Using the dictionary on Mac](https://ks.wjx.top/jq/26988253.aspx)  (FY 2018)
 
-
-    ༡. [ཀུ་ཤུ་Using the dictionary on Mac](https://ks.wjx.top/jq/26988253.aspx)  (FY 2018)
-
-
-    ༢. [Using the Grand dictionary on Windows](https://ks.wjx.top/jq/26735503.aspx)  (FY 2018)
+ ༣. [Using the Grand dictionary on Windows](https://ks.wjx.top/jq/26735503.aspx)  (FY 2018)
 
 
 ### CBETA
@@ -187,10 +173,9 @@ Scanning - **Using the BDRC preservation manual
 
 
 ### ACIP \
-	༡ བཀོལ་ཐབས། Using ACIP website  (FY 2019)
 
-
-    ༢ མཉེན་ཆས། Using the ACIP program  (FY 2019)
+༡ བཀོལ་ཐབས། Using ACIP website  (FY 2019)
+༢ མཉེན་ཆས། Using the ACIP program  (FY 2019)
 
 
 # 2 དུས་རབས་༢༡པའི་ཡིག་འབེབ་པ། 21st Century Scribe
@@ -199,20 +184,14 @@ Scanning - **Using the BDRC preservation manual
 ### ༡ ཀེ་ཏ་ཀ་མཉེན་ཆས། Using the Ketaka program
 
 [༡ བཀོལ་ཐབས། Usage](https://ks.wjx.top/jq/26256197.aspx)  (FY 2018)
-
 ༢ དཀའ་གནད་སེལ་བ། Troubleshooting
 
 
 ### ༢ ཡིག་ཕབ་མཉེན་ཆས། (SayMore)
 
-
-    [༡ བཀོལ་ཐབས། Usage](https://ks.wjx.top/jq/25952809.aspx)  (FY 2018)
-
-
-    ༢ གྲ་སྒྲིག་བྱེད་སྟངས། Preparing audio files with Audacity  (FY 2019—BudaX)
-
-
-    ༣ དཀའ་གནད་སེལ་བ། Troubleshooting
+[༡ བཀོལ་ཐབས། Usage](https://ks.wjx.top/jq/25952809.aspx)  (FY 2018)
+༢ གྲ་སྒྲིག་བྱེད་སྟངས། Preparing audio files with Audacity  (FY 2019—BudaX)
+༣ དཀའ་གནད་སེལ་བ། Troubleshooting
 
 
 ### ༣ རྣམ་གསལ་ཡིག་འཛིན་མཉེན་ཆས། (Namsel OCR—BudaX, Google Site, Github)
@@ -221,30 +200,17 @@ Scanning - **Using the BDRC preservation manual
 
 1. Budax
 
-    [༡ བཀོལ་ཐབས། Using Namsel OCR  (FY 2019)](https://www.budax.org/courses/course-v1:BDRC+OCR.108+2019/info)
+[༡ བཀོལ་ཐབས། Using Namsel OCR  (FY 2019)](https://www.budax.org/courses/course-v1:BDRC+OCR.108+2019/info)
+༢ པར་གྲ་སྒྲིག་བྱེད་སྟངས། Preparing images with XnView  (FY 2019)
+༣ དཀའ་གནད་སེལ་བ། Troubleshooting  (FY 2019)
 
+2.  (Google Site)དགོས་དགུ་དྲ་སྟེགས་ཀྱི་སློབ་ཚན།
+༡ [བཀོལ་ཐབས། Using Namsel OCR  (FY 2019)](https://sites.google.com/s/1eYmhxD4xt3xEPNpAdBll_ivVGwVLO3yZ/p/1tCRhouzJWI_gV0McAkBqcNRLIFs4qdPi/edit)
 
-    ༢ པར་གྲ་སྒྲིག་བྱེད་སྟངས། Preparing images with XnView  (FY 2019)
-
-
-    ༣ དཀའ་གནད་སེལ་བ། Troubleshooting  (FY 2019)
-
-
-      2.  (Google Site)དགོས་དགུ་དྲ་སྟེགས་ཀྱི་སློབ་ཚན།
-
-
-    ༡ [བཀོལ་ཐབས། Using Namsel OCR  (FY 2019)](https://sites.google.com/s/1eYmhxD4xt3xEPNpAdBll_ivVGwVLO3yZ/p/1tCRhouzJWI_gV0McAkBqcNRLIFs4qdPi/edit)
-
-      3.  (Github) གྷི་ཐབ་དྲ་སྟེགས་སྟང་གི་སློབ་ཚན།(for windows and Mac)
-
-
-    ༡ བཀོལ་ཐབས། Using Namsel OCR  (FY 2019)
-
-
-    ༢ པར་གྲ་སྒྲིག་བྱེད་སྟངས། Preparing images with XnView  (FY 2019)
-
-
-    ༣ དཀའ་གནད་སེལ་བ། Troubleshooting  (FY 2019)
+3.  (Github) གྷི་ཐབ་དྲ་སྟེགས་སྟང་གི་སློབ་ཚན།(for windows and Mac)
+༡ བཀོལ་ཐབས། Using Namsel OCR  (FY 2019)
+༢ པར་གྲ་སྒྲིག་བྱེད་སྟངས། Preparing images with XnView  (FY 2019)
+༣ དཀའ་གནད་སེལ་བ། Troubleshooting  (FY 2019)
 
 
 # 3 དུས་རབས་༢༡པའི་ཞུ་དག་པ། 21st Century Proofreader
@@ -261,42 +227,22 @@ Scanning - **Using the BDRC preservation manual
 ### ༢ དཔེ་བསྡུར་བྱེད་ཐབས། Diffmerge དཔེར་བསྡུར་མཉེན་ཆས།
 
 ༡[ Word དཔེ་བསྡུར་བྱ་ཐབས།](https://ks.wjx.top/jq/25734022.aspx) Compared Proofreading with MS Word  (FY 2018)
-
-
-    ༢[ ཁོ་ཌི་མཉེན་ཆས་སྤྱིའི་བཀོལ་ཐབས།](https://ks.wjx.top/jq/25816582.aspx) Compared Proofreading with VS Code
-
-
-    ༣[ དཔེ་བསྡུར་བྱེད་སྟངས།](https://ks.wjx.top/jq/25231684.aspx) Compared Proofreading with DiffMerge
-
-
-    ༤ དཀའ་གནད་སེལ་བ།
+༢[ ཁོ་ཌི་མཉེན་ཆས་སྤྱིའི་བཀོལ་ཐབས།](https://ks.wjx.top/jq/25816582.aspx) Compared Proofreading with VS Code
+༣[ དཔེ་བསྡུར་བྱེད་སྟངས།](https://ks.wjx.top/jq/25231684.aspx) Compared Proofreading with DiffMerge
+༤ དཀའ་གནད་སེལ་བ།
 
 
 ### ༣ འཚོལ་བསྒྱུར་ཞུ་དག Diffmerge, VS Code, SarAnt  (FY 2019 BudaX)
-
-
-    ༡ ཁོ་ཌི་མཉེན་ཆས་ངོ་སྤྲོད།
-
-
-    ༢ འཚོལ་བསྒྱུར།
-
-
-    ༣ གྲོག་མ་ལི་ཁྲི་ངོ་སྤྲོད།
-
-
-    ༤ དཀའ་གནད་སེལ་བ།
+༡ ཁོ་ཌི་མཉེན་ཆས་ངོ་སྤྲོད།
+༢ འཚོལ་བསྒྱུར།
+༣ གྲོག་མ་ལི་ཁྲི་ངོ་སྤྲོད།
+༤ དཀའ་གནད་སེལ་བ།
 
 
 ### ༤ འཚོལ་བཤེར་ཞུ་དག  Proofreading with Regular Expressions (FY 2018)  (FY 2019 BudaX)
-
-
-    ༡ ཚབ་བཤེར་དང་པོ།
-
-
-    ༢ ཚབ་བཤེར་གཉིས་པ།
-
-
-    ༣ ཚབ་བཤེར་གསུམ་པ།
+༡ ཚབ་བཤེར་དང་པོ།
+༢ ཚབ་བཤེར་གཉིས་པ།
+༣ ཚབ་བཤེར་གསུམ་པ།
 
 
 ### ༥ གྷི་ཊི་མཉམ་འབྲེལ་ཞུ་དག  Collaborative proofreading with Gitee (FY 2019 BudaX)
@@ -318,74 +264,36 @@ Scanning - **Using the BDRC preservation manual
 
 
 ### ༢ འཕྲུལ་དེབ་སྒྲིག་སྟངས། (རྐྱང་པ།) Creating simple ePubs (FY 2019 BudaX) 
-
-
-    ༡ འཕྲུལ་དེབ་སྒྲིག་ཐབས། Building ePubs 
-
-
-    ༢ ས་བཅད་སྒྲིག་སྟངས། TOCs
-
-
-    ༣ ཤོ་ལོ་ཀ་སྒྲིག་ཚུལ། Verses
-
-
-    ༤ མཛེས་བཟོ། Formatting
-
-
-    ༥ དཀའ་གནད་སེལ་བ། Troubleshooting
-
-
-     
-
+༡ འཕྲུལ་དེབ་སྒྲིག་ཐབས། Building ePubs 
+༢ ས་བཅད་སྒྲིག་སྟངས། TOCs
+༣ ཤོ་ལོ་ཀ་སྒྲིག་ཚུལ། Verses
+༤ མཛེས་བཟོ། Formatting
+༥ དཀའ་གནད་སེལ་བ། Troubleshooting
 
 ### ༣ སྒྲ་ལྡན་འཕྲུལ་དེབ། Interactive ePubs (text and audio) (FY 2020 BudaX)
-
-
-    ༡ སྒྲ་གྲ་སྒྲིག་བྱེད་སྟངས། Preparing audio files
-
-
-    ༢ སྒྲ་ཡིག་མཉམ་སྦྱོར། Aligning text and audio
-
-
-    ༣ འཕྲུལ་དེབ་སྒྲིག་སྟངས། Building the interactive epubs
-
-
-    ༤ དཀའ་གནད་སེལ་བ། Troubleshooting
-
+༡ སྒྲ་གྲ་སྒྲིག་བྱེད་སྟངས། Preparing audio files
+༢ སྒྲ་ཡིག་མཉམ་སྦྱོར། Aligning text and audio
+༣ འཕྲུལ་དེབ་སྒྲིག་སྟངས། Building the interactive epubs
+༤ དཀའ་གནད་སེལ་བ། Troubleshooting
 
 ### ༤  问卷星དྲ་ཚིགས་ནང་སློབ་ཚན་བཟོ་སྟངས། Using wjx.cn (FY 2018)
-
-	༡ བསམ་འཆར་བསྡུ་ལེན་ཤོག Creating surveys
-
+༡ བསམ་འཆར་བསྡུ་ལེན་ཤོག Creating surveys
 ༢ སློབ་ཚན་བཟོ་སྟངས། Creating mini-courses
 
-
 ### ༥  རིམ་ལྡན་རྩོམ་རིག་བྲིས་སྟངས། Leveling texts (FY 2019 BudaX)
-
-	༡ མ་ཚིག་སོགས་བརྩི་ཚུལ། Statistical analysis of etexts
-
+༡ མ་ཚིག་སོགས་བརྩི་ཚུལ། Statistical analysis of etexts
 ༢ རྩོམ་གྱི་རིམ་པ་བརྟག་ཐབས། Automated categorization of texts by topics/reading difficulty
-
 ༣ རིམ་ལྡན་རྩོམ་རིགས་འབྲི་ཚུལ། Leveling literature
 
-
 ### ༦  ཆེད་ལས་རིམ་ལྡན་རྩོམ་རིག་བྲིས་སྟངས། Leveling specialized texts (FY 2020 BudaX)
-
-	༡ མ་ཚིག་སོགས་བརྩི་ཚུལ། Keyness analysis of etexts
-
+༡ མ་ཚིག་སོགས་བརྩི་ཚུལ། Keyness analysis of etexts
 ༢ ཆེད་ལས་ཀྱི་སློབ་ཚན་སོགས་སྒྲིགས་ཚུལ། Writing leveled specialized educational material  
 
-
 ### ༧  ཚིག་མཛོད་རིག་པའི་མཉེན་ཆས་བཀོལ་སྟངས། Corpus based lexicography  (FY 2020 BudaX)
-
-	༡ མ་ཚིག་སོགས་བརྩི་ཚུལ། Using Sketchengine and Wordsmith
-
+༡ མ་ཚིག་སོགས་བརྩི་ཚུལ། Using Sketchengine and Wordsmith
 ༢ ཆེད་ལས་ཀྱི་སློབ་ཚན་སོགས་སྒྲིགས་ཚུལ། Organizing word senses
-
 ༣ ཆེད་ལས་ཀྱི་སློབ་ཚན་སོགས་སྒྲིགས་ཚུལ། Extracting word relations
-
 ༤ ཆེད་ལས་ཀྱི་སློབ་ཚན་སོགས་སྒྲིགས་ཚུལ། Writing definitions in plain Tibetan
-
 
 # 5 དུས་རབས་༢༡པའི་དཔེ་མཛོད་དོ་དམ་པ། 21st Century Librarian
 
@@ -397,21 +305,12 @@ Scanning - **Using the BDRC preservation manual
 
 
 ### ༡ ལོ་ཙ་མཉེན་ཆས། Using CAT Tools
-
-
-    ༡ 
-
-
-    ༢ 
-
+༡ 
+༢ 
 
 ### ༢ ཡིག་འགྱུར་མཛོད། Translation Memories
-
-
-    ༡ ཡིག་ཆ་ཤན་སྦྱར་བྱེད་སྟངས།
-
-
-    ༢ .tmx ཡིག་ཆ་བཟོ་སྟངས།
+༡ ཡིག་ཆ་ཤན་སྦྱར་བྱེད་སྟངས།
+ ༢ .tmx ཡིག་ཆ་བཟོ་སྟངས།
 
 
     
