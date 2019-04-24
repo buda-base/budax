@@ -37,7 +37,7 @@
 1. [བཀོལ་སྤྱོད། Using BDRC DLDs (FY 2018)](https://www.wjx.cn/pq/30707378.aspx?t=636916103547378000)
 2. པར་བསྐྲུན་མ་ཕྱི། Using the print masters (FY 2018)
 
-A. Wjx-DLD (2019)
+> Wjx-DLD (2019)
 1. [འཁྱེར་བདེ་ཡིག་མཛོད་བཀོལ་ཚུལ་གྱི་སློབ་ཚན།](https://www.wjx.top/jq/27964601.aspx?t=636725308606164713) 
 2. [ནགས་ཕྱི་འཚོལ་ཆས། ](https://ks.wjx.top/jq/28481516.aspx)
 3. [ཁོ་ཌི་མཉེན་ཆས། ](https://ks.wjx.top/jq/28014977.aspx)
