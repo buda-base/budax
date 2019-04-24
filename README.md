@@ -107,12 +107,12 @@ C. (BudaX) བུངྷ་དྲ་སྟེགས།(2019)
 
 ### རྣམ་གསལ་ཡིག་འཛིན་མཉེན་ཆས། (Namsel OCR—BudaX, Google Site, Github)
 
-A. Budax
+ 'Budax'
 1. [བཀོལ་ཐབས། Using Namsel OCR  (FY 2019)](https://www.budax.org/courses/course-v1:BDRC+OCR.108+2019/info)
 2. པར་གྲ་སྒྲིག་བྱེད་སྟངས། Preparing images with XnView  (FY 2019)
 3. དཀའ་གནད་སེལ་བ། Troubleshooting  (FY 2019)
 
-B. Google Site)དགོས་དགུ་དྲ་སྟེགས་ཀྱི་སློབ་ཚན།
+'Google Site དགོས་དགུ་དྲ་སྟེགས་ཀྱི་སློབ་ཚན།'
 1. [བཀོལ་ཐབས། Using Namsel OCR  (FY 2019)](https://sites.google.com/s/1eYmhxD4xt3xEPNpAdBll_ivVGwVLO3yZ/p/1tCRhouzJWI_gV0McAkBqcNRLIFs4qdPi/edit)
 
 C. (Github) གྷི་ཐབ་དྲ་སྟེགས་སྟང་གི་སློབ་ཚན།(for windows and Mac)
