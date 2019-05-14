@@ -50,7 +50,7 @@
 4. [གྲོག་མ་ཡིག་རྐྱང་བཟོ་ཆས། ](https://ks.wjx.top/jq/28339309.aspx)
 5. [ཡིག་ཆའི་མཚན་བྱང་སྒོ་ནས་འཚོལ་སྟངས། ](https://ks.wjx.top/jq/27943752.aspx)
 
-B. Google Site དགོས་དགུ་དྲ་སྟེགས་ཀྱི་སློབ་ཚན།(2019)
+> Google Site དགོས་དགུ་དྲ་སྟེགས་ཀྱི་སློབ་ཚན།(2019)
 1. [Using the BDRC Pen-drive འཁྱེར་བདེ་ཡིག་མཛོད་བཀོལ་ཚུལ་གྱི་སློབ་ཚན།](https://sites.google.com/s/1eYmhxD4xt3xEPNpAdBll_ivVGwVLO3yZ/p/1yQX3OuX3x4I-Hl61AIR2so0txX7kJdD9/edit)
 2. [Advanced etext search with Docfetcher ནགས་བྱི་འཚོལ་ཆས།](https://sites.google.com/s/1eYmhxD4xt3xEPNpAdBll_ivVGwVLO3yZ/p/1yQX3OuX3x4I-Hl61AIR2so0txX7kJdD9/edit)
 3. [Concordances with VS Code ཁོ་ཌི་མཉེན་ཆས་གྱི་སྐོར།](https://sites.google.com/s/1eYmhxD4xt3xEPNpAdBll_ivVGwVLO3yZ/p/1yQX3OuX3x4I-Hl61AIR2so0txX7kJdD9/edit)
