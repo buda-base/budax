@@ -228,13 +228,11 @@
 
 ### དཔེ་མཛོད་མཉེན་ཆས་བཀོལ་ཐབས། Using library Management Systems (FY 2020 BudaX)
 1. 
-2. 
 
 # དུས་རབས་༢༡པའི་ལོ་ཙཱ་བ། 21st Century Translator
 
 ### ལོ་ཙ་མཉེན་ཆས། Using CAT Tools
 1. 
-2. 
 
 ### ཡིག་འགྱུར་མཛོད། Translation Memories
 1. ཡིག་ཆ་ཤན་སྦྱར་བྱེད་སྟངས།
@@ -251,14 +249,11 @@
 1. TutorMeet basics
 2. TutorMeet advanced features
 
-### edx སྒང་སློབ་ཚན་སྒྲིག་སྟངས། Creating Course on Edx
+### edx སྒང་སློབ་ཚན་སྒྲིག་སྟངས། Creating Courses on Edx
 > Budax བུདྷ་དྲ་སྟེགས། 
 [MSC101 edx སློབ་ཚན་སྒྲིག་སྟངས། ](https://www.budax.org/courses/course-v1:BDRC+staff01+2018/about)
 
-### སྐད་བརྡ་རིག་པ། Linguistic
-1. Syntax Tree
-2. Part of Speech
+### སྐད་བརྡ་རིག་པ། Linguistics Courses
+1. བརྡ་སྤྲོད་སྡོང་པོ་ཇི་ལྟར་འགྲེམ་ཚུལ། Building Syntax Trees
+2. ཚིག་གཤིས་འགར་ཚུལ། Part of Speech Tagging
 
-### ད་སྔ་བཟོས་མེད་པའི་སློབ་ཚན།
-1. གྷི་ཐབ། Github
-2. Labelbox
