@@ -135,7 +135,7 @@
  Online Documents & Collaborative Proofreading
 1. [ཧྲི་མོ་མཉེན་ཆས་བཀོལ་ཐབས](https://ks.wjx.top/jq/26244576.aspx)། Using shimo.im  (FY 2018)  (FY 2020 BudaX)
 2. དཀའ་གནད་སེལ་བ།
-
+3. Labelbox
 ### དཔེ་བསྡུར་བྱེད་ཐབས། Diffmerge དཔེར་བསྡུར་མཉེན་ཆས།
 > Budax བུདྷ་དྲ་སྟེགས། 
 1. [AD05 དཔེ་བསྡུར་བྱེད་ཚུལ།](https://www.budax.org/courses/course-v1:BDRC+TEST01+2018_T1/about)
@@ -238,4 +238,10 @@
 > Budax བུདྷ་དྲ་སྟེགས། 
 [MSC101 edx སློབ་ཚན་སྒྲིག་སྟངས། ](https://www.budax.org/courses/course-v1:BDRC+staff01+2018/about)
 
+### སྐད་བརྡ་རིག་པ། Linguistic
+1. Syntax Tree
+2. Part of Speech
 
+### ད་སྔ་བཟོས་མེ་དཔའི་སློབ་ཚན།
+1. གྷི་ཐབ། Github
+2. Labelbox
