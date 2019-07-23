@@ -7,6 +7,7 @@
 - [དུས་རབས་༢༡པའི་རྩོམ་སྒྲིག་པ། 21st Century Author](https://github.com/buda-base/budax/blob/master/README.md#%E0%BD%91%E0%BD%B4%E0%BD%A6%E0%BD%A2%E0%BD%96%E0%BD%A6%E0%BC%A2%E0%BC%A1%E0%BD%94%E0%BD%A0%E0%BD%B2%E0%BD%A2%E0%BE%A9%E0%BD%BC%E0%BD%98%E0%BD%A6%E0%BE%92%E0%BE%B2%E0%BD%B2%E0%BD%82%E0%BD%94-21st-century-author)
 - [དུས་རབས་༢༡པའི་དཔེ་མཛོད་དོ་དམ་པ། 21st Century Librarian](https://github.com/buda-base/budax/blob/master/README.md#%E0%BD%91%E0%BD%B4%E0%BD%A6%E0%BD%A2%E0%BD%96%E0%BD%A6%E0%BC%A2%E0%BC%A1%E0%BD%94%E0%BD%A0%E0%BD%B2%E0%BD%91%E0%BD%94%E0%BD%BA%E0%BD%98%E0%BD%9B%E0%BD%BC%E0%BD%91%E0%BD%91%E0%BD%BC%E0%BD%91%E0%BD%98%E0%BD%94-21st-century-librarian)
 - [དུས་རབས་༢༡པའི་ལོ་ཙཱ་བ། 21st Century Translator](https://github.com/buda-base/budax/blob/master/README.md#%E0%BD%91%E0%BD%B4%E0%BD%A6%E0%BD%A2%E0%BD%96%E0%BD%A6%E0%BC%A2%E0%BC%A1%E0%BD%94%E0%BD%A0%E0%BD%B2%E0%BD%A3%E0%BD%BC%E0%BD%99%E0%BD%B1%E0%BD%96-21st-century-translator)
+- [དུས་རབས་༢༡པའི་ལོ་ཙཱ་བ། 21st Century Teacher]()
 
 
 # དུས་རབས་༢༡པའི་དཔེ་ཆ་བ། 21st Century Pecha Reader
@@ -222,3 +223,8 @@
 1. ཡིག་ཆ་ཤན་སྦྱར་བྱེད་སྟངས།
 2. tmx ཡིག་ཆ་བཟོ་སྟངས།
 
+# དུས་རབས་༢༡པའི་དགེ་རྒན། 21st Century Teacher
+
+### Zoom མཉེན་ཆས་བརྒྱུད་ནས་དྲ་ཐོག་སློབ་ཁྲིད་བྱེད་ཐབས། Teaching online with Zoom
+1. 
+2. 
