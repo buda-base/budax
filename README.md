@@ -164,8 +164,19 @@
 3. ཚབ་བཤེར་གསུམ་པ།
 
 ### གྷི་ཊི་མཉམ་འབྲེལ་ཞུ་དག  Collaborative proofreading with Gitee (FY 2019 BudaX)
+1.
+2.
+3.
 
 ### ཞུ་དག་མཉེན་ཆས་བཀོལ་ཚུལ། Proofreading with Pybo and BoSpell (FY 2019 BudaX)
+1.
+2.
+3.
+
+### CMD ནང་དུ་ཡིག་ཆའི་མིང་སྡེབ་གཅིག་ལ་བརྗེ་སྟངས།  Batch file renaming with CMD
+1.
+2.
+3.
 
 
 # དུས་རབས་༢༡པའི་རྩོམ་སྒྲིག་པ། 21st Century Author
