@@ -136,6 +136,12 @@
 1. [ཧྲི་མོ་མཉེན་ཆས་བཀོལ་ཐབས](https://ks.wjx.top/jq/26244576.aspx)། Using shimo.im  (FY 2018)  (FY 2020 BudaX)
 2. དཀའ་གནད་སེལ་བ།
 3. Labelbox
+
+### དཔེ་བསྡུར་བྱེད་ཐབས། Sublime Merge དཔེར་བསྡུར་མཉེན་ཆས།
+1.
+2.
+3.
+
 ### དཔེ་བསྡུར་བྱེད་ཐབས། Diffmerge དཔེར་བསྡུར་མཉེན་ཆས།
 > Budax བུདྷ་དྲ་སྟེགས། 
 1. [AD05 དཔེ་བསྡུར་བྱེད་ཚུལ།](https://www.budax.org/courses/course-v1:BDRC+TEST01+2018_T1/about)
