@@ -225,6 +225,13 @@
 
 # དུས་རབས་༢༡པའི་དགེ་རྒན། 21st Century Teacher
 
-### Zoom མཉེན་ཆས་བརྒྱུད་ནས་དྲ་ཐོག་སློབ་ཁྲིད་བྱེད་ཐབས། Teaching online with Zoom
-1. 
-2. 
+### Zoom མཉེན་ཆས་བརྒྱུད་ནས་དྲ་ཐོག་སློབ་ཁྲིད་བྱེད་ཐབས། Teaching Online with Zoom
+1. Zoom Basics
+2. Zoom Remote Control 
+3. Zoom Whiteboard and Other Features
+
+### TutorMeet མཉེན་ཆས་བརྒྱུད་ནས་དྲ་ཐོག་སློབ་ཁྲིད་བྱེད་ཐབས། Teaching Online with TutorMeet
+1. TutorMeet Basics
+2. TutorMeet Advanced Features
+
+
