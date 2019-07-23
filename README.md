@@ -66,7 +66,7 @@
 4. [ཁོ་ཌི་མཉེན་ཆས་ནང་མཚན་ཉིད་འཚོལ་ཚུལ།](https://ks.wjx.top/jq/28051569.aspx)
 5. [ཁོ་ཌི་མཉེན་ཆས་ནང་ལུང་ཚིག་འཚོལ་ཚུལ།](https://ks.wjx.top/jq/28050596.aspx)
 6. [སྒེའུ་ཁུང་དང་ཀུ་ཤུ་གློག་ཀླད་ནང་དཔེ་ཆའི་མཚན་བྱང་སྒོ་ནས་འཚོལ་ཚུལ།](https://ks.wjx.top/jq/27943752.aspx)
-7. [ཡིག་རྐྱང་བཟོ་ཆས་བཀོལ་སྟངས། Ant File converter](https://ks.wjx.top/jq/28339309.aspx)
+7. [ཡིག་རྐྱང་བཟོ་ཆས་བཀོལ་སྟངས། Ant file converter](https://ks.wjx.top/jq/28339309.aspx)
 8. [ནགས་བྱི་འཚོལ་ཆས་བཀོལ་ཚུལ། Docfetcher](https://ks.wjx.top/jq/28481516.aspx)
 
 ### ཀུན་གསལ་མེ་ལོང་། ADARSHA 
@@ -79,8 +79,8 @@
 
 ### སྨོན་ལམ་ཚིག་མཛོད། MONLAM Dictionary 
 1. [སྒེའུ་ཁུང་། Using the dictionary on Windows](https://ks.wjx.top/jq/26567994.aspx)  (FY 2018)
-2. [ཀུ་ཤུ་Using the dictionary on Mac](https://ks.wjx.top/jq/26988253.aspx)  (FY 2018)
-3. [ཚིག་མཛོད་ཆེན་མོ། Using the Grand dictionary on Windows](https://ks.wjx.top/jq/26735503.aspx)  (FY 2018)
+2. [ཀུ་ཤུ Using the dictionary on Mac](https://ks.wjx.top/jq/26988253.aspx)  (FY 2018)
+3. [ཚིག་མཛོད་ཆེན་མོ། Using the grand dictionary on Windows](https://ks.wjx.top/jq/26735503.aspx)  (FY 2018)
 
 ### CBETA
 1. བཀོལ་ཐབས། Using CBETA (FY 2018)
@@ -138,8 +138,8 @@
 1. [AD05 དཔེ་བསྡུར་བྱེད་ཚུལ།](https://www.budax.org/courses/course-v1:BDRC+TEST01+2018_T1/about)
 
 > Wjx དྲ་སྟེགས།
-1. [ Word དཔེ་བསྡུར་བྱ་ཐབས།](https://ks.wjx.top/jq/25734022.aspx) Compared Proofreading with MS Word  (FY 2018)
-2. [ཁོ་ཌི་མཉེན་ཆས་སྤྱིའི་བཀོལ་ཐབས།](https://ks.wjx.top/jq/25816582.aspx) Compared Proofreading with VS Code
+1. [ Word དཔེ་བསྡུར་བྱ་ཐབས།](https://ks.wjx.top/jq/25734022.aspx) Compared proofreading with MS Word  (FY 2018)
+2. [ཁོ་ཌི་མཉེན་ཆས་སྤྱིའི་བཀོལ་ཐབས།](https://ks.wjx.top/jq/25816582.aspx) Compared proofreading with VS Code
 4. [དཔེ་བསྡུར་བྱེད་སྟངས།](https://ks.wjx.top/jq/25231684.aspx) Compared Proofreading with DiffMerge
 5. དཀའ་གནད་སེལ་བ།
 
@@ -201,15 +201,16 @@
 2. ཆེད་ལས་ཀྱི་སློབ་ཚན་སོགས་སྒྲིགས་ཚུལ། Writing leveled specialized educational material  
 
 ### ཚིག་མཛོད་རིག་པའི་མཉེན་ཆས་བཀོལ་སྟངས། Corpus based lexicography  (FY 2020 BudaX)
-1. མ་ཚིག་སོགས་བརྩི་ཚུལ། Using Sketchengine and Wordsmith
-2. ཆེད་ལས་ཀྱི་སློབ་ཚན་སོགས་སྒྲིགས་ཚུལ། Organizing word senses
-3. ཆེད་ལས་ཀྱི་སློབ་ཚན་སོགས་སྒྲིགས་ཚུལ། Extracting word relations
-4. ཆེད་ལས་ཀྱི་སློབ་ཚན་སོགས་སྒྲིགས་ཚུལ། Writing definitions in plain Tibetan
+1. Normalizing etext with Pybo
+2. མ་ཚིག་སོགས་བརྩི་ཚུལ། Using Sketchengine and Wordsmith
+3. ཆེད་ལས་ཀྱི་སློབ་ཚན་སོགས་སྒྲིགས་ཚུལ། Organizing word senses
+4. ཆེད་ལས་ཀྱི་སློབ་ཚན་སོགས་སྒྲིགས་ཚུལ། Extracting word relations
+5. ཆེད་ལས་ཀྱི་སློབ་ཚན་སོགས་སྒྲིགས་ཚུལ། Writing definitions in plain Tibetan
 
 
 # དུས་རབས་༢༡པའི་དཔེ་མཛོད་དོ་དམ་པ། 21st Century Librarian
 
-### དཔེ་མཛོད་མཉེན་ཆས་བཀོལ་ཐབས། Using library management systems (FY 2020 BudaX)
+### དཔེ་མཛོད་མཉེན་ཆས་བཀོལ་ཐབས། Using library Management Systems (FY 2020 BudaX)
 1. 
 2. 
 
@@ -226,12 +227,12 @@
 # དུས་རབས་༢༡པའི་དགེ་རྒན། 21st Century Teacher
 
 ### Zoom མཉེན་ཆས་བརྒྱུད་ནས་དྲ་ཐོག་སློབ་ཁྲིད་བྱེད་ཐབས། Teaching Online with Zoom
-1. Zoom Basics
-2. Zoom Remote Control 
-3. Zoom Whiteboard and Other Features
+1. Zoom basics
+2. Zoom remote control 
+3. Zoom whiteboard and other features
 
 ### TutorMeet མཉེན་ཆས་བརྒྱུད་ནས་དྲ་ཐོག་སློབ་ཁྲིད་བྱེད་ཐབས། Teaching Online with TutorMeet
-1. TutorMeet Basics
-2. TutorMeet Advanced Features
+1. TutorMeet basics
+2. TutorMeet advanced features
 
 
