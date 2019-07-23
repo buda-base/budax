@@ -161,7 +161,7 @@
 
 # དུས་རབས་༢༡པའི་རྩོམ་སྒྲིག་པ། 21st Century Author
 
-### edx སྒང་སློབ་ཚན་སྒྲིག་སྟངས། 
+### edx སྒང་སློབ་ཚན་སྒྲིག་སྟངས། Creating Course on Edx
 > Budax བུདྷ་དྲ་སྟེགས། 
 [MSC101 edx སློབ་ཚན་སྒྲིག་སྟངས། ](https://www.budax.org/courses/course-v1:BDRC+staff01+2018/about)
 
