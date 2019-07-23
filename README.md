@@ -126,6 +126,9 @@
 > BudaX བུངྷ་དྲ་སྟེགས།
 [DPP101 ཨང་བསྒྱུར་ཚད་གཞི། ](https://www.budax.org/courses/course-v1:BDRC+Staff02+2018/about)
 
+### Transcribus ཡིག་འཛིན་མཉེན་ཆས། Transcribus OCR 
+> 
+
 # དུས་རབས་༢༡པའི་ཞུ་དག་པ། 21st Century Proofreader
 
 ### དྲ་ཐོག་ཡིག་ཆ་དང་མཉམ་འབྲེལ་ཞུ་དག (shimo.im) (Word 2007) 
