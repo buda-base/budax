@@ -161,10 +161,6 @@
 
 # དུས་རབས་༢༡པའི་རྩོམ་སྒྲིག་པ། 21st Century Author
 
-### edx སྒང་སློབ་ཚན་སྒྲིག་སྟངས། Creating Course on Edx
-> Budax བུདྷ་དྲ་སྟེགས། 
-[MSC101 edx སློབ་ཚན་སྒྲིག་སྟངས། ](https://www.budax.org/courses/course-v1:BDRC+staff01+2018/about)
-
 ### པར་འདེབས་མ་ཕྱི། Creating Print masters (FY 2019)
 > Budax བུདྷ་དྲ་སྟེགས། 
 1. [AD04C པར་འདེབས་མ་ཕྱི་སློབ་ཚན། (རྒྱ་ཡིག)](https://www.budax.org/courses/course-v1:BDRC+Print105+2019/about)
@@ -234,5 +230,9 @@
 ### TutorMeet མཉེན་ཆས་བརྒྱུད་ནས་དྲ་ཐོག་སློབ་ཁྲིད་བྱེད་ཐབས། Teaching Online with TutorMeet
 1. TutorMeet basics
 2. TutorMeet advanced features
+
+### edx སྒང་སློབ་ཚན་སྒྲིག་སྟངས། Creating Course on Edx
+> Budax བུདྷ་དྲ་སྟེགས། 
+[MSC101 edx སློབ་ཚན་སྒྲིག་སྟངས། ](https://www.budax.org/courses/course-v1:BDRC+staff01+2018/about)
 
 
