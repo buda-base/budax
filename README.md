@@ -178,7 +178,6 @@
 2.
 3.
 
-
 # དུས་རབས་༢༡པའི་རྩོམ་སྒྲིག་པ། 21st Century Author
 
 ### པར་འདེབས་མ་ཕྱི། Creating Print masters (FY 2019)
