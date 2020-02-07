@@ -124,10 +124,21 @@
 
 ### བཤེར་འབེབས་བྱེད་ཚུལ། 
 > BudaX བུངྷ་དྲ་སྟེགས།
-[DPP101 ཨང་བསྒྱུར་ཚད་གཞི། ](https://www.budax.org/courses/course-v1:BDRC+Staff02+2018/about)
+1. [DPP101 ཨང་བསྒྱུར་ཚད་གཞི། ](https://www.budax.org/courses/course-v1:BDRC+Staff02+2018/about)
+
+> Github Site གྷི་ཐབ་དྲ་སྟེགས་སྟེང་གི་སློབ་ཚན།
+1. [ཨང་བསྒྱུར་ལག་ལེན་མཛུབ་སྟོན། Digitization Guidelines](https://github.com/buda-base/digitization-guidelines/wiki)
 
 ### Transcribus ཡིག་འཛིན་མཉེན་ཆས། Transcribus OCR 
 > 
+
+### XnView མཉེན་ཆས། 
+> Github Site གྷི་ཐབ་དྲ་སྟེགས་སྟེང་གི་སློབ་ཚན།
+1. [བཀོལ་ཐབས།](https://github.com/buda-base/digitization-guidelines/wiki/08.-XNView-Manual-MPXNView-MP-%E0%BD%96%E0%BD%80%E0%BD%BC%E0%BD%A3%E0%BC%8B%E0%BD%A6%E0%BE%9F%E0%BD%84%E0%BD%A6%E0%BC%8D-XNView-MP-%E7%94%A8%E6%88%B7%E6%89%8B%E5%86%8C)
+
+### Scantailor མཉེན་ཆས།
+> Github Site གྷི་ཐབ་དྲ་སྟེགས་སྟེང་གི་སློབ་ཚན།
+1. [བཀོལ་ཐབས།](https://github.com/buda-base/digitization-guidelines/wiki/09.-ScanTailor-%E0%BD%98%E0%BD%89%E0%BD%BA%E0%BD%93%E0%BC%8B%E0%BD%86%E0%BD%A6%E0%BC%8B%E0%BD%84%E0%BD%BC%E0%BC%8B%E0%BD%A6%E0%BE%A4%E0%BE%B2%E0%BD%BC%E0%BD%91%E0%BC%8D)
 
 # དུས་རབས་༢༡པའི་ཞུ་དག་པ། 21st Century Proofreader
 
