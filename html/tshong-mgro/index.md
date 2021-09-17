@@ -32,16 +32,16 @@
   
 🔊 སློབ་ཚན་འདི་བླངས་རྗེས་དྲ་ཐག་རེ་རེའི་སྟེང་བསྣུན་ཏེ་རྗེས་མ་རྣམས་ལ་གཟིགས།  
   
-༡༽  👉 ལིན་ཁེ་ལས་དཔེ་གཞིའི་སློབ་ཚན། [Lean Business Canvas](https://r.wjx.com/redirect.aspx?url=https%3A%2F%2Fwww.wjx.cn%2Fwjx%2Fdesign%2Fpreviewq.aspx%3Factivity%3D101024415%26s%3D1&activity=101186626)  
+༡༽  👉 ལིན་ཁེ་ལས་དཔེ་གཞིའི་སློབ་ཚན། [Lean Business Canvas](=101186626)  
 ༢༽  👉ཚོང་མགྲོམ་གྱི་རིགས་དབྱེ། Customer Segments  
-༣༽  👉 ཚོང་མགྲོན་གྱི་དཀའ་ངལ་ངོས་འཛིན། [Problem](https://r.wjx.com/redirect.aspx?url=https%3A%2F%2Fwww.wjx.cn%2Fnewwjx%2Fjoin%2Fjqnew.aspx%3Fq%3D101336590%26w%3D1%26t%3D637438001705476371&activity=101186626)  
-༤༽  👉 ཡོང་འབབ་ཀྱི་ཁུངས། [Revenue Stream](https://r.wjx.com/redirect.aspx?url=https%3A%2F%2Fwww.wjx.cn%2Fwjx%2Fdesign%2Fpreviewq.aspx%3Factivity%3D101446095%26s%3D1&activity=101186626)  
-༥༽  👉 དཀའ་ངལ་སེལ་ཐབས། [Solution](https://r.wjx.com/redirect.aspx?url=https%3A%2F%2Fwww.wjx.cn%2Fnewwjx%2Fjoin%2Fjqnew.aspx%3Fq%3D101481846%26w%3D1%26t%3D637438232463287893&activity=101186626)  
-༦༽  👉 ཐུན་མིན་བཙོང་བྱ། [Unique Value Proposition](https://r.wjx.com/redirect.aspx?url=https%3A%2F%2Fwww.wjx.cn%2Fwjx%2Fdesign%2Fpreviewq.aspx%3Factivity%3D101512337%26s%3D1&activity=101186626)  
-༧༽  👉 བརྒྱུད་ལམ་ཁག [Distribution Channels](https://r.wjx.com/redirect.aspx?url=https%3A%2F%2Fwww.wjx.cn%2Fnewwjx%2Fjoin%2Fjqnew.aspx%3Fq%3D101604490%26w%3D1%26t%3D637439041157730575&activity=101186626)  
-༨༽  👉 ཚོང་གི་ཚད་གཞི་གཙོ་བོ་ཁག [Key Metrics](https://r.wjx.com/redirect.aspx?url=https%3A%2F%2Fwww.wjx.cn%2Fnewwjx%2Fjoin%2Fjqnew.aspx%3Fq%3D101626706%26w%3D1%26t%3D637441507815758608&activity=101186626)  
-༩༽  👉 འགྲོ་སོང་ཁག [Cost Structure](https://r.wjx.com/redirect.aspx?url=https%3A%2F%2Fwww.wjx.cn%2Fnewwjx%2Fjoin%2Fjqnew.aspx%3Fq%3D101872331%26w%3D1%26t%3D637441663364674019&activity=101186626)  
-༡༠༽ 👉 འགྲན་མེད་ཁྱད་ཆོས། [Unfair Advantage](https://r.wjx.com/redirect.aspx?url=https%3A%2F%2Fwww.wjx.cn%2Fwjx%2Fdesign%2Fpreviewq.aspx%3Factivity%3D101909269%26s%3D1&activity=101186626)  
+༣༽  👉 ཚོང་མགྲོན་གྱི་དཀའ་ངལ་ངོས་འཛིན། [Problem](=101186626)  
+༤༽  👉 ཡོང་འབབ་ཀྱི་ཁུངས། [Revenue Stream](=101186626)  
+༥༽  👉 དཀའ་ངལ་སེལ་ཐབས། [Solution](=101186626)  
+༦༽  👉 ཐུན་མིན་བཙོང་བྱ། [Unique Value Proposition](=101186626)  
+༧༽  👉 བརྒྱུད་ལམ་ཁག [Distribution Channels](=101186626)  
+༨༽  👉 ཚོང་གི་ཚད་གཞི་གཙོ་བོ་ཁག [Key Metrics](=101186626)  
+༩༽  👉 འགྲོ་སོང་ཁག [Cost Structure](=101186626)  
+༡༠༽ 👉 འགྲན་མེད་ཁྱད་ཆོས། [Unfair Advantage](=101186626)  
  
 
 

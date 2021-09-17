@@ -42,7 +42,7 @@ VS Code上设置工作区的课程
   
 ༡༽ མཉེན་ཆས་འདི་སྒེའུ་ཁུང་རྟགས་ཅན་གྱི་གློག་ཀླད་ནང་ཕབ་ལེན་བྱེད་སྟངས། 此软件下载到Windows程序  
   
-🢣 ༡ དྲ་ཐག་([དྲ་ཐག](https://r.wjx.com/redirect.aspx?url=https%3A%2F%2Fpc.qq.com%2Fdetail%2F16%2Fdetail_22856.html&activity=98759910))འདིར་བསྣུན་ཏེ་ཐད་ཀར་ཕབ་ལེན་བྱོས། 点击在此[网站](https://r.wjx.com/redirect.aspx?url=https%3A%2F%2Fpc.qq.com%2Fdetail%2F16%2Fdetail_22856.html&activity=98860627)直接下载  
+🢣 ༡ དྲ་ཐག་([དྲ་ཐག](=98759910))འདིར་བསྣུན་ཏེ་ཐད་ཀར་ཕབ་ལེན་བྱོས། 点击在此[网站](=98860627)直接下载  
 🢣 ༢ 百度 དྲ་ཚིགས་སྒོ་ཕྱེས་ཏེ། 打开百度网站  
 🢣 ༣ Visual Studio Code 下载 བྲིས། 输入“Visual Studio Code 下载”  
 🢣 ༤ གཤམ་དུ་བཀོད་པའི་འགུལ་རིས་ནང་ལྟར་ཕབ་ལེན་བྱོས། 按照以下小视频下载  
@@ -50,9 +50,9 @@ VS Code上设置工作区的课程
  
 
 
-![Image](images/000001.png)  
+![Image](images/000001.gif)  
   
-![Image](images/000004.png)
+![Image](images/000004.gif)
 
 
  
