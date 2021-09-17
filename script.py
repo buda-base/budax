@@ -2,8 +2,6 @@ import pathlib
 import markdown
 from markdownify import markdownify as to_md
 
-
-
 def html2md(dir):
     matches = pathlib.Path(dir).glob("**/*.html")
     for match in matches:
@@ -33,10 +31,6 @@ def md2html(dir):
         print(html_path)
 
 
-dir = "html"
+dir = "tutorials"
 md2html(dir)
-
-    # match.parent.open()
-
-    # print(new)
 
