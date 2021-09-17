@@ -1,16 +1,42 @@
 import pathlib
-from markdownify import markdownify as md
+import markdown
+from markdownify import markdownify as to_md
 
-matches = pathlib.Path("md").glob("**/*.html")
 
 
-for match in matches:
-    # print(match)
-    content = match.read_text(encoding="utf-8")
+def html2md(dir):
+    matches = pathlib.Path(dir).glob("**/*.html")
+    for match in matches:
+        # print(match)
+        content = match.read_text(encoding="utf-8")
 
-    new = md(content)
+        md_content = to_md(content)
 
-    match.parent.open(f'{match.stem}.md')
+        md_path = pathlib.Path(f'{match.parent}/{match.stem}.md')
+
+        md_path.write_text(md_content, encoding="utf-8")
+
+        print(md_path)
+
+def md2html(dir):
+    matches = pathlib.Path(dir).glob("**/*.md")
+    for match in matches:
+        # print(match)
+        content = match.read_text(encoding="utf-8")
+
+        html_content = markdown.markdown(content)
+
+        html_path = pathlib.Path(f'{match.parent}/{match.stem}.html')
+
+        html_path.write_text(html_content, encoding="utf-8")
+
+        print(html_path)
+
+
+dir = "html"
+md2html(dir)
+
+    # match.parent.open()
 
     # print(new)
 
