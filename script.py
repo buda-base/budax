@@ -30,6 +30,6 @@ def md2html(dir):
 
         print(html_path)
 
-dir = "tutorials/pdf24"
+dir = "template"
 md2html(dir)
 
