@@ -11,7 +11,6 @@ settings.json
 *.pickled
 **/pybo.yaml
 
-
 # Created by https://www.gitignore.io/api/macos,pydev,python,eclipse,pycharm+all,visualstudio,visualstudiocode
 
 # User data
@@ -565,6 +564,5 @@ paket-files/
 ### VisualStudio Patch ###
 # By default, sensitive information, such as encrypted password
 # should be stored in the .pubxml.user file.
-
 
 # End of https://www.gitignore.io/api/macos,pydev,python,eclipse,pycharm+all,visualstudio,visualstudiocode
