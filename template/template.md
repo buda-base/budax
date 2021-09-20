@@ -2,7 +2,7 @@
 
 ## སྡེ་ཚན་དང་པོ། Section 1
 
-<iframe src="https://shimowendang.com/forms/DryQdhWtqGdx63D3/fill?channel=1" style="height:100px;width:800px;overflow:hidden;position: relative;top:-150px"></iframe>
+<p class="hide top"><iframe src="https://shimowendang.com/forms/DryQdhWtqGdx63D3/fill?channel=1" style="width:800px;"></iframe></p>
 
 བརྙན་འདི་ལ་གཟིགས་རོགས། 请观看以下的视频
 
@@ -28,6 +28,6 @@
 2.  ཧི་ཧི།
 3.  ཧུ་ཧུ།
 
-རྫོགས་སོང་།
+<p class="over">རྫོགས་སོང་།</p>
 
-<iframe src="https://shimowendang.com/forms/5FA92QePrLgG1m12/fill?channel=1" style="height:1500px;width:800px;overflow:hidden;position: relative;top:-156px;bottom:-100px"></iframe>
+<p class="hide top"><iframe src="https://shimowendang.com/forms/5FA92QePrLgG1m12/fill?channel=1" style="width:800px;height:1500px;"></iframe></p>
