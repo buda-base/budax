@@ -1,29 +1,28 @@
-import pathlib
+from pathlib import Path
 import markdown
-
-
-def filter(content):
-    questions = []
-    lines = content.readlines
-        
-    
-    return questions
+import re
 
 
 def get_questions(dir):
-    matches = pathlib.Path(dir).glob("**/*.md")
+    matches = Path(dir).glob("**/*.md")
     for match in matches:
-        # print(match)
+        print(match)
         content = match.read_text(encoding="utf-8")
+        lines = content.splitlines()
 
-        questions = filter(content)
+        for line in lines:
+            # print(line)
+            if re.match(r".+[༡-༩]༽", line) or re.match(r"😊", line):
+                print(line)
 
-        html_path = pathlib.Path(f'{match.parent}/{match.stem}.html')
+        # print(f"{match.stem}- {questions}")
 
-        html_path.write_text(html_content, encoding="utf-8")
+        # html_path = Path(f'{match.parent}/{match.stem}.html')
 
-        print(html_path)
+        # html_path.write_text(html_content, encoding="utf-8")
 
-dir = "tutorials/pdf24"
+        # print(html_path)
+
+dir = "tutorials/"
 get_questions(dir)
 
