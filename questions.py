@@ -1,10 +1,19 @@
 from pathlib import Path
-import markdown
 import re
+import csv
+
+
+def write_csv(path, data):
+    with open(path, 'w', encoding='UTF8') as f:
+        writer = csv.writer(f)
+        writer.writerows(data)
 
 
 def get_questions(dir):
     matches = Path(dir).glob("**/*.md")
+
+    data = []
+
     for match in matches:
         print(match)
         content = match.read_text(encoding="utf-8")
@@ -12,14 +21,14 @@ def get_questions(dir):
 
         for line in lines:
             # print(line)
-            if re.match(r".+[༡-༩]༽", line) or re.match(r"😊", line):
-                print(line)
+            if re.match(r".*[༡-༩]༽", line) or re.match(r".*○", line):
+                data.append([match.parent,line])
+        
 
-        # print(f"{match.stem}- {questions}")
+    questions_path = Path(f'data.csv')
 
-        # html_path = Path(f'{match.parent}/{match.stem}.html')
+    write_csv(questions_path, data)
 
-        # html_path.write_text(html_content, encoding="utf-8")
 
         # print(html_path)
 
