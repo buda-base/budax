@@ -28,6 +28,6 @@
 2.  ཧི་ཧི།
 3.  ཧུ་ཧུ།
 
-<p class="over">རྫོགས་སོང་།</p>
+རྫོགས་སོང་།
 
 <p class="hide top"><iframe src="https://shimowendang.com/forms/5FA92QePrLgG1m12/fill?channel=1" style="width:800px;height:1500px;"></iframe></p>
