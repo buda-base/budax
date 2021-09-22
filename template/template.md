@@ -6,7 +6,7 @@
 
 བརྙན་འདི་ལ་གཟིགས་རོགས། 请观看以下的视频
 
-<iframe frameborder="0" src="https://v.qq.com/txp/iframe/player.html?vid=f3275mut6yj" allowFullScreen="true" style="width:800px;height:480px;"></iframe>
+<p class="center"><iframe frameborder="0" src="https://v.qq.com/txp/iframe/player.html?vid=f3275mut6yj" allowFullScreen="true" style="width:800px;height:480px;"></iframe></p>
 
 ## སྡེ་ཚན་གཉིས་པ། Section 2
 
