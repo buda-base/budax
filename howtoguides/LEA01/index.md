@@ -1,6 +1,4 @@
-1 Customer Segments ཚོང་མགྲོན་གྱི་རིགས་དབྱེ།
-
-1 Customer Segments ཚོང་མགྲོན་གྱི་རིགས་དབྱེ།
+# 1 Customer Segments ཚོང་མགྲོན་གྱི་རིགས་དབྱེ།
 
 ![Image](images/00001.jpeg) 
 
