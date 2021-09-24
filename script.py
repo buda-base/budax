@@ -30,6 +30,7 @@ def md2html(dir):
 
         print(html_path)
 
-dir = "howtoguides"
-md2html(dir)
+
+md2html("menu")
+md2html("howtoguides")
 
