@@ -82,5 +82,5 @@ Docfetcher 搜索软件的使用方法。请详细浏览如何使用docfetcher �
 
 ![Image](images/0000092.gif)
 
-<p class="hide top"><iframe src="https://shimowendang.com/forms/QWQUqxmN6aQ8yMXF/fill?channel=1" style="height:1000px;width:800px;"></iframe></p>
+<p class="hide top"><iframe src="https://shimowendang.com/forms/QWQUqxmN6aQ8yMXF/fill?channel=1" style="height:1200px;width:800px;"></iframe></p>
 
