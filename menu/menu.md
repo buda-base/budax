@@ -6,11 +6,11 @@ Get more from BUDA's resources with our how-to guides.
 
 ### Getting started
 * BUD01 - creating an account on the BUDA platform
-* BUD02 - 
+* BUD02 - _coming soon_
 
 ### Advanced features of BUDA
-* BUD10
-* BUD11
+* BUD10 - _coming soon_
+* BUD11 - _coming soon_
 
 ### Downloading and using scanned images
 * PDF24 - PDF24 Creator的介绍 ངོ་སྤྲོད།
@@ -18,13 +18,12 @@ Get more from BUDA's resources with our how-to guides.
 ## BDRC mobile app how-to guides
 
 ### Basic usage
-* APP01 - 
-* APP02 - 
+* APP01 - _coming soon_
+* APP02 - _coming soon_
 
 ### App Settings
-* APP11 - 
-* APP12 - 
-
+* APP11 - _coming soon_
+* APP12 - _coming soon_
 
 
 ## Tools for etext analysis
@@ -43,10 +42,15 @@ Get more from BUDA's resources with our how-to guides.
 *   VSC03 - ཐ་སྙད་ཞིབ་འཇུག་གི་རྒྱུ་ཆ་འཚོལ་བསྡུ་བྱ་ཚུལ། 研究词汇的含义
 *   VSC04 - ཀཱར་ཥཱ་པ་ཎའི་སྐོར་གྱི་གཞི་གྲངས་བསྡུ་རུབ། 收集Karshapana一词的相关数据
 
-### Miscelaneous how-to guides
+
+## Contributing to the BUDA database
+
+### Scanning images for BUDA
+* SCN01 - _coming soon_
+
+### Preparing etexts for BUDA with Saymore
+* SAY01 - Saymoreམཉེན་ཆས་བཀོལ་ནས་དཔྱད་རྩོམ་གྱི་རྒྱུ་ཆ་བསྡུ་ཚུལ། 使用Saymore软件搜集论文资料
+
+## Miscelaneous how-to guides
 *   EDG01 - དབྱིན་ཡིག་བསྒྱུར་ཆས་སྤྱད་ནས་དཔྱད་རྩོམ་ཀློག་སྟངས། 使用 Edge翻译器阅读英文论文的方法
 *   FNT01 - ཡིག་གཟུགས་ཕན་ཚུན་བསྒྱུར་ཆས། Tibetan Font Converter 藏文的字体转换器
-*   SAY01 - Saymoreམཉེན་ཆས་བཀོལ་ནས་དཔྱད་རྩོམ་གྱི་རྒྱུ་ཆ་བསྡུ་ཚུལ། 使用Saymore软件搜集论文资料
-*   SRC01 - འཚོལ་བཤེར་དྲ་ཚིགས། 搜索引擎
-*   TPC01 - 缩小我的研究主题 དཔྱད་རྩོམ་གྱི་བརྗོད་བྱ་ཇེ་ཆུང་དུ་གཏོང་ཚུལ།
-
