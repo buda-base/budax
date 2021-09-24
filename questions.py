@@ -32,6 +32,6 @@ def get_questions(dir):
 
         # print(html_path)
 
-dir = "tutorials/"
+dir = "howtoguides/"
 get_questions(dir)
 
