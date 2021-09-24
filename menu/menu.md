@@ -1,5 +1,5 @@
 
-# BUDA HOw-to Guides
+# BUDA How-to Guides
 Get more from BUDA's resources with our how-to guides.
 
 ## BUDA website how-to guides
