@@ -48,19 +48,5 @@ Microsoft edge ནི་baidu དང་ Bing ལྟ་བུའི་འཚོ�
 
 ![Image](images/000011.gif)
 
-ཕོ་མོ། 您的性别 [单选题] *
-
-| ○ཕོ། 男 | ○མོ། 女 |
-
-ཁྱེད་ཀྱིས་བོད་སྐད་བཤད་ཤེས་སམ། 你会说藏语吗? [单选题] *
-
-| ○ཤེས། 会 | ○མི་ཤེས། 不会 |
-
-དྲི་བ་ཡོངས་ལ་ལན་བཏབ་རྗེས་འོག་གི་་སྤེལ་་ཟེར་བ་དེའི་སྟེང་བསྣུན་ན་དངོས་སུ་སྤེལ་འགྲོ་བ་ཡིན། ཐུགས་རྗེ་ཆེ།  
-
-完成所有的问题后请您点击“提交”， 谢谢！ 
-
-![Image](images/000004.gif)
-
-སྤེལ། 提交问卷
+<p class="hide top"><iframe src="https://shimowendang.com/forms/ztrMbGY2iPY6xNeq/fill?channel=1" style="height:1000px;width:800px;"></iframe></p>
 
