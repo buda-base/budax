@@ -50,4 +50,4 @@
 
 ![Image](images/000012.png)ཡིག་རྐྱང་ཡིག་མཛོད།-.txt文库 ནི་ཡིག་ཆའི་རིགས་(.txt)རྐྱང་པ་ཡོད་སའི་ཡིག་མཛོད་ཅིག་ཡིན། ཡིག་རྐྱང་ནི་རང་ཉིད་ཀྱི་འདོད་མོས་ལྟར་དགོས་པ་གང་ལའང་བཀོལ་ཆོག་པ་དང་སྤྱོད་བདེ་བའི་ཁྱད་ཆོས་ཡོད། ལྷག་དོན་དུ་ང་ཚོས་མཚམས་སྦྱོར་བྱས་པའི་ཁོ་ཌི་མཉེན་ཆས་ནང་བཀོལ་ན་ཐ་སྙད་བྱེ་བྲག་པ་དང་། ཡང་ན་ལུང་ཚིག་སོགས་ཐད་ཀར་འཚོལ་ཐུབ་པ་དང་སྟབས་བདེ་བ་ཡོད།
 
-<p class="hide top"><iframe src="https://shimowendang.com/forms/UT6N7vDKnoMmKuHG/fill?channel=1" style="height:1200px;width:800px;"></iframe></p>
+<p class="hide top"><iframe src="https://shimowendang.com/forms/UT6N7vDKnoMmKuHG/fill?channel=1" style="height:1130px;width:800px;></iframe></p>
