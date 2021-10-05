@@ -1,5 +1,7 @@
 # BudaX How-to Guides
 
+[- testing site -](http://library-dev.bdrc.io/static/budax/menu/menu)
+
 BudaX how-to guides give users of BUDA many tips and tricks to make the most of BUDA's data. All BudaX  how-to guides include both a pre-test and a post-test questionnaire. This allows us to track the increase in knowledge of our audience so we can improve the content in a timely manner.
 
 How-to guides are made available to 1. any BUDA user (public url), or 2. users who are part of a training program (url assigned to a specific trainer). 
@@ -24,7 +26,3 @@ Most how-to guides contain the following elements:
     *   video iframes
 *   post-test form
     *   iframe of a shimo.im form with a source tag `fill?channel=1`
-
-
-Staging site:
-- [menu](http://library-dev.bdrc.io/static/budax/menu/menu)
