@@ -27,7 +27,20 @@ Most how-to guides contain the following elements:
 *   post-test form
     *   iframe of a shimo.im form with a source tag `fill?channel=1`
 
-TODO (no videos; gifs + images)
+
+
+## Linking between guides:
+
+*   menu --> howtoguide : `.../howtoguides/<guide-code>/index`
+*   howtoguide --> menu : `../menu/menu`
+*   howtoguide <--> howtoguide : `../<guide-code>/index`
+
+## Set image width in MD:
+
+Syntax: `![<width-pix>](<image-path>)`
+Example: `![300](images/img.png)`
+
+## TODO (no videos; gifs + images)
 
 *   All (NT)
     *   resize gifs
@@ -50,7 +63,7 @@ TODO (no videos; gifs + images)
     *   delete banner and keywords like དཔྱད་རྩོམ། or སློབ་ཚན།
     *   headings for TOC
     *   add questionnaire
-*   DFC01 (Lobsang) - ནགས་བྱི་འཚོལ་ཆས་བཀོལ་ཚུལ། Docfetcher 搜索软件的使用方法
+*   DFC01 (Lobsang) - ནགས་ཕྱི་འཚོལ་ཆས་བཀོལ་ཚུལ། Docfetcher 搜索软件的使用方法
     *   delete or update links
     *   Docfetcher and Java download links from China
     *   delete banner and keywords like དཔྱད་རྩོམ། or སློབ་ཚན།
