@@ -81,6 +81,8 @@ Docfetcher 搜索软件的使用方法。请详细浏览如何使用docfetcher �
 
 <p class="hide top"><iframe src="https://shimowendang.com/forms/TB96rwAPL1cRjQzP/fill?channel=1" style="height:1050px;width:800px;"></iframe></p>
 
+## [BUDA 操作指南 བུདྡྷ་དྲ་བའི་བཀོལ་སྤྱོད་ལམ་སྟོན།](../menu/menu)
+
 
  
 

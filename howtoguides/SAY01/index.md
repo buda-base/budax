@@ -102,3 +102,5 @@
 ![800](images/000008.png)
 
 <p class="hide top"><iframe src="https://shimowendang.com/forms/cytvT6t9G9DhKHRJ/fill?channel=1" style="height:1050px;width:800px;"></iframe></p>
+
+## [BUDA 操作指南 བུདྡྷ་དྲ་བའི་བཀོལ་སྤྱོད་ལམ་སྟོན།](../menu/menu)

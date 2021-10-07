@@ -157,3 +157,5 @@
 
 <p class="hide top"><iframe src="https://shimowendang.com/forms/UdCXeOAfR3U6Gqj9/fill?channel=1" style="height:1050px;width:800px;"></iframe></p>
 
+## [BUDA 操作指南 བུདྡྷ་དྲ་བའི་བཀོལ་སྤྱོད་ལམ་སྟོན།](../menu/menu)
+

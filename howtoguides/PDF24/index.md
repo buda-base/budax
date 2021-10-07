@@ -5,3 +5,5 @@ PDF24是一个程序，允许您合并和拆分从BUDA下载的pdf文件。请�
 
 
 <p class="hide top"><iframe src="https://shimowendang.com/forms/9qjAcen8418CdKlI/fill?channel=1" style="height:1050px;width:800px;"></iframe></p>
+
+## [BUDA 操作指南 བུདྡྷ་དྲ་བའི་བཀོལ་སྤྱོད་ལམ་སྟོན།](../menu/menu)
