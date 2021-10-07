@@ -1,6 +1,7 @@
 import pathlib
 import markdown
 from markdownify import markdownify as to_md
+import re
 
 def html2md(dir):
     matches = pathlib.Path(dir).glob("**/*.html")
@@ -20,7 +21,12 @@ def md2html(dir):
     matches = pathlib.Path(dir).glob("**/*.md")
     for match in matches:
         # print(match)
-        content = match.read_text(encoding="utf-8")
+        raw_content = match.read_text(encoding="utf-8")
+
+        # apply image resizing
+
+        content = re.sub(r'!\[(\d+)\]\((.+)\)', '<img src="\g<2>" width="\g<1>">', raw_content)
+
 
         html_content = markdown.markdown(content)
 
