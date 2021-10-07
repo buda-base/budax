@@ -1,6 +1,5 @@
 # ཡིག་གཟུགས་ཕན་ཚུན་བསྒྱུར་ཆས། Tibetan Font Converter 藏文的字体转换器
 
-![Image](images/000001.png)  
 
 ཆས་འདི་ནི་རྒྱལ་མི་གཅིག་པའི་བོད་ཡིག་ཆ་རྣམས་ཚུལ་བརྗེ་རེད Y འདིས་བོད་ཡིག་ནས་ནས་Wylie ལེ་དང་ལེ་ནས་བོད་ཡིག་བསྒྱུར་ཆས་འདི་དབྱིན་བོད་ཡིག རྒྱ་ཡིག་རིགས་རིགས་བདེ་བ་དེ་བཀོལ་Kyi stangs go\_rim la gzigs \_ bkol   
 zhe ge shi de zang\_wen zi\_ti bu\_tong xiang\_hu zhuan\_huan de ruan\_jian. Ke\_yi ruan\_jian zai ci yong Wiley zang\_wen he zhi\_jian xiang\_hu zhuan\_huan, ju\_you cang han\_ying san\_zhong yu\_yan, fang\_bian shi\_yong请看 具体 的。  
@@ -44,7 +43,7 @@ zhe ge shi de zang\_wen zi\_ti bu\_tong xiang\_hu zhuan\_huan de ruan\_jian. Ke\
 
 ![Image](images/0000091.gif)
 
-དང་བོ། ངེས་དགོས་པའི་གནད་དོན་འགའ།需要指出的几个问题  
+## ༤༽ བསྒྱུར་བྱའི་ཡིག་ཆ་གྲ་བསྒྲིགས།  
 
 🔊 མཉེན་ཆས་འདིའི་ནང་ཡོད་པའི་ཡིག་གཟུགས་མ་འདྲ་བ་རྣམས་ཕར་ཚུར་བསྒྱུར་དུས་ངེས་པར་ཤེས་དགོས་པ་འགའ། 本软件中有几个不同字体在来回转换时必须知道的是：  
 
@@ -67,7 +66,7 @@ zhe ge shi de zang\_wen zi\_ti bu\_tong xiang\_hu zhuan\_huan de ruan\_jian. Ke\
 
 ![Image](images/000009.png)
 
-### ༥༽ མཉེན་ཆས་ནང་དངོས་སུ་བསྒྱུར་ཚུལ།  
+## ༥༽ མཉེན་ཆས་ནང་དངོས་སུ་བསྒྱུར་ཚུལ།  
 
 ཡིག་ཆ་དེ་ཡིག་གཟུགས་བསྒྱུར་ཆས་བརྒྱུད་ནས་unicode ལ་བསྒྱུར་བའི་གོ་རིམ་ལ་གཟིགས། དཔེ་འདིའི་ལམ་ནས་གཞན་ལ་དེ་བཞིན་བྱེད་ཤེས་པར་བྱའོ།། 
 
