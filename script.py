@@ -25,7 +25,7 @@ def md2html(dir):
 
         # apply image resizing
 
-        content = re.sub(r'!\[(\d+)\]\((.+)\)', '<img src="\g<2>" width="\g<1>">', raw_content)
+        content = re.sub(r'!\[(\d+?)\]\((.+?)\)', '<img src="\g<2>" width="\g<1>">', raw_content)
 
 
         html_content = markdown.markdown(content)
