@@ -19,7 +19,7 @@
 ![Image](images/000007.png) 下一步 - 下一步 ལ་སྣུན།   
 ![Image](images/000002.png)" 确定(o) " ནོན། 
 
-![Image](images/000016.gif)
+![800](images/000016.gif)
 
 ### ཁ༽  འོག་གི་འགུལ་རིས་ནང་གསལ་བཞིན་ཕབ་དགོས། 根据下面的动画下载  
 
@@ -27,7 +27,7 @@
 ![Image](images/000001.png) 安装 ལ་སྣུན།   
 ![Image](images/000019.png) ཐ་མ་ 完成 ལ་སྣུན། 
 
-![Image](images/000010.gif)
+![800](images/000010.gif)
 
 ## ༢༽ སྡེ་ཚན་གཉིས་པ། ཀུ་ཤུ་གློག་ཀླད་ནང་ཁོ་ཌི་མཉེན་ཆས་འཇུག་སྤྲོད།   
 第二单元 介绍VS Code 软件在苹果电脑上的安装方法  
@@ -40,7 +40,7 @@
 ![Image](images/000012.png)"应用程序" ཁ་ཕྱེ།   
 ![Image](images/000007.png)"Visual Studio Code" སྟེང་གཉིས་རྡེབ་བྱོས། 
 
-![Image](images/000020.gif)
+![800](images/000020.gif)
 
 ## ༣༽ སྡེ་ཚན་གསུམ་པ། ཡིག་ཆ་ནང་འདྲེན་བྱ་ཚུལ།   
 第三单元 导入文件  
@@ -53,7 +53,7 @@
 ![Image](images/000012.png) 选择文件夹 ལ་སྣུན།  
 ![Image](images/000007.png) ![Image](images/000009.png) རྟགས་འདི་ལ་སྣུན།  
 
-![Image](images/000005.gif)
+![800](images/000005.gif)
 
 ## ༤༽ སྡེ་ཚན་བཞི་པ། ཡིག་གཟུགས་དང་ཆེ་ཆུང་བརྗེ་ཚུལ།   
 第三单元 设置字体和字体大小  
@@ -65,7 +65,7 @@
 ![Image](images/000015.png) 首迭项-设定 ལ་སྣུན།  
 ![Image](images/000013.png) 以像素为单位控制字号 ཕྲིས།  
 
-![Image](images/0000090.gif)
+![800](images/0000090.gif)
 
 ### ཁ༽  ཡིག་གཟུགས་བརྗེ་ཚུལ་ལ་གཟིགས། 更换字体  
 
@@ -75,7 +75,7 @@
 ![Image](images/000013.png) 控制字体系列 ཚོལ།  
 ![Image](images/000004.png) འོག་ལ་ཡིག་གཟུགས་ཕྲིས།  
 
-![Image](images/000021.gif)
+![800](images/000021.gif)
 
 <p class="hide top"><iframe src="https://shimowendang.com/forms/iUriILOMkMg6DIBa/fill?channel=1" style="height:1050px;width:800px;"></iframe></p> 
 

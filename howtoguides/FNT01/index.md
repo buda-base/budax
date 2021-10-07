@@ -19,7 +19,7 @@ zhe ge shi de zang\_wen zi\_ti bu\_tong xiang\_hu zhuan\_huan de ruan\_jian. Ke\
 🢣 ཡིག་གཟུགས་བརྗེ་བསྒྱུར་གྱི་བྱ་རིམ། UTFC ལ་སྣུན།点击字体变换程序UTFC  
 🢣 མདའ་རྟགས་གཏད་ས་དེར་སྣུན། 点击箭头所指的点  
 
-![Image](images/000002.gif)
+![800](images/000002.gif)
 
 ## ༢༽ ཕབ་ལེན་བྱས་རྗེས་ཟྭ་ཕྱེ་བའི་རིམ་པ། 下载后解锁的程序  
 
@@ -30,7 +30,7 @@ zhe ge shi de zang\_wen zi\_ti bu\_tong xiang\_hu zhuan\_huan de ruan\_jian. Ke\
 🢣 UTFC ལ་གཉིས་རྡེབ་བྱོས།双击UTFC  
 🢣 UTFC བོད་ཡིག་ཟེར་བར་གཉིས་རྡེབ་བྱོས།双击UTFC藏文  
 
-![Image](images/0000090.gif)
+![800](images/0000090.gif)
 
 ## ༣༽ མཉེན་ཆས་སྒྲིག་འཇུག་ཀྱི་རིམ་པ། 安装软件的程序  
 
@@ -41,7 +41,7 @@ zhe ge shi de zang\_wen zi\_ti bu\_tong xiang\_hu zhuan\_huan de ruan\_jian. Ke\
 🢣 Close ཟེར་བར་སྣུན། 点击close  
 🢣 འཆར་ངོས་ཀྱི་YTFC ལ་སྣུན་དང་སྒོ་ཕྱེ་ཡོང་། 点击屏幕上的YTFC并打开  
 
-![Image](images/0000091.gif)
+![800](images/0000091.gif)
 
 ## ༤༽ བསྒྱུར་བྱའི་ཡིག་ཆ་གྲ་བསྒྲིགས།  
 
@@ -56,21 +56,21 @@ zhe ge shi de zang\_wen zi\_ti bu\_tong xiang\_hu zhuan\_huan de ruan\_jian. Ke\
 
 ### ཀ༽ ངས་དང་བོ་སམ་བྷོཊའི་ཡིག་གཟུགས་ཕབ་ལེན་མ་བྱས་པར་དེ་ངོ་བཤུ་བྱས་ཏེ་MS word ནང་བཞག་པས་འདི་ལྟར་གྱུར་སོང་། 甲：像以下显示的一样，因我没把先桑布扎字体安装到电脑里。  
 
-![Image](images/000004.png)
+![800](images/000004.png)
 
 ### ཁ༽ དེ་ནས་སམ་བྷོཊའི་ཡིག་གཟུགས་ཕབ་ལེན་བྱས་རྗེས་གཞི་ནས་ཡིག་འབྲུ་འཆར་སོང་། 乙：然后我把桑布扎字体下载以后就显示了完整的资料  
 
-![Image](images/000008.png)
+![800](images/000008.png)
 
 ### ག༽ དེ་ནས་ཡིག་ཆའི་རྣམ་སྒྲིག་(格式) RTF ལ་བསྒྱུར་ཡོད། བསྒྱུར་སྟངས།  
 
-![Image](images/000009.png)
+![800](images/000009.png)
 
 ## ༥༽ མཉེན་ཆས་ནང་དངོས་སུ་བསྒྱུར་ཚུལ།  
 
 ཡིག་ཆ་དེ་ཡིག་གཟུགས་བསྒྱུར་ཆས་བརྒྱུད་ནས་unicode ལ་བསྒྱུར་བའི་གོ་རིམ་ལ་གཟིགས། དཔེ་འདིའི་ལམ་ནས་གཞན་ལ་དེ་བཞིན་བྱེད་ཤེས་པར་བྱའོ།། 
 
-![Image](images/000005.png)
+![800](images/000005.png)
 
 ## ༦༽ Wylie བོད་ཡིག་ཡིག་གཟུགས་ལ་བསྒྱུར་སྟངས།  
 
@@ -78,14 +78,14 @@ Wylie ཝེ་ལེ་བོད་ཡིག་ཡིག་གཟུགས་�
 
 ### ཀ༽ Wylie པཎྜིཏའི་ཡིག་གཟུགས་ལ་བསྒྱུར་བའི་དཔེ་མཚོན།  
 
-![Image](images/000006.gif)  
+![800](images/000006.gif)  
 
 ### ཁ༽ Wylie པཎྜིཏའི་ཡིག་གཟུགས་ལ་མ་བསྒྱུར་བའི་སྔོན་གྱི་ཡིག་ཆ།   
 
-![Image](images/000010.png)
+![800](images/000010.png)
 
 ### ག༽ Wylie བོད་ཡིག་ཡིག་གཟུགས་པཎྜིཏ་ལ་བསྒྱུར་ཟིན་པའི་ཡིག་ཆ།  
 
-![Image](images/000011.png)
+![800](images/000011.png)
 
 <p class="hide top"><iframe src="https://shimowendang.com/forms/G0qTkGTsjKUkGURn/fill?channel=1" style="height:1050px;width:800px;"></iframe></p>
