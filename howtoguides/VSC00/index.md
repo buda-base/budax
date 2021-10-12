@@ -13,26 +13,28 @@
 ### ཀ༽ ཁོ་ཌི་མཉེན་ཆས་དྲ་ལམ་ནས་ཕག་ལེན་བྱ་ཚུལ། 
  
 
-![Image](images/000006.png)   
-![Image](images/000001.png)  
-![Image](images/000019.png)    
-![Image](images/000012.png)   
-![Image](images/000007.png)    
-![Image](images/000002.png)  
+![Image](images/000006.png) པེ་དུས་百度 དྲ་ཚིགས་སྒོ་ཕྱེས།  
+![Image](images/000001.png) Visual studio code Download བྲིས་ཏེ་ཚོལ།  
+![Image](images/000019.png) དྲ་ཐག་གསུམ་པ་དེའི་སྒང་ལ་སྣུན།  
+![Image](images/000012.png) རང་ཉིད་ཀྱི་གློག་ཀླད་ཀྱི་རིགས་དང་མཐུན་པ་དེ་འདེམ།  
+![Image](images/000007.png) ཡིག་སྣོད་ཀྱི་ཕབ་ལེན་སྒོ་ཕྱེ།   
 
 ![800](images/000016.gif)
 
 ### ཁ༽  ཁོ་ཌི་མཉེན་ཆས་འཇུག་སྤྲོད་བྱ་ཚུལ།  
 
-![Image](images/000006.png)   
-![Image](images/000001.png)    
-![Image](images/000019.png)  
+![Image](images/000006.png) ཕབ་ཟིན་པའི་མཉེན་ཆས་སྟེང་གཉིས་རྡེབ་བྱོས།  
+![Image](images/000001.png) 运行 ལ་སྣུན།  
+![Image](images/000019.png) 我同意此協議 ལ་རྟགས་རྒྱོབས།  
+![Image](images/000012.png) 下一步 ལ་སྣུན།  
+![Image](images/000007.png) 下一步 ལ་སྣུན།  
+![Image](images/000002.png) 安装 བཅས་ལ་རིམ་པས་སྣུན།   
 
 ![800](images/000010.gif)
 
 ### ག༽  ཁོ་ཌི་མཉེན་ཆས་ནང་ཡིག་གཟུགས་སྒྲིག་ཚུལ།  
 
-![Image](images/000006.png)   
+![Image](images/000006.png) 
 ![Image](images/000001.png)    
 ![Image](images/000019.png)  
 
