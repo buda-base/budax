@@ -2,11 +2,11 @@
 
 [\- testing site -](http://library-dev.bdrc.io/static/budax/menu/menu)
 
-BudaX how-to guides give users of BUDA many tips and tricks to make the most of BUDA's data. All BudaX  how-to guides include both a pre-test and a post-test questionnaire. This allows us to track the increase in knowledge of our audience so we can improve the content in a timely manner.
+_BudaX how-to guides give users of BUDA many tips and tricks to make the most of BUDA's data. All BudaX  how-to guides include both a pre-test and a post-test questionnaire. This allows us to track the increase in knowledge of our audience so we can improve the content in a timely manner._
 
-How-to guides are made available to 1. any BUDA user (public url), or 2. users who are part of a training program (url assigned to a specific trainer). 
 
-The questionnaires on public how-to guides are done with the source tag `1`:
+
+How-to guides are made available to 1. any BUDA user (public url), or 2. users who are part of a training program (url assigned to a specific trainer). The questionnaires on public how-to guides are published with the source tag `1`:
 
 *   tutorial: [`http://buda.zju.edu.cn/static/howtoguides/pdf24?src=1`](http://buda.zju.edu.cn/static/howtoguides/pdf24?source=1)
 *   iframe url: `https://shimowendang.com/forms/<form-id>/fill?channel=1`
