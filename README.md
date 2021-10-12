@@ -138,7 +138,7 @@ Example: `![300](images/img.png)`
     *   delete banner and keywords like དཔྱད་རྩོམ། or སློབ་ཚན།
     *   headings for TOC
     *   add questionnaire
-*   SAY01 (Dhondrup) - Saymoreམཉེན་ཆས་བཀོལ་ནས་དཔྱད་རྩོམ་གྱི་རྒྱུ་ཆ་བསྡུ་ཚུལ། 使用Saymore软件搜集论文资料
+*   SAY01 (Dhondrup Done) - Saymoreམཉེན་ཆས་བཀོལ་ནས་དཔྱད་རྩོམ་གྱི་རྒྱུ་ཆ་བསྡུ་ཚུལ། 使用Saymore软件搜集论文资料
     *   Change title: "Use Saymore to sync a lecture with an etext"
     *   Sections:
         *   delete search engine
