@@ -31,9 +31,9 @@ Most how-to guides contain the following elements:
 
 ## Linking between guides:
 
-*   menu --> howtoguide : `.../howtoguides/<guide-code>/index`
-*   howtoguide --> menu : `(../../menu/menu)`
-*   howtoguide <--> howtoguide : `../<guide-code>/index`
+*   menu --> howtoguide : `[](.../howtoguides/<guide-code>/index)`
+*   howtoguide --> menu : `[](../../menu/menu)`
+*   howtoguide <--> howtoguide : `[](../<guide-code>/index)`
 
 ## Set image width in MD:
 
