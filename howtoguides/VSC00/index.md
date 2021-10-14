@@ -35,7 +35,7 @@
 
 ### ག༽  ཁོ་ཌི་མཉེན་ཆས་ནང་ཡིག་གཟུགས་སྒྲིག་ཚུལ།  
 
-![Image](images/000006.png) 
+![Image](images/000006.png)  
 ![Image](images/000001.png)    
 ![Image](images/000019.png)  
 
