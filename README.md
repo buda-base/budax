@@ -4,8 +4,6 @@
 
 _BudaX how-to guides give users of BUDA many tips and tricks to make the most of BUDA's data. All BudaX  how-to guides include both a pre-test and a post-test questionnaire. This allows us to track the increase in knowledge of our audience so we can improve the content in a timely manner._
 
-
-
 How-to guides are made available to 1. any BUDA user (public url), or 2. users who are part of a training program (url assigned to a specific trainer). The questionnaires on public how-to guides are published with the source tag `1`:
 
 *   tutorial: [`http://buda.zju.edu.cn/static/howtoguides/pdf24?src=1`](http://buda.zju.edu.cn/static/howtoguides/pdf24?source=1)
@@ -31,9 +29,19 @@ Most how-to guides contain the following elements:
 
 ## Linking between guides
 
-*   menu --> howtoguide : `[](.../howtoguides/<guide-code>/index)`
-*   howtoguide --> menu : `[](../../menu/menu)`
-*   howtoguide <--> howtoguide : `[](../<guide-code>/index)`
+### menu --> howtoguide
+Syntax: `[](../howtoguides/<guide-code>/index)`
+
+Example (in menu): `[VSC00 - ཁོ་ཌི་མཉེན་ཆས་འཇུག་སྤྲོད་བྱ་ཚུལ། 安装VS Code](../howtoguides/VSC00/index)`
+
+### howtoguide --> menu
+Syntax: `[](../../menu/menu)`
+
+Example (in VSC00): `[BUDA 操作指南 བུདྡྷ་དྲ་བའི་བཀོལ་སྤྱོད་ལམ་སྟོན།](../../menu/menu)`
+### howtoguide <--> howtoguide : 
+Syntax: `[](../<guide-code>/index)`
+
+Example (in VSC01): `[ཁོ་ཌི་མཉེན་ཆས་སྒེའུ་ཁུང་རྟགས་ཅན་ནང་ཕབ་སྟངས།](../VSC00/index)`
 
 ## Set image width in MD
 
