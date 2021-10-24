@@ -21,9 +21,9 @@ Fijitsu fi-7160 [བཤེར་ཆས](https://github.com/buda-base/digitizatio
 དགོས་ངེས་སྙི་ཆས་འདི་ལ་རིགས་གསུམ་ཡོད་དེ་(TWAIN) (ISIS) (ScandALL PRO) འདི་དག་རྩིས་འཕྲུལ་ནང་[ཕབ་ལེན](https://github.com/buda-base/digitization-guidelines/releases/tag/fi-7160)་བྱེད་ཚུལ་གཉིས་ཡོད་མོད། གཤམ་དུ་བཀོད་པའི་ང་ཚོའི་དྲ་སྦྲེལ་ནས་ཐད་ཀར་རེ་རེ་བཞིན་ཕབ་ལེན་བྱེད་ཐུབ་པ་ཡིན། འོག་གི་སྙི་ཆས་གོ་རིམ་བཞིན་ཕབ་ལེན་དང་ནང་འཇུག་བྱེད་དགོས།
 སྙི་ཆས། |
 -- |
-<a href="https://github.com/BuddhistDigitalResourceCenter/digitization-guidelines/releases/download/fi-7160/PSIPISIS-LX5-1_42_0c.exe"><button type="button" class="btn btn-success"><i class="fa fa-cloud-download"></i>  Fujitsu ISIS </button></a> |
-<a href="https://github.com/BuddhistDigitalResourceCenter/digitization-guidelines/releases/download/fi-7160/PSIPTWAIN-1_42_0c.exe"><button type="button" class="btn btn-success"><i class="fa fa-cloud-download"></i>  Fujitsu TWAIN </button></a>|
-<a href="https://github.com/BuddhistDigitalResourceCenter/digitization-guidelines/releases/download/fi-7160/SAPV213.exe"><button type="button" class="btn btn-success"><i class="fa fa-cloud-download"></i>   ScandALL PRO</button></a>|
+<a href="https://github.com/BuddhistDigitalResourceCenter/digitization-guidelines/releases/download/fi-7160/PSIPISIS-LX5-1_42_0c.exe"><button type="button" class="btn btn-success"><i class="fa fa-cloud-download"></i> Fujitsu ISIS </button></a> |
+<a href="https://github.com/BuddhistDigitalResourceCenter/digitization-guidelines/releases/download/fi-7160/PSIPTWAIN-1_42_0c.exe"><button type="button" class="btn btn-success"><i class="fa fa-cloud-download"></i> Fujitsu TWAIN </button></a>|
+<a href="https://github.com/BuddhistDigitalResourceCenter/digitization-guidelines/releases/download/fi-7160/SAPV213.exe"><button type="button" class="btn btn-success"><i class="fa fa-cloud-download"></i> ScandALL PRO</button></a>|
 
 མཉེན་ཆས་ནང་འཇུག་བྱེད་སྟངས། 
 
@@ -36,7 +36,7 @@ Fijitsu fi-7160 [བཤེར་ཆས](https://github.com/buda-base/digitizatio
 
 སྒེའུ་ཁུང་གློག་ཀླད་ནང་ཕབ་ལེན། | ཀུ་ཤུ་རྟགས་ཅན་ནང་ཕབ་ལེན་།
 | -- | -- 
-| <a href="http://download.xnview.com/XnViewMP-win-x64.exe"><button type="button" class="btn btn-success"><i class="fa fa-cloud-download"></i> win 64bit </button></a> |   <a href="http://download.xnview.com/XnViewMP-mac.dmg"><button type="button" class="btn btn-success"><i class="fa fa-cloud-download"></i> iMac </button></a>
+| <a href="http://download.xnview.com/XnViewMP-win-x64.exe"><button type="button" class="btn btn-success"><i class="fa fa-cloud-download"></i> win 64bit </button></a> | <a href="http://download.xnview.com/XnViewMP-mac.dmg"><button type="button" class="btn btn-success"><i class="fa fa-cloud-download"></i> iMac </button></a>
  <a href="http://download.xnview.com/XnViewMP-win.exe"><button type="button" class="btn btn-success"><i class="fa fa-cloud-download"></i> win 32bit </button></a>|
 
 མཉེན་ཆས་ནང་འཇུག་བྱེད་སྟངས། 
@@ -58,7 +58,7 @@ Fijitsu fi-7160 [བཤེར་ཆས](https://github.com/buda-base/digitizatio
 [audit tool](https://github.com/buda-base/asset-manager/releases/download/V0.9-r-3/audit-test-shell-0.9-SNAPSHOT-1-Install.zip)|
 
 
-#### 6. Java མ་ལག  <br/> 
+#### 6. Java མ་ལག <br/> 
 མཉེན་ཆས་འདི་སྤུས་ཚད་བལྟ་འདོམས་མཉེན་ཆས་ལ་རམ་འདེགས་བྱེད་པར་མཁོ་བའི་མཉེན་ཆས་ཞིག་ཡིན། སྤུས་ཚད་བལྟ་འདོམས་མཉེན་ཆས་ནང་འཇུག་མ་བྱས་སྔོན་ལ་མཉེན་ཆས་འདི་ཕབ་ལེན་བྱས་ནས་ནང་འཇུག་བྱེད་དགོས། མཉེན་འདི་ནི་རིན་མེད་དང་དྲ་རྒྱའི་སྒང་ནས་ཐད་ཀར་ཕབ་ལེན་བྱེད་ཐུབ། འོག་གི་དྲ་ཐག་བརྒྱུད་ནས་ཀྱང་ཕབ་ལེན་བྱེད་ཐུབ།
 
 <img src="https://github.com/buda-base/budax/blob/master/howtoguides/DIG02/images/000008.png" height="220" width="320" > <br/>
@@ -71,7 +71,7 @@ Fijitsu fi-7160 [བཤེར་ཆས](https://github.com/buda-base/digitizatio
 
 <img src="https://github.com/buda-base/budax/blob/master/howtoguides/DIG02/images/000009.gif" height="500" width="650" >
 
-#### 7. Bibliosheet འགེངས་ཤོག  <br/> 
+#### 7. Bibliosheet འགེངས་ཤོག <br/> 
 འགེངས་ཤོག་འདི་ནི་བཤེར་འབེབས་སྐབས་བཤེར་འབེབས་པ་དང་། དཔེ་ཆའི་རྩོམ་པ་པོ། དཔེ་བསྐྲུན་བྱེད་གནས། དཔེ་ཆའི་གནས་སྟངས་སོགས་གནས་ཚུལ་རྒྱས་པ་འབྲི་ས་ཞིག་ཡིན། དཔེ་ཆ་རེ་རེ་ལ་འགེངས་ཤོག་འདི་ངེས་བར་དུ་རྒྱངས་དགོས།
 
 <img src="https://github.com/buda-base/budax/blob/master/howtoguides/DIG02/images/000010.png" height="220" width="430" > 
@@ -80,7 +80,7 @@ Fijitsu fi-7160 [བཤེར་ཆས](https://github.com/buda-base/digitizatio
 -----|
 [Bibliographic info sheet](https://github.com/buda-base/digitization-guidelines/files/4654363/Biblipgraphic.Info.Sheet.xlsx)|
 
-#### 8. བཤེར་ཐོའི་རེའུ་མིག  <br/> 
+#### 8. བཤེར་ཐོའི་རེའུ་མིག <br/> 
 བཤེར་ཐོའི་རེའུ་མིག་ནི་བཤེར་འབེབས་མ་བྱས་པའི་སྔོན་ལ་དཔེ་ཆ་གང་དང་གང་བཤེར་འབེབས་བྱེད་དགོས་པ་སོགས་ཀྱི་ཐོ་གཞུང་ཞིག་ཡིན། བཤེར་འབེབས་པས་ཐོ་གཞུང་འདི་གཞིར་བཞག་ནས་དཔེ་ཆ་རྣམས་བཤེར་འབེབས་བྱེད་དགོས།
 
 <img src="https://github.com/buda-base/budax/blob/master/howtoguides/DIG02/images/000011.png" height="220" width="250" >
