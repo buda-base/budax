@@ -8,7 +8,7 @@
 
 ### ཀ མཚན་བྱང་འབྲི་ཚུལ་དཔེ་མཚོན་དང་བཅས་ཏེ་ངོ་སྤྲོད་པ།
 
-<img src="https://github.com/buda-base/budax/blob/master/howtoguides/DIG07/images/002.PNG" height="540" width="480" >
+<img src="https://github.com/buda-base/budax/blob/master/howtoguides/DIG07/images/002.PNG" height="540" width="480" > <br />
   
 <img src="https://github.com/buda-base/budax/blob/master/howtoguides/DIG07/images/003.PNG" height="350" width="480" >
 
