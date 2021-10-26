@@ -18,7 +18,7 @@
 
 <img src="https://github.com/buda-base/budax/blob/master/howtoguides/DIG08/images/003.PNG" height="450" width="550" > <br />
 <img src="https://github.com/buda-base/budax/blob/master/howtoguides/DIG08/images/004.PNG" height="550" width="550" > <br />
-<img src="https://github.com/buda-base/budax/blob/master/howtoguides/DIG08/images/005.PNG" height="470" width="550" > <br />
+<img src="https://github.com/buda-base/budax/blob/master/howtoguides/DIG08/images/005.PNG" height="450" width="550" > <br />
 <img src="https://github.com/buda-base/budax/blob/master/howtoguides/DIG08/images/006.PNG" height="500" width="550" > <br />
 <img src="https://github.com/buda-base/budax/blob/master/howtoguides/DIG08/images/007.PNG" height="200" width="550" > <br />
 
