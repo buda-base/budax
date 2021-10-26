@@ -7,9 +7,8 @@
 ### མཉེན་ཆས།
 
 #### 1. སྒེའུ་ཁུང་10 <br/>
-ཨང་བསྒྱུར་ལས་རིམ་གྱི་མགོ་ནས་མཇུག་བར་དུ་བཤེར་འབེབས་དང་། པར་གཅོད་གཏུབ། རྣམ་སྒྲིག་བརྗེ་སྒྱུར། ཆེ་ཆུང་བཟོ་བ་སོགས་ལ་ངེས་བར་དུ་མཁོ། གློག་ཀླདལ་ངེས་བར་སྒེའུ་ཁུང་10མཉེན་ཆས་མ་ལག་ཡོད་དགོས། ་་་་་་་་་་་་་་་་་་་་་་་་་
+ཨང་བསྒྱུར་ལས་རིམ་གྱི་མགོ་ནས་མཇུག་བར་དུ་བཤེར་འབེབས་དང་། པར་གཅོད་གཏུབ། རྣམ་སྒྲིག་བརྗེ་སྒྱུར། ཆེ་ཆུང་བཟོ་བ་སོགས་ལ་ངེས་བར་དུ་མཁོ། གློག་ཀླདལ་ངེས་བར་སྒེའུ་ཁུང་10མཉེན་ཆས་མ་ལག་ཡོད་དགོས།
 
-<details><summary>་་་་་་་་་་་་་་་་་་་་་་་་་དེ་ལས་མང་བ་ཀློག</summary><blockquote>
 <img src="https://github.com/buda-base/budax/blob/master/howtoguides/DIG02/images/000001.png" height="230" width="250" >
 
 
@@ -89,4 +88,3 @@ Fijitsu fi-7160 [བཤེར་ཆས](https://github.com/buda-base/digitizatio
 -----|
 [Scanning list table](https://github.com/buda-base/digitization-guidelines/files/4573244/Scanning.list.Table.xlsx)|
 
-</blockquote></details> 
