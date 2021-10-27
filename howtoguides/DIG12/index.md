@@ -1,9 +1,9 @@
 # བརྒྱད་པ། Archive ཉར་ཚགས་པར་སྣོད་བཟོ་བ།
 | དཀར་ཆག  | 
 |-------|
-| [༡. ཉར་ཚགས་པར་བཟོ་སྟངས།](https://github.com/buda-base/digitization-guidelines/wiki/XnView-MP-(NEW)#%E0%BC%A1-%E0%BD%89%E0%BD%A2%E0%BD%9A%E0%BD%82%E0%BD%A6%E0%BD%94%E0%BD%A2%E0%BD%96%E0%BD%9F%E0%BD%BC%E0%BD%A6%E0%BE%9F%E0%BD%84%E0%BD%A6)|
-| [༢. པར་མཐའི་ལྷག་མ་རྣམས་གཏུབ་པ།](https://github.com/buda-base/digitization-guidelines/wiki/XnView-MP-(NEW)#%E0%BC%A2-%E0%BD%94%E0%BD%A2%E0%BD%98%E0%BD%90%E0%BD%A0%E0%BD%B2%E0%BD%A3%E0%BE%B7%E0%BD%82%E0%BD%98%E0%BD%A2%E0%BE%A3%E0%BD%98%E0%BD%A6%E0%BD%82%E0%BD%8F%E0%BD%B4%E0%BD%96%E0%BD%94)|
-| [༣. པར་མིང་བསྐྱར་འདོགས།](https://github.com/buda-base/digitization-guidelines/wiki/XnView-MP-(NEW)#3-%E0%BD%94%E0%BD%A2%E0%BD%98%E0%BD%B2%E0%BD%84%E0%BD%96%E0%BD%A6%E0%BE%90%E0%BE%B1%E0%BD%A2%E0%BD%A0%E0%BD%91%E0%BD%BC%E0%BD%82%E0%BD%A6%E0%BD%96%E0%BE%B1%E0%BD%BA%E0%BD%91%E0%BD%94)|
+| [༡. ཉར་ཚགས་པར་བཟོ་སྟངས།](https://github.com/buda-base/budax/blob/master/howtoguides/DIG12/index.md#%E0%BC%A1-%E0%BD%89%E0%BD%A2%E0%BD%9A%E0%BD%82%E0%BD%A6%E0%BD%94%E0%BD%A2%E0%BD%96%E0%BD%9F%E0%BD%BC%E0%BD%A6%E0%BE%9F%E0%BD%84%E0%BD%A6)|
+| [༢. པར་མཐའི་ལྷག་མ་རྣམས་གཏུབ་པ།](https://github.com/buda-base/budax/blob/master/howtoguides/DIG12/index.md#%E0%BC%A2-%E0%BD%94%E0%BD%A2%E0%BD%98%E0%BD%90%E0%BD%A0%E0%BD%B2%E0%BD%A3%E0%BE%B7%E0%BD%82%E0%BD%98%E0%BD%A2%E0%BE%A3%E0%BD%98%E0%BD%A6%E0%BD%82%E0%BD%8F%E0%BD%B4%E0%BD%96%E0%BD%94)|
+| [༣. པར་མིང་བསྐྱར་འདོགས།](https://github.com/buda-base/budax/blob/master/howtoguides/DIG12/index.md#3-%E0%BD%94%E0%BD%A2%E0%BD%98%E0%BD%B2%E0%BD%84%E0%BD%96%E0%BD%A6%E0%BE%90%E0%BE%B1%E0%BD%A2%E0%BD%A0%E0%BD%91%E0%BD%BC%E0%BD%82%E0%BD%A6%E0%BD%96%E0%BE%B1%E0%BD%BA%E0%BD%91%E0%BD%94)|
 
 ## ༡. ཉར་ཚགས་པར་བཟོ་སྟངས།
 
@@ -46,7 +46,7 @@ XNView མཉེན་ཆས་ཁ་ཕྱེ། 🡲 📂ABC123 ཁ་ཕྱ�
 <img src="https://github.com/buda-base/budax/blob/master/howtoguides/DIG12/images/006.gif" height="500" width="650" >
 
 
-### 3. པར་མིང་བསྐྱར་འདོགས་བྱེད་པ།
+## ༣. པར་མིང་བསྐྱར་འདོགས་བྱེད་པ།
 
 📂archiveཁ་ཕྱེ། 🡲 📂01ཁ་ཕྱེ། 🡲 Ctrl+Aམནན་ནས་པར་ཚང་མ་འདེམས།  🡲 (XNView 设置)批量重命名སྟེང་ནོན། 🡲 名秒模板 🡲 i### ཕྲིས། 🡲 OKནོན།  
 
