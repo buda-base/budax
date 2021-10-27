@@ -2,13 +2,13 @@
 
 དཀར་ཆག  | 
 --------|
-༡. [པར་སྣོད་ཁ་ཕྱེ་སྟངས།](https://github.com/buda-base/budax/blob/master/howtoguides/DIG10/index.md#%E0%BC%A1-%E0%BD%94%E0%BD%A2%E0%BD%A6%E0%BE%A3%E0%BD%BC%E0%BD%91%E0%BD%81%E0%BD%95%E0%BE%B1%E0%BD%BA%E0%BD%A6%E0%BE%9F%E0%BD%84%E0%BD%A6) |
-༢. [པར་མིང་འདོགས་སྟངས།](https://github.com/buda-base/budax/blob/master/howtoguides/DIG10/index.md#%E0%BC%A2-%E0%BD%94%E0%BD%A2%E0%BD%98%E0%BD%B2%E0%BD%84%E0%BD%A0%E0%BD%91%E0%BD%BC%E0%BD%82%E0%BD%A6%E0%BD%A6%E0%BE%9F%E0%BD%84%E0%BD%A6)|
-༣. [པར་གྱི་སྤུས་ཚད་སྒྲིག་འགོད།](https://github.com/buda-base/budax/blob/master/howtoguides/DIG10/index.md#%E0%BC%A3-%E0%BD%94%E0%BD%A2%E0%BD%82%E0%BE%B1%E0%BD%B2%E0%BD%A6%E0%BE%A4%E0%BD%B4%E0%BD%A6%E0%BD%9A%E0%BD%91%E0%BD%A6%E0%BE%92%E0%BE%B2%E0%BD%B2%E0%BD%82%E0%BD%A0%E0%BD%82%E0%BD%BC%E0%BD%91) |
-༤. [བཤེར་པར་གྱི་ཆེ་ཆུང་སོགས་ཀྱི་སྒྲིག་འགོད།](https://github.com/buda-base/budax/blob/master/howtoguides/DIG10/index.md#%E0%BC%A4-%E0%BD%96%E0%BD%A4%E0%BD%BA%E0%BD%A2%E0%BD%94%E0%BD%A2%E0%BD%82%E0%BE%B1%E0%BD%B2%E0%BD%86%E0%BD%BA%E0%BD%86%E0%BD%B4%E0%BD%84%E0%BD%A6%E0%BD%BC%E0%BD%82%E0%BD%A6%E0%BD%80%E0%BE%B1%E0%BD%B2%E0%BD%A6%E0%BE%92%E0%BE%B2%E0%BD%B2%E0%BD%82%E0%BD%A0%E0%BD%82%E0%BD%BC%E0%BD%91) |
-༥. [སྒྲིག་འགོད་གཞན་འགའ།](https://github.com/buda-base/budax/blob/master/howtoguides/DIG10/index.md#%E0%BC%A5-%E0%BD%A6%E0%BE%92%E0%BE%B2%E0%BD%B2%E0%BD%82%E0%BD%A0%E0%BD%82%E0%BD%BC%E0%BD%91%E0%BD%82%E0%BD%9E%E0%BD%93%E0%BD%A0%E0%BD%82%E0%BD%A0) |
+[༡༽ པར་སྣོད་ཁ་ཕྱེ་སྟངས།](https://github.com/buda-base/budax/blob/master/howtoguides/DIG10/index.md#%E0%BC%A1-%E0%BD%94%E0%BD%A2%E0%BD%A6%E0%BE%A3%E0%BD%BC%E0%BD%91%E0%BD%81%E0%BD%95%E0%BE%B1%E0%BD%BA%E0%BD%A6%E0%BE%9F%E0%BD%84%E0%BD%A6) |
+[༢༽ པར་མིང་འདོགས་སྟངས།](https://github.com/buda-base/budax/blob/master/howtoguides/DIG10/index.md#%E0%BC%A2-%E0%BD%94%E0%BD%A2%E0%BD%98%E0%BD%B2%E0%BD%84%E0%BD%A0%E0%BD%91%E0%BD%BC%E0%BD%82%E0%BD%A6%E0%BD%A6%E0%BE%9F%E0%BD%84%E0%BD%A6)|
+[༣༽ པར་གྱི་སྤུས་ཚད་སྒྲིག་འགོད།](https://github.com/buda-base/budax/blob/master/howtoguides/DIG10/index.md#%E0%BC%A3-%E0%BD%94%E0%BD%A2%E0%BD%82%E0%BE%B1%E0%BD%B2%E0%BD%A6%E0%BE%A4%E0%BD%B4%E0%BD%A6%E0%BD%9A%E0%BD%91%E0%BD%A6%E0%BE%92%E0%BE%B2%E0%BD%B2%E0%BD%82%E0%BD%A0%E0%BD%82%E0%BD%BC%E0%BD%91) |
+[༤༽ བཤེར་པར་གྱི་ཆེ་ཆུང་སོགས་ཀྱི་སྒྲིག་འགོད།](https://github.com/buda-base/budax/blob/master/howtoguides/DIG10/index.md#%E0%BC%A4-%E0%BD%96%E0%BD%A4%E0%BD%BA%E0%BD%A2%E0%BD%94%E0%BD%A2%E0%BD%82%E0%BE%B1%E0%BD%B2%E0%BD%86%E0%BD%BA%E0%BD%86%E0%BD%B4%E0%BD%84%E0%BD%A6%E0%BD%BC%E0%BD%82%E0%BD%A6%E0%BD%80%E0%BE%B1%E0%BD%B2%E0%BD%A6%E0%BE%92%E0%BE%B2%E0%BD%B2%E0%BD%82%E0%BD%A0%E0%BD%82%E0%BD%BC%E0%BD%91) |
+[༥༽ སྒྲིག་འགོད་གཞན་འགའ།](https://github.com/buda-base/budax/blob/master/howtoguides/DIG10/index.md#%E0%BC%A5-%E0%BD%A6%E0%BE%92%E0%BE%B2%E0%BD%B2%E0%BD%82%E0%BD%A0%E0%BD%82%E0%BD%BC%E0%BD%91%E0%BD%82%E0%BD%9E%E0%BD%93%E0%BD%A0%E0%BD%82%E0%BD%A0) |
 
-### ༡. པར་སྣོད་ཁ་ཕྱེ་སྟངས། 
+### ༡༽ པར་སྣོད་ཁ་ཕྱེ་སྟངས། 
 
 ScandAll-Proཁ་ཕྱེ། 🡲 <img src="https://github.com/buda-base/budax/blob/master/howtoguides/DIG10/images/001.png" height="20" width="20" >སྟེང་ནོན། 🡲 浏览སྟེང་ནོན། 🡲 📂AB12འདེམས། 🡲 📂sourceསྟེང་ནོན། 🡲 📂01སྟེང་ནོན། 🡲确定སྟེང་ནོན།
 
@@ -18,7 +18,7 @@ ScandAll-Proཁ་ཕྱེ། 🡲 <img src="https://github.com/buda-base/budax
 <img src="https://github.com/buda-base/budax/blob/master/howtoguides/DIG10/images/002.gif" height="500" width="650" >
 
 
-### ༢. པར་མིང་འདོགས་སྟངས།
+### ༢༽ པར་མིང་འདོགས་སྟངས།
 
 ScandAll-Proཁ་ཕྱེ། 🡲 命名规则སྟེང་ནོན། 🡲 可用设置 🡲 日期和时间སྟེང་ནོན། 🡲 已应用设置 🡲 页面计数器འདེམས། 🡲 字符串1 🡲 imageབྲིས། 🡲确定ནོན། 
 
@@ -27,7 +27,7 @@ ScandAll-Proཁ་ཕྱེ། 🡲 命名规则སྟེང་ནོན། 🡲
 <img src="https://github.com/buda-base/budax/blob/master/howtoguides/DIG10/images/003.gif" height="500" width="650" >
 
 
-### ༣. པར་གྱི་སྤུས་ཚད་སྒྲིག་འགོད།
+### ༣༽ པར་གྱི་སྤུས་ཚད་སྒྲིག་འགོད།
 ScandAll-Proཁ་ཕྱེ། 🡲 <img src="https://github.com/buda-base/budax/blob/master/howtoguides/DIG10/images/001.png" height="20" width="20" >སྟེང་ནོན། 🡲 文件格式 🡲 Tagged Image File Format(.tif)འདེམས། 🡲 颜色格式 🡲 24位彩色འདེམས། 🡲 压缩（0）🡲 No compressionའདེམས། 🡲 确定ནོན། 
 
 འདིར་ནང་བསྟན་དཔེ་ཚོགས་ལྟེ་གནས་ཀྱི་ཚད་གཞི་དང་མཐུན་པར་སྐབས་འདིའི་པར་ཀྱི་སྤུས་ཚད་ལས་ཡིག་ཆའི་རྣམ་སྒྲིག Tagged Image File Format(.tif)འདེམས་དགོས། ཚོན་ཁྲ་(color format) "24 bit" འདེམས།
@@ -36,7 +36,7 @@ ScandAll-Proཁ་ཕྱེ། 🡲 <img src="https://github.com/buda-base/budax
 <img src="https://github.com/buda-base/budax/blob/master/howtoguides/DIG10/images/004.gif" height="500" width="650" >
 
 
-### ༤. བཤེར་པར་གྱི་ཆེ་ཆུང་སོགས་ཀྱི་སྒྲིག་འགོད། 
+### ༤༽ བཤེར་པར་གྱི་ཆེ་ཆུང་སོགས་ཀྱི་སྒྲིག་འགོད། 
 当前的设置སྟེང་ནོན། 🡲 纸张来源 🡲 进纸器(双面)འདེམས། 🡲 <img src="https://github.com/buda-base/budax/blob/master/howtoguides/DIG10/images/005.png" height="20" width="20" >སྟེང་ནོན། 🡲 基本设置སྟེང་ནོན། 🡲 图像模式 🡲 彩色འདེམས། 🡲 纸张来源 🡲 进纸器(双面)འདེམས། 🡲 基本设置སྟེང་ནོན། 🡲 分辨率 སྟེང་ནོན། 🡲 400 dpiབཟོས། 🡲 纸张大小སྟེང་ནོན། 🡲 自定义འདེམས། 🡲 宽度(ཚད་ཕྲིས།) 🡲 长度(ཚད་ཕྲིས།) 
 
 འགུལ་རིས་ནང་གསལ་བ་ནི་TWAIN སྙི་ཆས་ཀྱི་རྨང་གཞིའི་[སྒྲིག་འགོད](https://github.com/buda-base/digitization-guidelines/wiki/Terminology-%E0%BD%96%E0%BD%A2%E0%BE%A1%E0%BC%8B%E0%BD%86%E0%BD%91%E0%BC%8D-%E6%9C%AF%E8%AF%AD#%E8%AE%BE%E7%BD%AE-%E0%BD%A6%E0%BE%92%E0%BE%B2%E0%BD%B2%E0%BD%82%E0%BD%A0%E0%BD%82%E0%BD%BC%E0%BD%91-setting)་སྟེགས་བུ་རེད། འདིའི་སྡེ་ཚན་དང་པོ་ནས་འདེམས་དགོས་པ་ཁག དང་པོ། ཚོན་མདོག་འདེམ་དགོས། ཤོག་གུའི་རྒྱབ་མདུན་གཉིས་ཆ་ 双面 འདེམས་དགོས། འགུལ་རིས་ངོས་སུ་གསལ་བ་བཞིན་ [dpi](https://github.com/buda-base/digitization-guidelines/wiki/Terminology-%E0%BD%96%E0%BD%A2%E0%BE%A1%E0%BC%8B%E0%BD%86%E0%BD%91%E0%BC%8D-%E6%9C%AF%E8%AF%AD#dpi-%E0%BD%82%E0%BD%A6%E0%BD%A3%E0%BD%86%E0%BD%A0%E0%BD%B2%E0%BD%9A%E0%BD%91%E0%BD%82%E0%BD%9E%E0%BD%B2-dpi) 400 ངེས་པར་འདེམས་དགོས། 
@@ -50,7 +50,7 @@ ScandAll-Proཁ་ཕྱེ། 🡲 <img src="https://github.com/buda-base/budax
 
 
 
-### ༥. སྒྲིག་འགོད་གཞན་འགའ།
+### ༥༽ སྒྲིག་འགོད་གཞན་འགའ།
 基本设置 སྟེང་ནོན། 🡲 图像འདེམས། 🡲 自动འདེམས། 🡲 页面སྟེང་ནོན། 🡲 旋转འདེམས། 🡲 逆时针旋转90度འདེམས། 或是ཡང་ན། 180度འདེམས། 🡲 翻页类型སྟེང་ནོན། 🡲 书འདེམས། 🡲 页面སྟེང་ནོན། 🡲 无 背景 黑色 སྟེང་ནོན། 🡲 禁用འདེམས། 进纸 检测 操作 停止并显示图像 🡲 确定སྟེང་ནོན། 
 
 སྡེ་ཚན་图像ནང་དུ་自动 འདེམས་དགོས། འདིའི་གཞན་ཚང་མ་ 禁用 འདེམས་པས་ཆོག དཔེ་རིས་ངོས་སུ་གསལ་བ་བཞིན་གལ་ཏེ་ཁྱེད་ཀྱིས་བཤེར་འབེབས་བྱེད་རྒྱུའི་དཔེ་ཆ་དེ་[པོ་ཏི](https://github.com/buda-base/digitization-guidelines/wiki/Terminology-%E0%BD%96%E0%BD%A2%E0%BE%A1%E0%BC%8B%E0%BD%86%E0%BD%91%E0%BC%8D-%E6%9C%AF%E8%AF%AD#%E5%8D%B7-%E0%BD%94%E0%BD%BC%E0%BD%8F%E0%BD%B2-volume)འི་རིགས་ཡིན་ན་༩༠ འོག་མ་དེ་ངེས་པར་འདེམས་དགོས་པ་ཡིན། [དཔེ་དེབ](https://github.com/buda-base/digitization-guidelines/wiki/Terminology-%E0%BD%96%E0%BD%A2%E0%BE%A1%E0%BC%8B%E0%BD%86%E0%BD%91%E0%BC%8D-%E6%9C%AF%E8%AF%AD#%E4%B9%A6-%E0%BD%91%E0%BD%94%E0%BD%BA%E0%BD%91%E0%BD%BA%E0%BD%96-book)་རིགས་ཡིན་ན་180 དང་དེའི་གཤམ་གྱི་ 书 ཞེས་པ་དེ་འདེམས་དགོས། དེ་ལས་གཞན་པའི་སྒྲིག་འགོད་རྣམས་འགུལ་རིས་ནང་གསལ་བཞིན་བྱོས།
