@@ -1,10 +1,10 @@
 # དགུ་བ། web images དྲ་སྤེལ་པར་སྣོད་བཟོ་བ།
 | དཀར་ཆག   |
 |---------|
-༡. [དྲ་སྤེལ་པར་སྣོད་གྲ་སྒྲིག་དང་བརྒྱ་ཆ་འཕྲི་ཐབས།](https://github.com/buda-base/digitization-guidelines/wiki/XnView-MP-(NEW)#%E0%BC%A1-%E0%BD%91%E0%BE%B2%E0%BD%A6%E0%BE%A4%E0%BD%BA%E0%BD%A3%E0%BD%94%E0%BD%A2%E0%BD%A6%E0%BE%A3%E0%BD%BC%E0%BD%91%E0%BD%82%E0%BE%B2%E0%BD%A6%E0%BE%92%E0%BE%B2%E0%BD%B2%E0%BD%82%E0%BD%91%E0%BD%84%E0%BD%96%E0%BD%A2%E0%BE%92%E0%BE%B1%E0%BD%86%E0%BD%A0%E0%BD%95%E0%BE%B2%E0%BD%B2%E0%BD%90%E0%BD%96%E0%BD%A6)
-|༢. [མཚོན་མདོག་ཅན་རྐྱང་བ།](https://github.com/buda-base/digitization-guidelines/wiki/XnView-MP-(NEW)#%E0%BC%A2-%E0%BD%94%E0%BD%A2%E0%BD%98%E0%BD%9A%E0%BD%BC%E0%BD%93%E0%BD%98%E0%BD%91%E0%BD%BC%E0%BD%82%E0%BD%85%E0%BD%93%E0%BD%A2%E0%BE%90%E0%BE%B1%E0%BD%84%E0%BD%96)
-|༣. [དཀར་ནག་ཅན་རྐྱང་པ།](https://github.com/buda-base/digitization-guidelines/wiki/XnView-MP-(NEW)#%E0%BC%A3-%E0%BD%94%E0%BD%A2%E0%BD%91%E0%BD%80%E0%BD%A2%E0%BD%93%E0%BD%82%E0%BD%85%E0%BD%93%E0%BD%A2%E0%BE%90%E0%BE%B1%E0%BD%84%E0%BD%96)
-|༤. [ཚོན་ལྡན་དང་དཀར་ནག་འདྲེས་མ།](https://github.com/buda-base/digitization-guidelines/wiki/XnView-MP-(NEW)#%E0%BC%A4-%E0%BD%9A%E0%BD%BC%E0%BD%93%E0%BD%A3%E0%BE%A1%E0%BD%93%E0%BD%91%E0%BD%84%E0%BD%91%E0%BD%80%E0%BD%A2%E0%BD%93%E0%BD%82%E0%BD%A0%E0%BD%91%E0%BE%B2%E0%BD%BA%E0%BD%A6%E0%BD%98)
+༡. [དྲ་སྤེལ་པར་སྣོད་གྲ་སྒྲིག་དང་བརྒྱ་ཆ་འཕྲི་ཐབས།](https://github.com/buda-base/budax/blob/master/howtoguides/DIG13/index.md#%E0%BC%A1-%E0%BD%91%E0%BE%B2%E0%BD%A6%E0%BE%A4%E0%BD%BA%E0%BD%A3%E0%BD%94%E0%BD%A2%E0%BD%A6%E0%BE%A3%E0%BD%BC%E0%BD%91%E0%BD%82%E0%BE%B2%E0%BD%A6%E0%BE%92%E0%BE%B2%E0%BD%B2%E0%BD%82%E0%BD%91%E0%BD%84%E0%BD%96%E0%BD%A2%E0%BE%92%E0%BE%B1%E0%BD%86%E0%BD%A0%E0%BD%95%E0%BE%B2%E0%BD%B2%E0%BD%90%E0%BD%96%E0%BD%A6)
+|༢. [མཚོན་མདོག་ཅན་རྐྱང་བ།](https://github.com/buda-base/budax/blob/master/howtoguides/DIG13/index.md#%E0%BC%A2-%E0%BD%94%E0%BD%A2%E0%BD%98%E0%BD%9A%E0%BD%BC%E0%BD%93%E0%BD%98%E0%BD%91%E0%BD%BC%E0%BD%82%E0%BD%85%E0%BD%93%E0%BD%A2%E0%BE%90%E0%BE%B1%E0%BD%84%E0%BD%96)
+|༣. [དཀར་ནག་ཅན་རྐྱང་པ།](https://github.com/buda-base/budax/blob/master/howtoguides/DIG13/index.md#%E0%BC%A3-%E0%BD%94%E0%BD%A2%E0%BD%91%E0%BD%80%E0%BD%A2%E0%BD%93%E0%BD%82%E0%BD%85%E0%BD%93%E0%BD%A2%E0%BE%90%E0%BE%B1%E0%BD%84%E0%BD%96)
+|༤. [ཚོན་ལྡན་དང་དཀར་ནག་འདྲེས་མ།](https://github.com/buda-base/budax/blob/master/howtoguides/DIG13/index.md#%E0%BC%A4-%E0%BD%9A%E0%BD%BC%E0%BD%93%E0%BD%A3%E0%BE%A1%E0%BD%93%E0%BD%91%E0%BD%84%E0%BD%91%E0%BD%80%E0%BD%A2%E0%BD%93%E0%BD%82%E0%BD%A0%E0%BD%91%E0%BE%B2%E0%BD%BA%E0%BD%A6%E0%BD%98)
 
 ## ༡. དྲ་སྤེལ་པར་སྣོད་གྲ་སྒྲིག་དང་བརྒྱ་ཆ་འཕྲི་ཐབས།
 
@@ -14,22 +14,22 @@
 ### ཀ) ཚེག་གི་ཆེ་ཆུང་དང་བརྒྱ་ཆ་འཕྲི་ཐབས་ཀྱི་འབྲེལ་བ། <br>
 གཤམ་གྱི་འགུལ་རིས་ནང་དུ་གསལ་བ་བཞིན་ཐོག་དང་པོར་མཁོ་སྒྲུབ་ཨང་ཅན་གྱི་པར་སྣོད་ནང་དུ་ཡིག་སྣོད་གསར་བ་ཞིག་བཟོས་ནས་imagesའདོགས་དགོས། དེ་རྗེས་ཉར་ཚགས་པར་སྣོད་(archive)ནང་གི་པར་དཀྱུས་མ་ཞིག་ཁ་ཕྱེ་ནས་ཚེག་གི་མཐོ་དམའ་ཚད་མཇལ། དེ་ནས་ཚེག་གི་མཐོ་དམའ་དང་བརྒྱ་ཆའི་རེའུ་མིག་ལ་བལྟས་ནས་བརྒྱ་ཆ་ག་ཚོད་འཕྲི་དགོས་མིན་ལ་བལྟ་དགོས།
 
-<img src="https://github.com/buda-base/digitization-guidelines/blob/master/docs/img/XnView%20GIF/common/008.gif" height="500" width="650" >
+<img src="https://github.com/buda-base/budax/blob/master/howtoguides/DIG13/images/001.gif" height="500" width="650" >
 
 ### ཁ) ཚེག་གི་མཐོ་ཚད་དང་བརྒྱ་ཆ་འཕྲི་ཐབས་ཀྱི་རེའུ་མིག <br>
 པར་རིས་གང་རུང་ཞིག་ཡིན་རུང་ཚེག་གི་མཐོ་ཚད་པིག་སེལ་40ཚད་ལྡན་དུ་ངོས་འཛིན་བྱེད། གལ་སྲིད་ཚེག་གི་མཐོ་ཚད་པིག་སེལ་བཞི་བཅུ་ལས་ཆེ་བ་ཡོད་ན་ཆུང་རུ་གཏོང་དགོས། དེ་མིན་ཚེག་གི་མཐོ་ཚད་པིག་སེལ་བཞི་བཅུ་ལས་ཆུང་བ་ཡོད་ན་བརྒྱ་ཆ་འཕྲི་མི་དགོས།
 
-<img src="https://user-images.githubusercontent.com/42564256/77399068-99967680-6de3-11ea-980a-8cfc7880c46c.PNG" height="100" width="650" >
+<img src="https://github.com/buda-base/budax/blob/master/howtoguides/DIG13/images/002.png" height="100" width="650" >
 
 ### ག) བརྒྱ་ཆ་འཕྲི་ཐབས་ཀྱི་སྒྲིག་འགོད། <br>
 archive ཡིག་སྣོད་ 批量转换 ཁ་ཕྱེ་ནས་སྒྲིག་འགོད་ནང་དུ་བརྒྱ་ཆ་འཕྲི་ཐབས་རེའུ་མིག་ནང་འཁེལ་ཡོད་པའི་ཨང་འབྲི་དགོས།
 
-<img src="https://github.com/buda-base/digitization-guidelines/blob/master/docs/img/XnView%20GIF/common/009.gif" height="500" width="650" >
+<img src="https://github.com/buda-base/budax/blob/master/howtoguides/DIG13/images/003.gif" height="500" width="650" >
 
 ### ང) བརྒྱ་ཆ་འཕྲི་ཐབས་དངོས། <br>
 འདིར་ཡིག་ཆའི་རྣམ་སྒྲིག་རང་འཇག་དང་། དྲ་སྤེལ་ཡིག་སྣོད་(images)འདེམས་དགོས། དེ་བཞིན་སྒྲིག་འགོད་གཞན་ཁག་སྒྲིག་རྗེས་བསྒྱུར་དགོས།
 
-<img src="https://github.com/buda-base/digitization-guidelines/blob/master/docs/img/XnView%20GIF/common/010.gif" height="500" width="650" >
+<img src="https://github.com/buda-base/budax/blob/master/howtoguides/DIG13/images/004.gif" height="500" width="650" >
 
 ## ༢. པར་མཚོན་མདོག་ཅན་རྐྱང་བ།
 
@@ -38,7 +38,7 @@ archive ཡིག་སྣོད་ 批量转换 ཁ་ཕྱེ་ནས་ས�
 ### ཀ) ཚོན་མདོག་རྐྱང་བ་ཅན་གྱི་ཉར་ཚགས་པར་སྣོད་བཟོ་སྟངས། <br>
 དྲ་སྤེལ་པར་སྣོད་ནང་དུ་ཡོད་པའི་པོད་རེ་རེ་བཞིན་མཉེན་ཆས་ཀྱི་批量转换ནང་ཁ་ཕྱེ་ནས་བསྒྱུར་དགོས། འདིར་ངེས་དགོས་བ་ཞིག་ལ་动作(0/0)ནང་དུ་སྒྲིག་འགོད་གཅིག་ཀྱང་ཡོད་མི་ཆོག པར་གྱི་རྣམ་སྒྲིག་JPG-JPEG/JFIFདང་། དེའི་སྒྲིག་འགོད་ནང་རྣམ་སྒྲིག་ཚགས་བསྡུས་བརྒྱད་ཅུ་དང།  浙进ལ་རྟགས་རྒྱགས་དགོས། 
 
-<img src="https://github.com/buda-base/digitization-guidelines/blob/master/docs/img/XnView%20GIF/color/001.gif" height="500" width="650" >
+<img src="https://github.com/buda-base/budax/blob/master/howtoguides/DIG13/images/005.gif" height="500" width="650" >
 
 
 ## ༣. པར་དཀར་ནག་ཅན་རྐྱང་བ།
@@ -49,12 +49,12 @@ archive ཡིག་སྣོད་ 批量转换 ཁ་ཕྱེ་ནས་ས�
 ### ཀ) དཀར་ནག་ཅན་དུ་བསྒྱུར་ཚུལ་གྱི་སྒྲིག་འགོད། <br>
 དྲ་སྤེལ་པར་སྣོད་ནང་དུ་ཡོད་པའི་པོད་རེ་རེ་བཞིན་མཉེན་ཆས་ཀྱི་批量转换ནང་ཁ་ཕྱེ་ནས་བསྒྱུར་དགོས། སྐབས་འདིར་ངེས་དགོས་བ་ཞིག་ལ་动作(0/1)ནང་དུ་སྒྲིག་འགོད་དཀར་ནག་ཅན་(binary)འདེམས་དགོས།
 
-<img src="https://github.com/buda-base/digitization-guidelines/blob/master/docs/img/XnView%20GIF/BW/001.gif" height="500" width="650" >
+<img src="https://github.com/buda-base/budax/blob/master/howtoguides/DIG13/images/006.gif" height="500" width="650" >
 
 ### ཁ) དཀར་ནག་ཅན་དུ་དངོས་སུ་བསྒྱུར་ཚུལ།<br>
 དེ་བཞིན་པར་གྱི་རྣམ་སྒྲིག་TIF - TIFF Revision 6འདེམས་ནས་CCITT G4འཇོག་དགོས། འགུལ་རིས་ནང་གསལ་བཞིན་སྒྲིག་འགོད་གཞན་རེ་རེ་བཞིན་སྒྲིག་རྗེས་བསྒྱུར་དགོས།
 
-<img src="https://github.com/buda-base/digitization-guidelines/blob/master/docs/img/XnView%20GIF/BW/002.gif" height="500" width="650" >
+<img src="https://github.com/buda-base/budax/blob/master/howtoguides/DIG13/images/007.gif" height="500" width="650" >
 
 
 
@@ -66,29 +66,29 @@ archive ཡིག་སྣོད་ 批量转换 ཁ་ཕྱེ་ནས་ས�
 #### ༡) ཚོན་ལྡན་པར་རྣམས་འདེམས་སྟངས། <br>
 འོག་གི་འགུལ་རིས་ནང་གསལ་བཞིན་དྲ་སྤེལ་པར་སྣོད་ནང་དུ་ཡོད་པའི་པོད་རེ་རེ་བཞིན་ཁ་ཕྱེ་ནས་དེའི་ནང་གི་ཚོན་ལྡན་པར་རེ་རེ་བཞིན་འདེམས་དགོས།
 
-<img src="https://github.com/buda-base/digitization-guidelines/blob/master/docs/img/XnView%20GIF/mixed/001.gif" height="500" width="650" >
+<img src="https://github.com/buda-base/budax/blob/master/howtoguides/DIG13/images/008.gif" height="500" width="650" >
 
 #### ༢) སྒྲིག་འགོད་དང་བསྒྱུར་སྟངས། <br>
 འདིར་ངེས་དགོས་བ་ཞིག་ལ་动作(0/0)ནང་དུ་སྒྲིག་འགོད་གཅིག་ཀྱང་ཡོད་མི་ཆོག པར་གྱི་རྣམ་སྒྲིག་JPG-JPEG/JFIFདང་། དེའི་སྒྲིག་འགོད་ནང་རྣམ་སྒྲིག་ཚགས་བསྡུས་བརྒྱད་ཅུ་དང།  浙进ལ་རྟགས་རྒྱགས་དགོས། 
 
-<img src="https://github.com/buda-base/digitization-guidelines/blob/master/docs/img/XnView%20GIF/mixed/002.gif" height="500" width="650" >
+<img src="https://github.com/buda-base/budax/blob/master/howtoguides/DIG13/images/009.gif" height="500" width="650" >
 
 
 ### ཁ༽ ཚོན་ལྡན་དང་དཀར་ནག་འདྲེས་མའི་པར་སྣོད་ལས་པར་དཀར་ནག་ཅན་བསྒྱུར་སྟངས།
 
-📂imagesཁ་ཕྱེ། 🡲 📂01ཁ་ཕྱེ། 🡲 <img src="https://user-images.githubusercontent.com/42564256/77397369-6d2d2b00-6de0-11ea-8129-9ff12de70b4e.PNG" height="20" width="30" >རྟགས་འདིའི་སྟེང་ནོན། 🡲 类型འདེམས། 🡲 ཚོན་ལྡན་མིན་པའི་པར་རྣམས་འདེམས། 🡲 ཙི་ཙི་གཡས་ནོན་བྱོས། 🡲 批量转换འདེམས། 🡲 添加动作འདེམས། 🡲 图像འདེམས། 🡲 改变颜色འདེམས། 🡲 二进制རྟགས་རྒྱོབ། 🡲 抖动 🡲 没有འདེམས། 🡲 输出སྟེང་ནོན། 🡲 原文件夹འདེམས། 🡲 文件名 🡲{filename} 🡲 格式 🡲 TIF - TIFF Revision 6འདེམས། 🡲 设置སྟེང་ནོན། 🡲 黑白图像压缩(B&W) 🡲 CCITT G4འདེམས། 🡲 OK 🡲 当输出文件已经存在时 🡲 重命名འདེམས། 🡲 保特文件结构ལ་རྟགས་རྒྱོབས། 🡲 保留上级目录(པོད་གཅིག་ཅན་ཡིན་ན་འདི་ལ་རྟགས་རྒྱོབས། དེ་མིན་རྟགས་རྒྱགས་མི་དགོས།) 🡲 保留元数据ལ་རྟགས་རྒྱོབས། 🡲 Use CPU Coresལ་རྟགས་རྒྱབ་ནས་མཐོ་ཤོས་དེ་འདེམས། 🡲 转挨ནོན། 🡲 OKནོན། 🡲 批量转换སྒོ་རྒྱོབ། <img src="https://user-images.githubusercontent.com/42564256/77397369-6d2d2b00-6de0-11ea-8129-9ff12de70b4e.PNG" height="20" width="30" >རྟགས་འདིའི་སྟེང་ནོན། 🡲 文件名འདེམས།
+📂imagesཁ་ཕྱེ། 🡲 📂01ཁ་ཕྱེ། 🡲 <img src="https://user-images.githubusercontent.com/42564256/77397369-6d2d2b00-6de0-11ea-8129-9ff12de70b4e.PNG" height="20" width="30" >རྟགས་འདིའི་སྟེང་ནོན། 🡲 类型འདེམས། 🡲 ཚོན་ལྡན་མིན་པའི་པར་རྣམས་འདེམས། 🡲 ཙི་ཙི་གཡས་ནོན་བྱོས། 🡲 批量转换འདེམས། 🡲 添加动作འདེམས། 🡲 图像འདེམས། 🡲 改变颜色འདེམས། 🡲 二进制རྟགས་རྒྱོབ། 🡲 抖动 🡲 没有འདེམས། 🡲 输出སྟེང་ནོན། 🡲 原文件夹འདེམས། 🡲 文件名 🡲{filename} 🡲 格式 🡲 TIF - TIFF Revision 6འདེམས། 🡲 设置སྟེང་ནོན། 🡲 黑白图像压缩(B&W) 🡲 CCITT G4འདེམས། 🡲 OK 🡲 当输出文件已经存在时 🡲 重命名འདེམས། 🡲 保特文件结构ལ་རྟགས་རྒྱོབས། 🡲 保留上级目录(པོད་གཅིག་ཅན་ཡིན་ན་འདི་ལ་རྟགས་རྒྱོབས། དེ་མིན་རྟགས་རྒྱགས་མི་དགོས།) 🡲 保留元数据ལ་རྟགས་རྒྱོབས། 🡲 Use CPU Coresལ་རྟགས་རྒྱབ་ནས་མཐོ་ཤོས་དེ་འདེམས། 🡲 转挨ནོན། 🡲 OKནོན། 🡲 批量转换སྒོ་རྒྱོབ། <img src="https://github.com/buda-base/budax/blob/master/howtoguides/DIG13/images/013.png" height="20" width="30" >རྟགས་འདིའི་སྟེང་ནོན། 🡲 文件名འདེམས།
 
 #### ༡) དཀར་ནག་ཅན་པར་རྣམས་འདེམས་ཚུལ། <br>
 འགུལ་རིས་ནང་དུ་གསལ་བ་བཞིན་དྲ་སྤེལ་པར་སྣོད་ཀྱི་ནང་དུ་པར་སྣོད་རེ་རེ་བཞིན་ཁ་ཕྱེ་ནས་དེའི་ནང་གི་པར་ཚོན་ལྡན་མ་ཡིན་པ་རྣམས་འདེམས་དགོས་པ་ཡིན།
 
-<img src="https://github.com/buda-base/digitization-guidelines/blob/master/docs/img/XnView%20GIF/mixed/003.gif" height="500" width="650" >
+<img src="https://github.com/buda-base/budax/blob/master/howtoguides/DIG13/images/010.gif" height="500" width="650" >
 
 #### ༢) དཀར་ནག་ཅན་དུ་བསྒྱུར་ཚུལ་གྱི་སྒྲིག་འགོད། <br>
 དྲ་སྤེལ་པར་སྣོད་ནང་དུ་ཡོད་པའི་པོད་རེ་རེ་བཞིན་མཉེན་ཆས་ཀྱི་批量转换ནང་ཁ་ཕྱེ་ནས་བསྒྱུར་དགོས། སྐབས་འདིར་ངེས་དགོས་བ་ཞིག་ལ་动作(0/1)ནང་དུ་སྒྲིག་འགོད་དཀར་ནག་ཅན་(binary)འདེམས་དགོས།
 
-<img src="https://github.com/buda-base/digitization-guidelines/blob/master/docs/img/XnView%20GIF/mixed/004.gif" height="500" width="650" >
+<img src="https://github.com/buda-base/budax/blob/master/howtoguides/DIG13/images/011.gif" height="500" width="650" >
 
 #### ༣) དཀར་ནག་ཅན་དུ་དངོས་སུ་བསྒྱུར་ཚུལ།<br>
 དེ་བཞིན་པར་གྱི་རྣམ་སྒྲིག་TIF - TIFF Revision 6འདེམས་ནས་CCITT G4འཇོག་དགོས། འགུལ་རིས་ནང་གསལ་བཞིན་སྒྲིག་འགོད་གཞན་རེ་རེ་བཞིན་སྒྲིག་རྗེས་བསྒྱུར་དགོས།
 
-<img src="https://github.com/buda-base/digitization-guidelines/blob/master/docs/img/XnView%20GIF/mixed/005.gif" height="500" width="650" >
+<img src="https://github.com/buda-base/budax/blob/master/howtoguides/DIG13/images/012.gif" height="500" width="650" >
