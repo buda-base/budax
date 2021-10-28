@@ -99,4 +99,4 @@ File སྒོ་ཕྱེས་ཏེ་ 🡲 Save Project As...བདམས་
 <img src="https://github.com/buda-base/budax/blob/master/howtoguides/DIG16/images/012.gif" height="420" width="630" >
 
 
-[དབུ་ལ་འགྲོ།](https://github.com/buda-base/digitization-guidelines/wiki/ScanTailor-%E0%BD%96%E0%BD%80%E0%BD%BC%E0%BD%A3%E0%BC%8B%E0%BD%A6%E0%BE%A4%E0%BE%B1%E0%BD%BC%E0%BD%91%E0%BC%8D)
+[དབུ་ལ་འགྲོ།](https://github.com/buda-base/budax/blob/master/howtoguides/DIG16/index.md)
