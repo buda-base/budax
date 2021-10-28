@@ -1,3 +1,4 @@
+# ScanTailor བཀོལ་སྤྱོད།
 |  དཀར་ཆག    |
 |-----------|
 |[༠༽ མཉེན་ཆས་ཕབ་ལེན་གྱི་སྡེ་ཚན།](https://github.com/buda-base/budax/blob/master/howtoguides/DIG16/index.md#%E0%BC%A0-scantailor-%E0%BD%98%E0%BD%89%E0%BD%BA%E0%BD%93%E0%BD%86%E0%BD%A6%E0%BD%95%E0%BD%96%E0%BD%A3%E0%BD%BA%E0%BD%93%E0%BD%82%E0%BE%B1%E0%BD%B2%E0%BD%A6%E0%BE%A1%E0%BD%BA%E0%BD%9A%E0%BD%93)
