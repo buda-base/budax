@@ -8,7 +8,7 @@
 ### 用Docfetcher离线搜索文本 དྲ་རྒྱ་མི་དགོས་པར་ནགས་ཕྱི་འཚོལ་ཆས་བཀོལ་ནས་འཕྲུལ་ཡིག་འཚོལ་ཞིབ།
 
 *   [DFC01 - ནགས་ཕྱི་འཚོལ་ཆས་བཀོལ་ཚུལ། Docfetcher 搜索软件的使用方法](https://github.com/buda-base/budax/blob/master/howtoguides/DFC01/index.md)
-*   [DFC02 - ནགས་ཕྱི་འཚོལ་ཆས་བཀོལ་ནས་དཔྱད་རྩོམ་ཀྱི་བརྗོད་བྱ་གཏན་འབེབས།用Docfetcher搜索来明确论文的主题](https://github.com/buda-base/budax/blob/master/howtoguides/DFC02/index.md)
+*   [DFC02 - ནགས་ཕྱི་འཚོལ་ཆས་བཀོལ་ནས་རྩོམ་ཀྱི་བརྗོད་བྱ་གཏན་འབེབས། 用Docfetcher搜索来明确文件的主题](https://github.com/buda-base/budax/blob/master/howtoguides/DFC02/index.md)
 
 ### 使用VS Code离线搜索文本 དྲ་རྒྱ་མི་དགོས་པར་ཁོ་ཌི་མཉེན་ཆས་བཀོལ་ནས་འཕྲུལ་ཡིག་འཚོལ་ཞིབ།
 
@@ -16,7 +16,7 @@
 *   [VSC01 - སྤྱིར་བཏང་ཁོ་ཌི་མཉེན་ཆས་བཀོལ་སྟངས། Code软件的一般应用方式](https://github.com/buda-base/budax/blob/master/howtoguides/VSC01/index.md)
 *   [VSC02 - ཁོ་ཌི་མཉེན་ཆས་ནང་ལས་གནས་བཟོ་ཚུལ། Code软件上设置工作区的课程](https://github.com/buda-base/budax/blob/master/howtoguides/VSC02/index.md)
 *   [VSC03 - ཐ་སྙད་ཞིབ་འཇུག་གི་རྒྱུ་ཆ་འཚོལ་བསྡུ་བྱ་ཚུལ། 研究词汇的含义](https://github.com/buda-base/budax/blob/master/howtoguides/VSC03/index.md)
-*   [VSC04 - ཀཱར་ཥཱ་པ་ཎའི་སྐོར་གྱི་གཞི་གྲངས་བསྡུ་རུབ། 收集Karshapana一词的相关数据](https://github.com/buda-base/budax/blob/master/howtoguides/VSC04/index.md)
+*   [VSC04 - ཐ་སྙད་གཅིག་གི་དག་ཆ་འབྲི་སྟངས་མི་འདྲ་བ་འཚོལ་སྟངས། 收集一个词的相关数据](https://github.com/buda-base/budax/blob/master/howtoguides/VSC04/index.md)
 
 ## 对BUDA数据库作出贡献 བུདྡྷ་དཔེ་མཛོད་ལ་དཔེ་ཆ་ཕུལ་སྟངས།
 ### 扫描书籍的方法 དཔེ་ཆ་བཤེར་འབེབས་བྱེད་སྟངས།
