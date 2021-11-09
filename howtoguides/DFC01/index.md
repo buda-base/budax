@@ -25,7 +25,7 @@ Docfetcher 搜索软件的使用方法。请详细浏览如何使用docfetcher �
 
 在自己的电脑上打开该搜索软件后，首先需要设置字体及大小，如下图所示。ནགས་ཕྱི་འཚོལ་ཆས་རང་ཉིད་ཀྱི་གློག་ཀླད་ནང་ཁ་ཕྱེ་རྗེས་དང་པོ་ཡིག་གཟུགས་དང་ཡིག་གཟུགས་ཆེ་ཆུང་སྒྲིག་བཟོ་བྱེད་དགོས་པས་དེ་ལ་བལྟ་བར་བྱའོ། །
 
-![Image](images/000004.png)![Image](images/000000.png)རྟགས་འདི་ནོན།  
+![Image](images/000004.png) <img src="https://github.com/buda-base/budax/blob/master/howtoguides/DFC01/images/000000.png" height="15" width="20" >རྟགས་འདི་ནོན།  
 ![Image](images/000014.png)"Helvetica 12 " ནོན།  
 ![Image](images/000009.png)" Monlam Uni Sans Serif " འདེམ།  
 ![Image](images/000007.png)" Monaco 10" ནོན།  
