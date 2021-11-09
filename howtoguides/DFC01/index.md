@@ -76,7 +76,7 @@ Docfetcher 搜索软件的使用方法。请详细浏览如何使用docfetcher �
 
 <p class="hide top"><iframe src="https://shimowendang.com/forms/TB96rwAPL1cRjQzP/fill?channel=1" style="height:1050px;width:800px;"></iframe></p>
 
-## [教程目录 བཀོལ་སྤྱོད་ལམ་སྟོན་ཀྱི་དཀར་ཆག](https://github.com/buda-base/budax)
+## [教程目录 བཀོལ་སྤྱོད་ལམ་སྟོན་གྱི་དཀར་ཆག](https://github.com/buda-base/budax)
 
 
  
