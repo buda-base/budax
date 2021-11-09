@@ -94,6 +94,6 @@
 
 <p class="hide top"><iframe src="https://shimowendang.com/forms/YmLbTE0W7conflO6/fill?channel=1" style="height:1050px;width:800px;"></iframe></p>
 
-##  [BUDA 操作指南 བུདྡྷ་དྲ་བའི་བཀོལ་སྤྱོད་ལམ་སྟོན།](https://github.com/buda-base/budax) 
+##  [教程目录 བཀོལ་སྤྱོད་ལམ་སྟོན་ཀྱི་དཀར་ཆག](https://github.com/buda-base/budax) 
 
 
