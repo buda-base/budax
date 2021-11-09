@@ -18,12 +18,14 @@
 *   [VSC03 - ཐ་སྙད་ཞིབ་འཇུག་གི་རྒྱུ་ཆ་འཚོལ་བསྡུ་བྱ་ཚུལ། 研究词汇的含义](https://github.com/buda-base/budax/blob/master/howtoguides/VSC03/index.md)
 *   [VSC04 - ཀཱར་ཥཱ་པ་ཎའི་སྐོར་གྱི་གཞི་གྲངས་བསྡུ་རུབ། 收集Karshapana一词的相关数据](https://github.com/buda-base/budax/blob/master/howtoguides/VSC04/index.md)
 
-## 对BUDA数据库作出贡献 བུདྡྷའི་གཞི་གྲངས་ལྟེ་གནས་ལ་ཁ་གསབ་བྱེད་པ།
+## 对BUDA数据库作出贡献 བུདྡྷ་དཔེ་མཛོད་ལ་དཔེ་ཆ་ཕུལ་སྟངས།
+### 扫描书籍的方法 དཔེ་ཆ་བཤེར་འབེབས་བྱེད་སྟངས།
+*   [DIG15 - བཤེར་འབེབས་པའི་ལག་ལེན་གོ་རིམ། 标准操作流程(DPE)](https://github.com/buda-base/budax/blob/master/howtoguides/DIG15/index.md)
 
-### 用Saymore为BUDA准备etext文本 Saymoreསྤྱད་་ནས་བུདྡྷ་དྲ་ཐོག་དཔེ་མཛོད་ལ་འཕྲུལ་ཡིག་མཐུན་སྦྱོར་བྱེད་པ།
+### 用Saymore为BUDA准备etext文本 Saymoreསྤྱད་ནས་བུདྡྷ་དྲ་ཐོག་དཔེ་མཛོད་ལ་འཕྲུལ་ཡིག་མཐུན་སྦྱོར་བྱེད་པ།
 
 *   [SAY01 - Saymoreམཉེན་ཆས་བཀོལ་ནས་དཔྱད་རྩོམ་གྱི་རྒྱུ་ཆ་བསྡུ་ཚུལ། 使用Saymore软件搜集论文资料](https://github.com/buda-base/budax/blob/master/howtoguides/SAY01/index.md)
 
-## 其它的操作指南 བཀོལ་སྤྱོད་ལམ་སྟོན་ཕྲན་ཚེགས།
+## 其它的操作指南 བཀོལ་སྤྱོད་ལམ་སྟོན་གཞན།
 
 *   [FNT01 - ཡིག་གཟུགས་ཕན་ཚུན་བསྒྱུར་ཆས། Tibetan Font Converter 藏文的字体转换器](https://github.com/buda-base/budax/blob/master/howtoguides/FNT01/index.md)
