@@ -3,8 +3,10 @@
 ང་ཚོའི་བུདྡྷ་དྲ་ཐོག་དཔེ་མཛོད་ཀྱི་བཀོལ་སྤྱོད་ལམ་སྟོན་ལ་བརྟེན་ནས་དེའི་ནང་གི་རྒྱུ་ཆ་རྣམས་བཀོལ་སྤྱོད་རྣམ་པ་སྣ་ཚོགས་བྱེད་ཆོག  
 通过我们的操作指南，可以从BUDA资源中获得更多的信息
 
+## ངེད་ཚོགས་པའི་མཉེན་ཆས་དང་དྲ་ཚིགས་གཉིས་ཀྱི་བཀོལ་སྤྱོད་ལམ་སྟོན།
+* [APP01 - ལག་བཅངས་དཔེ་མཛོད་ཀྱི་བཀོལ་སྤྱོད་ལམ་སྟོན།](https://github.com/buda-base/budax/blob/master/howtoguides/APP01/index.md)
+* [BDR01 - BDRC དྲ་ཚིགས་ཀྱི་བཀོལ་སྤྱོད་ལམ་སྟོན།](https://github.com/buda-base/budax/blob/master/howtoguides/BDR01/index.md)
 ## 文本分析工具 འཕྲུལ་ཡིག་འཚོལ་ཞིབ་ཀྱི་ལག་ཆ་ཁག
-
 ### 用Docfetcher离线搜索文本 དྲ་རྒྱ་མི་དགོས་པར་ནགས་ཕྱི་འཚོལ་ཆས་བཀོལ་ནས་འཕྲུལ་ཡིག་འཚོལ་ཞིབ།
 
 *   [DFC01 - ནགས་ཕྱི་འཚོལ་ཆས་བཀོལ་ཚུལ། Docfetcher 搜索软件的使用方法](https://github.com/buda-base/budax/blob/master/howtoguides/DFC01/index.md)
@@ -17,6 +19,7 @@
 *   [VSC02 - ཁོ་ཌི་མཉེན་ཆས་ནང་ལས་གནས་བཟོ་ཚུལ། Code软件上设置工作区的课程](https://github.com/buda-base/budax/blob/master/howtoguides/VSC02/index.md)
 *   [VSC03 - ཐ་སྙད་ཞིབ་འཇུག་གི་རྒྱུ་ཆ་འཚོལ་བསྡུ་བྱ་ཚུལ། 研究词汇的含义](https://github.com/buda-base/budax/blob/master/howtoguides/VSC03/index.md)
 *   [VSC04 - ཐ་སྙད་གཅིག་གི་དག་ཆ་འབྲི་སྟངས་མི་འདྲ་བ་འཚོལ་སྟངས། 收集一个词的相关数据](https://github.com/buda-base/budax/blob/master/howtoguides/VSC04/index.md)
+*   [VSC05 - Open in editor བཀོལ་ཚུལ།](https://github.com/buda-base/budax/blob/master/howtoguides/VSC05/index.md)
 
 ## 对BUDA数据库作出贡献 བུདྡྷ་དཔེ་མཛོད་ལ་དཔེ་ཆ་ཕུལ་སྟངས།
 ### 扫描书籍的方法 དཔེ་ཆ་བཤེར་འབེབས་བྱེད་སྟངས།
