@@ -1,7 +1,42 @@
 # PDF24 Creator的介绍 ངོ་སྤྲོད།
 
-PDF24 is a program that allows you to combine, split, and merge the PDFs you have downloaded from BUDA. Have a look at the video how-to guide to learn how to use it.
-PDF24是一个程序，允许您合并和拆分从BUDA下载的pdf文件。请观看操作指南的视频并了解如何使用它。
+**PDF24** 是一个程序，允许您合并和拆分从BUDA下载的pdf文件。请观看操作指南的视频并了解如何使用它。
+**PDF24** is a program that allows you to combine, split, and merge the PDFs you have downloaded from BUDA. Have a look at the video how-to guide to learn how to use it.
+**PDF24** ཅེས་པའི་མཉེས་འདི་ནི་ནང་བསྟན་དཔེ་ཚོགས་ལྟེ་གནས་ཀྱི་བུདྷ་དཔེ་མཛོད་ནས་ཕབ་ལེན་བྱས་པའི་PDFནང་ཡོད་པའི་དཔེ་ཆ་དང་ཡིག་སོགས་རང་ཉིད་ཀྱི་འདོད་པ་ལྟར་ཁ་གཏོར་བ། མཉམ་དུ་བསྒྲིགས་པ་སོགས་བྱེད་སྤྱད་མཉེན་ཆས་སྟབས་བདེ་ཞིག་ཡིན། གཤམ་ལ་མཉེན་ཆས་འདི་བཀོལ་སྤྱོད་ཇི་ལྟར་བྱེད་ཚུལ་སྐོར་ལ་གཟིགས་རོགས།
+## ཀ༽ PDF24 མཉེན་ཆས་ཕབ་ལེན་དང་ནང་འཇུག་བྱེད་སྟངས།
+### ༡༽ མཉེན་ཆས་ཕབ་ལེན་བྱེད་སྟངས།
+![800](images/001.gif)
+
+### ༢༽ མཉེན་ཆས་ནང་འཇུག་བྱེད་སྟངས།
+![800](images/002.gif)
+
+## ཁ༽ བུདྷ་དཔེ་མཛོད་ནས་ཡིག་ཆ་ཕབ་ལེན་བྱེད་སྟངས།
+### ༡༽ བུདྷ་དཔེ་མཛོད་ཁ་ཕྱེ་སྟངས།
+![800](images/003.gif)
+
+### ༢༽ རང་ཉིད་མཁོ་བའི་དཔེ་ཆ་འཚོལ་སྟངས།
+![800](images/004.gif)
+
+### 3༽ PDF ཡིག་ཆ་ཕབ་ལེན་བྱེད་སྟངས།
+![800](images/005.gif)
+
+## ག༽ PDF ཡིག་ཆ་ཁ་གཏོར་སྟངས།
+### ༡༽ མཉེན་ཆས་ནང་ཡིག་ཆ་ལེན་སྟངས།
+![800](images/006.gif)
+
+### ༢༽ ཡིག་ཆ་ཁ་གཏོར་སྟངས།
+![800](images/007.gif)
+
+### ༢༽ ཁ་གཏོར་ཚར་བའི་ཡིག་ཆ་རེ་རེ་བཞིན་ལྟ་སྟངས།
+![800](images/008.gif)
+
+## ང༽ PDF ཡིག་ཆ་གཉིས་ལས་མང་མཉམ་དུ་སྦྱོར་སྟངས།
+### ༡༽ མཉེན་ཆས་ནང་ཡིག་ཆ་ལེན་སྟངས།
+![800](images/009.gif)
+
+### ༢༽ མཉམ་སྦྱོར་བྱས་ཚར་བའི་ཡིག་ཆ་ལ་ལྟ་སྟངས།
+![800](images/010.gif)
+
 
 
 <p class="hide top"><iframe src="https://shimowendang.com/forms/9qjAcen8418CdKlI/fill?channel=1" style="height:1050px;width:800px;"></iframe></p>
