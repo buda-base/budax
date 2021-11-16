@@ -62,7 +62,7 @@ Example: `![300](images/img.png)`
       *     ...
 *   BUDA website (...)
 
-*   PDF24 (Lobsang)
+*   PDF24 (Lobsang-Done)
     *   replace video
     *   make course about BDRC resources
         *   download PDF + split + merge
@@ -71,13 +71,13 @@ Example: `![300](images/img.png)`
     *   delete banner and keywords like དཔྱད་རྩོམ། or སློབ་ཚན།
     *   headings for TOC
     *   add questionnaire
-*   DFC01 (Lobsang) - ནགས་ཕྱི་འཚོལ་ཆས་བཀོལ་ཚུལ། Docfetcher 搜索软件的使用方法
+*   DFC01 (Lobsang Done) - ནགས་ཕྱི་འཚོལ་ཆས་བཀོལ་ཚུལ། Docfetcher 搜索软件的使用方法
     *   delete or update links
     *   Docfetcher and Java download links from China
     *   delete banner and keywords like དཔྱད་རྩོམ། or སློབ་ཚན།
     *   headings for TOC
     *   add questionnaire
-*    DFC02 (Lobsang) - ནགས་ཕྱི་འཚོལ་ཆས་བཀོལ་ནས་དཔྱད་རྩོམ་ཀྱི་བརྗོད་བྱ་གཏན་འབེབས། 用Docfetcher搜索来明确论文的主题
+*    DFC02 (Lobsang Done) - ནགས་ཕྱི་འཚོལ་ཆས་བཀོལ་ནས་རྩོམ་ཀྱི་བརྗོད་བྱ་གཏན་འབེབས། 用Docfetcher搜索来明确论文的主题
     *   Take out things about academic research
     *   headings for TOC
     *   add questionnaire
@@ -137,7 +137,7 @@ Example: `![300](images/img.png)`
     *   delete banner and keywords like དཔྱད་རྩོམ། or སློབ་ཚན།
     *   headings for TOC
     *   add questionnaire
-*   VSC04 (Lobsang) - ཀཱར་ཥཱ་པ་ཎའི་སྐོར་གྱི་གཞི་གྲངས་བསྡུ་རུབ། 收集Karshapana一词的相关数据
+*   VSC04 (Lobsang Done) - ཐ་སྙད་གཅིག་གི་དག་ཆ་འབྲི་སྟངས་མི་འདྲ་བ་འཚོལ་སྟངས། 收集一个词的相关数据 
     *   Change title: "How to find a term spelled different ways with regexes"
     *   Sections:
         *   ...
@@ -158,7 +158,7 @@ Example: `![300](images/img.png)`
     *   add questionnaire
 *   EDG01 - take out
     
-*   FNT01 (Lobsang) - ཡིག་གཟུགས་ཕན་ཚུན་བསྒྱུར་ཆས། Tibetan Font Converter 藏文的字体转换器
+*   FNT01 (Lobsang Done) - ཡིག་གཟུགས་ཕན་ཚུན་བསྒྱུར་ཆས། Tibetan Font Converter 藏文的字体转换器
     *   Sections:
         *   intro: to contribute etexts to BUDA you need to convert them to Unicode
         *   ...
