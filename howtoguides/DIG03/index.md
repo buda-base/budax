@@ -11,15 +11,28 @@
 
 <img src="https://github.com/buda-base/budax/blob/master/howtoguides/DIG03/images/001.png" height="350" width="750" >
 
+![800](images/001.png)
+
 གཉིས་པ། དཔེ་ཀློག་མཉེན་ཆས་ནི་ཆེད་དུ་ཁ་པར་དང་ipad ནང་ངེད་ཚོགས་པའི་དྲ་ཚིགས་ནང་གི་དཔེ་ཆ་རྣམས་བལྟ་ཀློག་བྱེད་ས་ཞིག་ཡིན། གློག་ཀླད་ནང་བཀོལ་མི་ཐུབ། [ཀུ་ཤུ་ཁ་པར།](https://apps.apple.com/us/developer/buddhist-digital-resource-center/id1254032188) [ཨིན་ཌོ་མ་ལག](https://s3.amazonaws.com/bdrcwebassets/prod/about/Android+Tibetan.png)
 
 <img src="https://github.com/buda-base/budax/blob/master/howtoguides/DIG03/images/002.png" height="370" width="750" >
+
+![800](images/002.png)
 
 **བཤེར་འབེབས་བྱ་དགོས་མིན་འདེམ་གསེས་རེའུ་མིག**
 
 དཔེ་ཆ་ཞིག་བཤེར་འབེབས་བྱ་དགོས་མིན་ཐག་གཅོད་བྱེད་སྐབས་གཤམ་གྱི་དཔེ་རིས་ནང་གསལ་ལྟར་བལྟས་ཏེ་ཐག་གཅོད་བྱ་དགོས།
 
 <img src="https://github.com/buda-base/budax/blob/master/howtoguides/DIG03/images/003.png" height="370" width="750" >
+
+![800](images/003.png)
+
+![](images/004.png)
+![](images/005.png)
+![](images/006.png)
+![](images/007.png)
+![](images/008.png)
+![](images/009.png)
 
 **བཤེར་ཐོར་འགོད་ཚུལ་གྱི་དཔེ་མཚོན་རེའུ་མིག**
 
@@ -36,3 +49,5 @@
 དེབ་ཀྱི་རྒྱབ་ཤ་དང་དཔེ་བསྐྲུན་གནས་ཚུལ་མཛད་བྱང་བཅས་ལ་ཁ་པར་གྱིས་པར་བརྒྱབ་ནས་འབྲེལ་མཐུད་པ་ལ་སྐུར།
 
 <img src="https://github.com/buda-base/budax/blob/master/howtoguides/DIG03/images/010.png" height="350" width="750" >
+
+![800](images/010.png)
