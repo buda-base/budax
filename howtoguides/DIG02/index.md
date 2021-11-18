@@ -4,6 +4,8 @@
 
 <img src="https://github.com/buda-base/budax/blob/master/howtoguides/DIG01/images/000001.png" height="270" width="500" >
 
+
+
 ### མཉེན་ཆས།
 
 #### 1. སྒེའུ་ཁུང་10 <br/>
@@ -11,11 +13,14 @@
 
 <img src="https://github.com/buda-base/budax/blob/master/howtoguides/DIG02/images/000001.png" height="230" width="250" >
 
+![](images/000001.png)
 
 #### 2. བཤེར་ཆས་མཐུད་སྦྱོར་མཉེན་ཆས། Fijitsu fi-7160 <br/> 
 Fijitsu fi-7160 [བཤེར་ཆས](https://github.com/buda-base/digitization-guidelines/wiki/Terminology-%E0%BD%96%E0%BD%A2%E0%BE%A1%E0%BC%8B%E0%BD%86%E0%BD%91%E0%BC%8D-%E6%9C%AF%E8%AF%AD#%E6%89%AB%E6%8F%8F%E5%99%A8-%E0%BD%96%E0%BD%A4%E0%BD%BA%E0%BD%A2%E0%BD%86%E0%BD%A6-scanner)་འདི་རྩིས་འཕྲུལ་ལ་མཐུད་ནས་དཔེ་ཆ་བཤེར་འབེབས་དང་བཤེར་པར་ཞིབ་འཇུག་བཅས་འདི་བརྒྱུད་ནས་བྱེད་དགོས་པ་ཡིན། འདི་དག་ཚང་མ་རྩིས་འཕྲུལ་དང་འབྲེལ་དགོས་དུས་རྩིས་འཕྲུལ་དང་[བཤེར་ཆས](https://github.com/buda-base/digitization-guidelines/wiki/Terminology-%E0%BD%96%E0%BD%A2%E0%BE%A1%E0%BC%8B%E0%BD%86%E0%BD%91%E0%BC%8D-%E6%9C%AF%E8%AF%AD#%E6%89%AB%E6%8F%8F%E5%99%A8-%E0%BD%96%E0%BD%A4%E0%BD%BA%E0%BD%A2%E0%BD%86%E0%BD%A6-scanner)་གཉིས་མཐུད་སྦྱོར་བྱེད་པའི་མཉེན་ཆས་འདི་རྩིས་འཕྲུལ་ནང་ཕབ་ལེན་བྱེད་དགོས། 
 
 <img src="https://github.com/buda-base/budax/blob/master/howtoguides/DIG02/images/000002.png" height="220" width="240" >
+
+![](images/000002.png)
 
 དགོས་ངེས་སྙི་ཆས་འདི་ལ་རིགས་གསུམ་ཡོད་དེ་(TWAIN) (ISIS) (ScandALL PRO) འདི་དག་རྩིས་འཕྲུལ་ནང་[ཕབ་ལེན](https://github.com/buda-base/digitization-guidelines/releases/tag/fi-7160)་བྱེད་ཚུལ་གཉིས་ཡོད་མོད། གཤམ་དུ་བཀོད་པའི་ང་ཚོའི་དྲ་སྦྲེལ་ནས་ཐད་ཀར་རེ་རེ་བཞིན་ཕབ་ལེན་བྱེད་ཐུབ་པ་ཡིན། འོག་གི་སྙི་ཆས་གོ་རིམ་བཞིན་ཕབ་ལེན་དང་ནང་འཇུག་བྱེད་དགོས།
 སྙི་ཆས། |
@@ -27,6 +32,8 @@ Fijitsu fi-7160 [བཤེར་ཆས](https://github.com/buda-base/digitizatio
 མཉེན་ཆས་ནང་འཇུག་བྱེད་སྟངས། 
 
 <img src="https://github.com/buda-base/budax/blob/master/howtoguides/DIG02/images/000003.gif" height="500" width="650" >
+
+![800](images/000003.gif)
 
 #### 3. XNView བཤེར་པར་གཙང་སྒྲིག <br/> 
 [བཤེར་པར](https://github.com/buda-base/digitization-guidelines/wiki/Terminology-%E0%BD%96%E0%BD%A2%E0%BE%A1%E0%BC%8B%E0%BD%86%E0%BD%91%E0%BC%8D-%E6%9C%AF%E8%AF%AD#%E6%89%AB%E6%8F%8F%E7%9A%84%E5%9B%BE%E5%83%8F%E6%95%B0%E5%AD%97%E5%9B%BE%E5%83%8F-%E0%BD%96%E0%BD%A4%E0%BD%BA%E0%BD%A2%E0%BD%94%E0%BD%A2%E0%BD%A2%E0%BD%98%E0%BD%A1%E0%BD%84%E0%BD%93%E0%BD%91%E0%BD%94%E0%BD%BA%E0%BD%94%E0%BD%A2-scanned-imagedigital-image)་ཞིབ་འཇུག་གི་མགོ་གཞུག་ཀུན་ཏུ་XNView མཉེན་ཆས་འདི་བཀོལ་དགོས་པས། ཐོག་མར་ཁྱེད་ཀྱི་གློག་ཀླད་ནང་མཉེན་ཆས་འདི་ངེས་པར་ཕབ་ལེན་བྱེད་དགོས། མཉེན་ཆས་འདིའི་དྲ་ཚིགས་ལ་གཟིགས་འདོད་ཚེ་[འདིར་སྣུན](https://www.xnview.com/en/xnconvert/#downloads)། གཤམ་ནས་རང་གི་གློག་ཀླད་ཀྱི་རིགས་དང་མཐུན་པའི་XNView མཉེན་ཆས་ཕབ་ལེན་བྱོས།
