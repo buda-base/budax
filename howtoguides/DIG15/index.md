@@ -1,8 +1,3 @@
-<p align="center">
-  <span>བོད་ཡིག</span> |
-<a href="https://github.com/buda-base/digitization-guidelines/wiki/DPE-SOP">English</a> |
-  <a href="https://github.com/buda-base/digitization-guidelines/wiki/%E6%A0%87%E5%87%86%E6%93%8D%E4%BD%9C%E6%B5%81%E7%A8%8B(DPE)">简体中文</a>
-
 ## བཤེར་འབེབས་པའི་ལག་ལེན་གྱི་གོ་རིམ། 
 
 <img src="https://user-images.githubusercontent.com/42564256/80438481-e0254680-8936-11ea-8200-bbf0fe5d5261.png" height="200" width="650" >
