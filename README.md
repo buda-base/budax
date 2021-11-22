@@ -27,7 +27,7 @@
 
 ### 用Saymore为BUDA准备etext文本 Saymoreསྤྱད་ནས་བུདྡྷ་དྲ་ཐོག་དཔེ་མཛོད་ལ་འཕྲུལ་ཡིག་མཐུན་སྦྱོར་བྱེད་པ།
 
-*   [SAY01 - Saymoreམཉེན་ཆས་བཀོལ་ནས་དཔྱད་རྩོམ་གྱི་རྒྱུ་ཆ་བསྡུ་ཚུལ། 使用Saymore软件搜集论文资料](https://github.com/buda-base/budax/blob/master/howtoguides/SAY01/index.md)
+*   [SAY01 - Saymoreམཉེན་ཆས་བཀོལ་ནས་རྩོམ་གྱི་རྒྱུ་ཆ་བསྡུ་ཚུལ། 使用Saymore软件搜集资料](https://github.com/buda-base/budax/blob/master/howtoguides/SAY01/index.md)
 
 ## 其它的操作指南 བཀོལ་སྤྱོད་ལམ་སྟོན་གཞན།
 
