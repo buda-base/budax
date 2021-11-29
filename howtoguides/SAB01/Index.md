@@ -4,7 +4,7 @@
 
 ཕབ་ལེན་བྱ་ཡུལ་གྱི་དྲ་ཐག
 
-[དྲ་ཐག་འདི](https://software.sil.org/scriptureappbuilder/download/)འི་སྟེང་བསྣུན་ན་ཐད་ཀར་ཕབ་ལེན་བྱ་ཡུལ་དྲ་ཚིགས་ནང་འཛུལ་འགྲོ་བ་ཡིན། ཡང་ན་（download scripture app builder）འདི་ངོ་བཤུ་བྱས་ཏེ་དྲ་ལམ་ནས་ཐད་ཀར་དྲ་ལམ་ནས་བཙལ་རུང་རྙེད་ཐུབ།
+[དྲ་ཐག་འདི](https://software.sil.org/scriptureappbuilder/download/)འི་སྟེང་བསྣུན་ན་ཐད་ཀར་ཕབ་ལེན་བྱ་ཡུལ་གྱི་དྲ་ཚིགས་ནང་འཛུལ་འགྲོ་བ་ཡིན། ཡང་ན་（download scripture app builder）འདི་ངོ་བཤུ་བྱས་ཏེ་དྲ་ལམ་ནས་ཐད་ཀར་དྲ་ལམ་ནས་བཙལ་རུང་རྙེད་ཐུབ།
 
 ![800](images/000000.png)
 
