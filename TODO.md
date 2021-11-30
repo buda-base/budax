@@ -100,7 +100,7 @@ Example: `![300](images/img.png)`
         *   search in file
     *   delete these sections: download, install, change font
     *   delete or update links
-    *   delete banner and keywords like དཔྱད་རྩོམ། or སློབ་ཚན།
+ དཔྱད་རྩོམ། or སློབ་ཚན།
     *   headings for TOC
     *   add questionnaire
 *   VSC02 (Dhondrup) - ཁོ་ཌི་མཉེན་ཆས་ནང་ལས་གནས་བཟོ་ཚུལ། Code软件上设置工作区的课程
