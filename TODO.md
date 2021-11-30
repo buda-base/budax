@@ -29,7 +29,7 @@ Most how-to guides contain the following elements:
 
 ## Linking between guides
 
-### menu --> howtoguides
+### menu --> howtoguide
 Syntax: `[](../howtoguides/<guide-code>/index)`
 
 Example (in menu): `[VSC00 - ཁོ་ཌི་མཉེན་ཆས་འཇུག་སྤྲོད་བྱ་ཚུལ། 安装VS Code](../howtoguides/VSC00/index)`
