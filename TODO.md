@@ -99,7 +99,6 @@ Example: `![300](images/img.png)`
         *   search all
         *   search in file
     *   delete these sections: download, install, change font
-    *   delete or update links
  དཔྱད་རྩོམ། or སློབ་ཚན།
     *   headings for TOC
     *   add questionnaire
