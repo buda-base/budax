@@ -117,6 +117,8 @@
 
 ![800](images/000007a.gif)
 
+🔊 提示：གསལ་འདེབས། འདིའི་འཕྲོ་མ་ **བར་ཆ་** དང་ **སྨད་ཆ་** བཅས་ལ་རིམ་པར་གཟིགས་རོགས། ☝️ དྲ་ཐག་འདིའི་སྒང་ལ་བཞག་ཡོད།
+
 <p class="hide top"><iframe src="https://shimowendang.com/forms/cytvT6t9G9DhKHRJ/fill?channel=1" style="height:1050px;width:800px;"></iframe></p>
 
 ##  [教程目录 བཀོལ་སྤྱོད་ལམ་སྟོན་གྱི་དཀར་ཆག](https://github.com/buda-base/budax)
