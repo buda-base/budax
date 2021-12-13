@@ -7,6 +7,13 @@
 * [APP01 - ལག་བཅངས་དཔེ་མཛོད་ཀྱི་བཀོལ་སྤྱོད་ལམ་སྟོན།](https://github.com/buda-base/budax/blob/master/howtoguides/APP01/index.md)
 * [BDR01 - BDRC དྲ་ཚིགས་ཀྱི་བཀོལ་སྤྱོད་ལམ་སྟོན།](https://github.com/buda-base/budax/blob/master/howtoguides/BDR01/index.md)
 * [PRT01 - PechaPrinter པར་གཞི་སྒྲིག་ཆས་ཀྱི་བཀོལ་སྤྱོད་ལམ་སྟོན།](https://github.com/buda-base/budax/blob/master/howtoguides/PRT01/index.md#%E0%BD%94%E0%BD%A2%E0%BD%82%E0%BD%9E%E0%BD%B2%E0%BD%A6%E0%BE%92%E0%BE%B2%E0%BD%B2%E0%BD%82%E0%BD%86%E0%BD%A6%E0%BD%96%E0%BD%80%E0%BD%BC%E0%BD%A3%E0%BD%9A%E0%BD%B4%E0%BD%A3)
+
+## SAB གཙུག་ལག་མཉེན་ཆས་སྒྲིག་སྟེགས་ཀྱི་བཀོལ་སྤྱོད་ལམ་སྟོན།
+* [SAB01 - གཙུག་ལག་མཉེན་ཆས་ཕབ་ལེན་དང་འཇུག་སྤྲོད།](https://github.com/buda-base/budax/blob/master/howtoguides/SAB01/index.md)
+* [SAB02 - SAB མཉེན་ཆས་ཐུན་མོང་གི་སྒྲིག་འགོད།](https://github.com/buda-base/budax/blob/master/howtoguides/SAB02/index.md)
+* [SAB03 - རྩ་འགྲེལ་སྦྱར་མའི་མཉེན་ཆས་སྒྲིག་ཚུལ།](https://github.com/buda-base/budax/blob/master/howtoguides/SAB03/index.md)
+* [SAB04 - རྩ་འགྲེལ་དཔེ་ཆ་འཇོག་ཚུལ།](https://github.com/buda-base/budax/blob/master/howtoguides/SAB04/index.md)
+* [SAB05 - མཉེན་ཆས་ཉར་ཚགས་དང་APKབཟོ་ཚུལ།](https://github.com/buda-base/budax/blob/master/howtoguides/SAB05/index.md)
 ## 文本分析工具 འཕྲུལ་ཡིག་འཚོལ་ཞིབ་ཀྱི་ལག་ཆ་ཁག
 ### 用Docfetcher离线搜索文本 དྲ་རྒྱ་མི་དགོས་པར་ནགས་ཕྱི་འཚོལ་ཆས་བཀོལ་ནས་འཕྲུལ་ཡིག་འཚོལ་ཞིབ།
 
