@@ -93,7 +93,7 @@
 - དེའི་[དཔེ་མཚོན་དྲ་ཐག་འདི་](https://github.com/buda-base/budax/blob/master/howtoguides/SAB02/index.md#sab-%E0%BD%98%E0%BD%89%E0%BD%BA%E0%BD%93%E0%BD%86%E0%BD%A6%E0%BD%90%E0%BD%B4%E0%BD%93%E0%BD%98%E0%BD%BC%E0%BD%84%E0%BD%82%E0%BD%B2%E0%BD%A6%E0%BE%92%E0%BE%B2%E0%BD%B2%E0%BD%82%E0%BD%A0%E0%BD%82%E0%BD%BC%E0%BD%91)ནས་གཟིགས།
 
 
-☝️ སྒང་གི་དྲ་ཐག་ལ་བསྣུན་ཏེ་བཀོལ་སྤྱོད་ལམ་སྟོན་རྗེས་མ་རྣམས་ལ་གཟིགས། 
+### ☝️ སྒང་གི་དྲ་ཐག་ལ་བསྣུན་ཏེ་བཀོལ་སྤྱོད་ལམ་སྟོན་རྗེས་མ་རྣམས་ལ་གཟིགས། 
 
 <p class="hide top"><iframe src="https://shimowendang.com/forms/cytvT6t9G9DhKHRJ/fill?channel=1" style="height:1050px;width:800px;"></iframe></p>
 
