@@ -18,6 +18,7 @@
 * [SAB07 - Audacityསྒྲ་སྒྲིག་མཉེན་ཆས།](https://github.com/buda-base/budax/blob/master/howtoguides/SAB07/index.md#audacity%E0%BD%A6%E0%BE%92%E0%BE%B2%E0%BD%A6%E0%BE%92%E0%BE%B2%E0%BD%B2%E0%BD%82%E0%BD%98%E0%BD%89%E0%BD%BA%E0%BD%93%E0%BD%86%E0%BD%A6)
 * [SAB08 - སྒྲ་འགྲེལ་སྦྱར་མའི་དཔེ་ཚོགས་སྒྲིག་ཚུལ།](https://github.com/buda-base/budax/blob/master/howtoguides/SAB08/index.md#%E0%BD%A6%E0%BE%92%E0%BE%B2%E0%BD%A0%E0%BD%82%E0%BE%B2%E0%BD%BA%E0%BD%A3%E0%BD%A6%E0%BE%A6%E0%BE%B1%E0%BD%A2%E0%BD%98%E0%BD%A0%E0%BD%B2%E0%BD%91%E0%BD%94%E0%BD%BA%E0%BD%9A%E0%BD%BC%E0%BD%82%E0%BD%A6%E0%BD%A6%E0%BE%92%E0%BE%B2%E0%BD%B2%E0%BD%82%E0%BD%9A%E0%BD%B4%E0%BD%A3)
 * [SAB09 - SAB ནང་ཚིག་མཛོད་སྒྲིག་ཚུལ།](https://github.com/buda-base/budax/blob/master/howtoguides/SAB09/index.md#sab-%E0%BD%93%E0%BD%84%E0%BD%9A%E0%BD%B2%E0%BD%82%E0%BD%A0%E0%BD%82%E0%BE%B2%E0%BD%BA%E0%BD%A3%E0%BD%A0%E0%BD%87%E0%BD%BC%E0%BD%82%E0%BD%9A%E0%BD%B4%E0%BD%A3)
+* [SAB10 - རྩ་འགྲེལ་སྦྱར་མའི་མཉེན་ཆས་བཀོལ་ཚུལ།](https://github.com/buda-base/budax/blob/master/howtoguides/SAB10/index.md#%E0%BD%A2%E0%BE%A9%E0%BD%A0%E0%BD%82%E0%BE%B2%E0%BD%BA%E0%BD%A3%E0%BD%A6%E0%BE%A6%E0%BE%B1%E0%BD%A2%E0%BD%98%E0%BD%A0%E0%BD%B2%E0%BD%98%E0%BD%89%E0%BD%BA%E0%BD%93%E0%BD%86%E0%BD%A6%E0%BD%96%E0%BD%80%E0%BD%BC%E0%BD%A3%E0%BD%9A%E0%BD%B4%E0%BD%A3)
 ## 文本分析工具 འཕྲུལ་ཡིག་འཚོལ་ཞིབ་ཀྱི་ལག་ཆ་ཁག
 ### 用Docfetcher离线搜索文本 དྲ་རྒྱ་མི་དགོས་པར་ནགས་ཕྱི་འཚོལ་ཆས་བཀོལ་ནས་འཕྲུལ་ཡིག་འཚོལ་ཞིབ།
 
