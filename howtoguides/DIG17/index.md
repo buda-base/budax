@@ -1,4 +1,4 @@
-# སྤུས་ཚད་བལྟ་འདོམས་མཉེན་ཆས། Audit Tool GIF(Windows)
+# སྤུས་ཚད་བལྟ་འདོམས་མཉེན་ཆས། Audit Tool (Windows)
 དཀར་ཆག  | 
 --------|
 [༡༽ ངོ་སྤྲོད།](https://github.com/buda-base/budax/blob/master/howtoguides/DIG17/index.md#%E0%BC%A1--%E0%BD%84%E0%BD%BC%E0%BD%A6%E0%BE%A4%E0%BE%B2%E0%BD%BC%E0%BD%91-introduction) |
