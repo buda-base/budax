@@ -74,6 +74,10 @@
 
 *   [FNT01 - ཡིག་གཟུགས་ཕན་ཚུན་བསྒྱུར་ཆས། Tibetan Font Converter 藏文的字体转换器](https://github.com/buda-base/budax/blob/master/howtoguides/FNT01/index.md)
 
+## PDF24 Creator的介绍 ངོ་སྤྲོད།
+
+* [PDF24 Creator的介绍 ངོ་སྤྲོད།](https://github.com/buda-base/budax/blob/master/howtoguides/PDF24/index.md)
+
 ## AntConc གྲོག་མ་སྔོན་པ་མཉེན་ཆས་ཀྱི་བཀོལ་སྤྱོད་ལམ་སྟོན། (བཟོ་བཞིན་པ།)
 
 *   AntConc 01 གྲོག་མ་སྔོན་པོ་ཕབ་ལེན་བྱ་ཚུལ།
