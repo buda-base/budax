@@ -39,7 +39,7 @@
 
 [SAB10 - རྩ་འགྲེལ་སྦྱར་མའི་མཉེན་ཆས་བཀོལ་ཚུལ།](https://github.com/buda-base/budax/blob/master/howtoguides/SAB10/index.md#%E0%BD%A2%E0%BE%A9%E0%BD%A0%E0%BD%82%E0%BE%B2%E0%BD%BA%E0%BD%A3%E0%BD%A6%E0%BE%A6%E0%BE%B1%E0%BD%A2%E0%BD%98%E0%BD%A0%E0%BD%B2%E0%BD%98%E0%BD%89%E0%BD%BA%E0%BD%93%E0%BD%86%E0%BD%A6%E0%BD%96%E0%BD%80%E0%BD%BC%E0%BD%A3%E0%BD%9A%E0%BD%B4%E0%BD%A3)
 
-[SAB11 - ཞལ་འདོན་མཉེན་ཆས་སྒྲིག་ཚུལ།(སླེབ་ལ་ཉེ།)(https://github.com/buda-base/budax/blob/master/howtoguides/SAB11/index.md)
+[SAB11 - ཞལ་འདོན་མཉེན་ཆས་སྒྲིག་ཚུལ།(སླེབ་ལ་ཉེ།)](https://github.com/buda-base/budax/blob/master/howtoguides/SAB11/index.md)
 
 [Bluestacks བཀོལ་སྤྱོད་བྱེད་སྟངས།](https://github.com/buda-base/budax/blob/master/howtoguides/BLS01/index.md)
 
