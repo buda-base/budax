@@ -47,7 +47,7 @@ Keystoreའམ་གསོག་གནས་བཟོས་ཟིན་པ་ད
 
 ## A.5 བོད་ཡིག་འཇོག་ཚུལ།
 
-འདིར་མཉེན་ཆས་ཀྱི་སྐད་ཡིག་གཉིས་མཉམ་འཇོག་བྱེད་ཐུབ། དཔེར་ན། རྒྱ་ཡིག་དང་བོད་ཡིག་ཡང་ན་ཨིན་ཡིག་དང་བོད་ཡིག འཇོག་ཚུལ་ལ་རིམ་པར་གཟིགས། མཉེན་ཆས་ཀྱི་སྐད་ཡིག་བོད་འགྱུར་མ་[GitHub དྲ་ཐག་འདི་](https://github.com/tadhondup/Localization-for-SAB/releases/download/v1.0/newest.localization.of.SAB.txt) དང་ [Weiyun དྲ་ཐག་འདི་](https://share.weiyun.com/wpUD5CY3)གཉིས་ཀྱི་གང་རུང་ནས་ཕབ་ལེན་བྱོས།
+འདིར་མཉེན་ཆས་ཀྱི་སྐད་ཡིག་གཉིས་མཉམ་འཇོག་བྱེད་ཐུབ། དཔེར་ན། རྒྱ་ཡིག་དང་བོད་ཡིག་ཡང་ན་ཨིན་ཡིག་དང་བོད་ཡིག འཇོག་ཚུལ་ལ་རིམ་པར་གཟིགས། མཉེན་ཆས་ཀྱི་སྐད་ཡིག་བོད་འགྱུར་མ་[GitHub དྲ་ཐག་](https://github.com/tadhondup/Localization-for-SAB/releases/download/v1.0/newest.localization.of.SAB.txt) དང་ [微云 དྲ་ཐག་](https://share.weiyun.com/wpUD5CY3)འདི་གཉིས་ཀྱི་གང་རུང་ནས་ཕབ་ལེན་བྱོས།
 
 ![800](images/000006.gif)
 
