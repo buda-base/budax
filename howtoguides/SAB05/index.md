@@ -9,7 +9,9 @@
 - སྟོད་ཆ། [མཉེན་ཆས་འདིའི་ཐུན་མིན་མཚོན་རྟགས་རིགས་བཀོལ་སྟངས།](https://github.com/buda-base/budax/blob/master/howtoguides/SAB03/index.md#%E0%BD%A2%E0%BE%A9%E0%BD%A0%E0%BD%82%E0%BE%B2%E0%BD%BA%E0%BD%A3%E0%BD%A6%E0%BE%A6%E0%BE%B1%E0%BD%A2%E0%BD%98%E0%BD%A0%E0%BD%B2%E0%BD%98%E0%BD%89%E0%BD%BA%E0%BD%93%E0%BD%86%E0%BD%A6%E0%BD%A6%E0%BE%92%E0%BE%B2%E0%BD%B2%E0%BD%82%E0%BD%9A%E0%BD%B4%E0%BD%A3)
 - བར་ཆ། [རྩ་འགྲེལ་སྦྱར་མའི་མཉེན་ཆས་ནང་རྩ་འགྲེལ་དཔེ་ཆ་འཇོག་ཚུལ།](https://github.com/buda-base/budax/blob/master/howtoguides/SAB04/index.md#%E0%BD%A2%E0%BE%A9%E0%BD%A0%E0%BD%82%E0%BE%B2%E0%BD%BA%E0%BD%A3%E0%BD%A6%E0%BE%A6%E0%BE%B1%E0%BD%A2%E0%BD%98%E0%BD%A0%E0%BD%B2%E0%BD%98%E0%BD%89%E0%BD%BA%E0%BD%93%E0%BD%86%E0%BD%A6%E0%BD%A6%E0%BE%92%E0%BE%B2%E0%BD%B2%E0%BD%82%E0%BD%9A%E0%BD%B4%E0%BD%A3)
 - སྨད་ཆ། ཉར་ཚགས་དང་APKབཟོ་ཚུལ།
-## ཚོད་ལྟའི་དྲི་བ་ཁག་ལ་ལན་རེ་ངེས་པར་དུ་འདེམ་རོགས། ཤེས་དགོས་པའི་ངེས་པ་མེད་པས་ཐད་ཀར་མི་ཤེས་ཟེར་བ་འདེམ་ཆོག
+## ཚོད་ལྟའི་དྲི་བ་ཁག་ལ་ལན་རེ་ངེས་པར་དུ་འདེམ་རོགས། 
+
+ཤེས་དགོས་པའི་ངེས་པ་མེད་པས་ཐད་ཀར་མི་ཤེས་ཟེར་བ་འདེམ་ཆོག
 
 1. དཀར་ཆག་སྒང་གི་འདྲ་པར་ནར་མོ་བ་དེ་གང་ནས་འཇོག་དགོས་སམ། ༡༽ Android Icon (Adaptive) ༢༽ Illustrations ༣༽ Navigation Drawer (正确回答)
 2. བཟོ་བཞིན་པའི་མཉེན་ཆས་ཀྱི་ཁྱད་ཆོས་གང་ནས་འདེམ་དགོས། ༡༽ Style ༢༽ interface ༣༽ Features (正确回答)
