@@ -90,7 +90,9 @@
 
 *   BDR06 - ཐོག་མའི་ཐོ་འགོད་བྱ་ཚུལ།
 
-<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/4OQlODHrB_8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4OQlODHrB_8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
 
 *   BDR07 - དཔེ་ཀློག་བྱ་ཚུལ།
 *   BDR08 - བཤེར་པར་ཕབ་ལེན་བྱ་ཚུལ།
