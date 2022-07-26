@@ -91,26 +91,34 @@
 *   BDR06 - ཐོག་མའི་ཐོ་འགོད་བྱ་ཚུལ། 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4OQlODHrB_8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
 *   BDR07 - དཔེ་ཀློག་བྱ་ཚུལ། 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cbChk5TJ-Tg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 *   BDR08 - བཤེར་པར་ཕབ་ལེན་བྱ་ཚུལ། 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HZERGNFmrc8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
 *   BDR09 - ཡིག་རྐྱང་ཕབ་ལེན་བྱ་ཚུལ། 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BgYCDKn_Q2Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 *   BDR10 - ཡིག་རྐྱང་བཀོལ་ཚུལ། 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7R3bq2LScCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
 *   BDR11 - རྩོམ་པ་བོའི་མིང་བྲིས་ཏེ་འཚོལ་ཚུལ། 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eBRqh3I4Imw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 *   BDR12 - མི་སྣ་འཚོལ་ཞིབ་བྱ་ཚུལ། 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QDogTURpXxI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
 *   BDR13 - ས་གནས་འཚོལ་ཞིབ་བྱ་ཚུལ། 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/v527nMabDLo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 *   BDR14 - བརྗོད་གཞིའི་ཐོག་ནས་འཚོལ་ཚུལ། 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_ktZU7mcLI8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
