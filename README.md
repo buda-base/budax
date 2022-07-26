@@ -88,10 +88,7 @@
 
 ## BDRC བུདྡྷ་དྲ་ཚིགས་ཀྱི་བཀོལ་སྤྱོད་ལམ་སྟོན། བརྙན། (བཟོ་བཞིན་པ།)
 
-*   BDR06 - ཐོག་མའི་ཐོ་འགོད་བྱ་ཚུལ།
-
-<p align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4OQlODHrB_8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+*   [BDR06 - ཐོག་མའི་ཐོ་འགོད་བྱ་ཚུལ།](<iframe width="560" height="315" src="https://www.youtube.com/embed/4OQlODHrB_8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>)
 </p>
 
 *   BDR07 - དཔེ་ཀློག་བྱ་ཚུལ།
