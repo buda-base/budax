@@ -86,7 +86,7 @@
 *   AntConc 04 གྲོག་མ་སྔོན་པོའི་ནང་སྦྱོང་ཚན་བཟོ་སྟངས་ཀྱི་ཐབས་ལམ།
 *   AntConc 05 གྲོག་མ་སྔོན་པོའི་ནང་ཚིག་གྲོགས་འཚོལ་སྟངས་ཀྱི་ཐབས་ལམ།
 
-## BDRC བུདྡྷ་དྲ་ཚིགས་ཀྱི་བཀོལ་སྤྱོད་ལམ་སྟོན། བརྙན། (བཟོ་བཞིན་པ།)
+## BDRC བུདྡྷ་དྲ་ཚིགས་ཀྱི་བཀོལ་སྤྱོད་ལམ་སྟོན། བརྙན།
 
 *   BDR06 - [ཐོག་མའི་ཐོ་འགོད་བྱ་ཚུལ།](https://github.com/buda-base/budax/blob/master/howtoguides/BDR06/index.md)
 *   BDR07 - [དཔེ་ཀློག་བྱ་ཚུལ།](https://github.com/buda-base/budax/blob/master/howtoguides/BDR07/index.md)
