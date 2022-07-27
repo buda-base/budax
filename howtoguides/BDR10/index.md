@@ -6,8 +6,9 @@
 དམིགས་བསལ་ཐ་སྙད་རིགས།
 ལོ་ཚིགས། སོགས་འཚོལ་ཚུལ།
 
-
 👇 དེ་ཅི་ལྟར་བྱ་ཚུལ་ལ་གཟིགས།
+
+![800](images/000005.png)
 
 <p align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7R3bq2LScCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
