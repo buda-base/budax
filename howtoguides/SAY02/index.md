@@ -17,6 +17,7 @@ Saymore ཡིག་འབེབ་མཉེན་ཆས་ནི་སྒེའ
 <p align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5oALbp-UPwg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
+
 ## 2. ལས་གཞི་ཁ་གསལ་བའི་དགེ་མཚན།
 
 Saymore མཉེན་ཆས་འདིའི་ནང་ལས་གཞི་དང་ལས་ཀའི་གནས་བབ་ཁ་གསལ་ཞིང་བལྟ་བདེ་བའི་ཁྱད་ཆོས་ངོ་སྤྲོད་བྱས་ཡོད།
@@ -28,6 +29,7 @@ Saymore མཉེན་ཆས་འདིའི་ནང་ལས་གཞི་
 <p align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yhHD6LB_6Hg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
+
 ## 3. ཡིག་འབེབ་དང་ཕྱིར་འདྲེན་བྱེད་སླ་བ།
 
 སྒྲ་དེ་ཡིག་ཐོག་དབབ་སྐབས་སྐད་རིགས་གཉིས་ཀྱི་ནང་རིམ་བར་དབབ་ཐུབ་པ་དང་ཕབ་ཟིན་ཡིག་ཆ་དེ་རྣམ་སྒྲིག་གམ་格式formatའདྲ་མིན་ནང་ཉར་ཚགས་བྱེད་ཆོག་པའི་ཁྱད་ཆོས་ངོ་སྤྲོད་བྱས་ཡོད།
