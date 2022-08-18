@@ -24,11 +24,10 @@ Saymore ཡིག་འབེབ་མཉེན་ཆས་ནང་ཡིག་
 
 ![800](images/000001.png)
 
-<p align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/A6oggmZDfe8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
+- སློབ་ཚན་གྱི་བརྙན། [དྲ་ཐག་འདིར་སྣུན།](https://drive.google.com/file/d/1mTk6PXlw5a0lknVmY3vcrjW2GzA5hDyG/view?usp=sharing)
 
-1. དྲི་བ། ཡི་གེར་འབེབས་རྒྱུའི་ཡིག་ཆ་ལེན་ས་སྤྱིའི་སྡེ་ཚན་གང་ནང་ཡོད་དམ། 项目༽ (正确回答) Project༽ 人员༽
+1. དྲི་བ། ཡི་གེར་འབེབས་རྒྱུའི་ཡིག་ཆ་ལེན་ས་སྤྱིའི་སྡེ་ཚན་གང་ནང་ཡོད་དམ།  
+项目༽ (正确回答) Project༽ 人员༽
 
 ## 2. ཡིག་འབེབ་དངོས་བྱེད་ཚུལ།
 
@@ -38,11 +37,11 @@ Saymore ཡིག་འབེབ་མཉེན་ཆས་ནང་ཡིག་
 
 ![800](images/000002.png)
 
-<p align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/F6ox2G6qeqw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
 
-2. དྲི་བ། ཡིག་འབེབས་ཀྱི་ཡིག་གཟུག་བརྗེ་བ་ལ་ཐོག་མར་གང་གནོན་དགོས་སམ། 开始标注༽ 迭项༽ (正确回答) 字体༽
+- སློབ་ཚན་གྱི་བརྙན། [དྲ་ཐག་འདིར་སྣུན།](https://drive.google.com/file/d/1JtUJo8bEwxV22D4NDxMJ6PftVeG_WA_n/view?usp=sharing)
+
+2. དྲི་བ། ཡིག་འབེབས་ཀྱི་ཡིག་གཟུག་བརྗེ་བ་ལ་ཐོག་མར་གང་གནོན་དགོས་སམ།  
+开始标注༽ 迭项༽ (正确回答) 字体༽
 
 ## 3. ཡིག་ཆ་ཕྱིར་འདྲེན་བྱ་ཚུལ།
 
@@ -52,8 +51,8 @@ Saymore ཡིག་འབེབ་མཉེན་ཆས་ནང་ཡིག་
 
 ![800](images/000003.png)
  
-<p align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yde59ty7QAA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
 
-3. དྲི་བ། ཕབ་ཟིན་པ་དེ་ཡིག་རྐྱང་གི་ངོ་བོར་ཉར་ན་རྣམ་སྒྲིག་格式གང་འདེམ་དགོས། 撰写༽ 字幕文件（撰写）༽ 普通文本༽ (正确回答)
+- སློབ་ཚན་གྱི་བརྙན། [དྲ་ཐག་འདིར་སྣུན།](https://drive.google.com/file/d/1j98o2OOfPXHSKLbpXLo3_ONlzEjB1JH_/view?usp=sharing)
+
+3. དྲི་བ། ཕབ་ཟིན་པ་དེ་ཡིག་རྐྱང་གི་ངོ་བོར་ཉར་ན་རྣམ་སྒྲིག་格式གང་འདེམ་དགོས།  
+撰写༽ 字幕文件（撰写）༽ 普通文本༽ (正确回答)

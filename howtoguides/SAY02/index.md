@@ -23,9 +23,8 @@ Saymore ཡིག་འབེབ་མཉེན་ཆས་ནི་སྒེའ
 
 ![800](images/000001.png)
 
-<p align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5oALbp-UPwg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
+
+- སློབ་ཚན་གྱི་བརྙན། [དྲ་ཐག་འདིར་སྣུན།](https://drive.google.com/file/d/1uJT6CVB2nr5I4-5AsKjGYd6MeHJYlFNS/view?usp=sharing)
 
 ## 2. ལས་གཞི་ཁ་གསལ་བའི་དགེ་མཚན།
 
@@ -35,12 +34,14 @@ Saymore མཉེན་ཆས་འདིའི་ནང་ལས་གཞི་
 
 ![800](images/000002.png)
 
-<p align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yhHD6LB_6Hg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
 
-1. དྲི་བ། ཡིག་འབེབ་མཉེན་ཆས་ནང་ཁྱད་ཆོས་ཀྱི་སྡེ་ཚན་ཆེན་པོ་ག་ཚོད་ཡོད་དམ། ༣ ཡོད།༽ (正确回答) ༢ ཡོད།༽ ༡ ཡོད།༽
-2. དྲི་བ། ལས་གཞི་དེའི་བདག་དབང་ཚན་པ་རྩ་བའི་སྡེ་ཚན་གང་གི་ནང་ཡོད་དམ། Project༽ (正确回答) Session༽　People༽
+- སློབ་ཚན་གྱི་བརྙན། [དྲ་ཐག་འདིར་སྣུན།](https://drive.google.com/file/d/1_ZDTPu53apX2eGORXSpqTVPfImEOzCvD/view?usp=sharing)
+
+1. དྲི་བ། ཡིག་འབེབ་མཉེན་ཆས་ནང་ཁྱད་ཆོས་ཀྱི་སྡེ་ཚན་ཆེན་པོ་ག་ཚོད་ཡོད་དམ།  
+༣ ཡོད།༽ (正确回答) ༢ ཡོད།༽ ༡ ཡོད།༽
+
+2. དྲི་བ། ལས་གཞི་དེའི་བདག་དབང་ཚན་པ་རྩ་བའི་སྡེ་ཚན་གང་གི་ནང་ཡོད་དམ།  
+Project༽ (正确回答) Session༽　People༽
 
 ## 3. ཡིག་འབེབ་དང་ཕྱིར་འདྲེན་བྱེད་སླ་བ།
 
@@ -51,8 +52,8 @@ Saymore མཉེན་ཆས་འདིའི་ནང་ལས་གཞི་
 ![800](images/000003.png)
  
 
-<p align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wjsR0-GlU08" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
 
-3. མཉེན་ཆས་འདིའི་ནང་དུས་གཅིག་ལ་སྐད་ཡིག་ག་ཚོད་ནང་ཡིག་འབེབ་བྱེད་ཐུབ་བམ། ༣༽　༡༽ ༢༽ (正确回答)
+- སློབ་ཚན་གྱི་བརྙན། [དྲ་ཐག་འདིར་སྣུན།](https://drive.google.com/file/d/1TFjPet_AI7JclEvbsvlvcquaRWrayEEG/view?usp=sharing)
+
+3. མཉེན་ཆས་འདིའི་ནང་དུས་གཅིག་ལ་སྐད་ཡིག་ག་ཚོད་ནང་ཡིག་འབེབ་བྱེད་ཐུབ་བམ།  
+༣༽　༡༽ ༢༽ (正确回答)

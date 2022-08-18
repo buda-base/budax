@@ -26,11 +26,9 @@ Saymore ཡིག་འབེབ་མཉེན་ཆས་ཕབ་ལེན་
 
 ![800](images/000001.png)
 
-<p align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o6CHJfhS-vA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
+- སློབ་ཚན་གྱི་བརྙན། [དྲ་ཐག་འདིར་སྣུན།](https://drive.google.com/file/d/1ehOcVfDnfhtrM3C21H_pWj9GS85C5_FF/view?usp=sharing)
 
-1.དྲི་བ། མཉེན་ཆས་ཕབ་ལེན་བྱེད་ས་དེ་百度དྲ་ཚིགས་རེད་དམ། 
+1.དྲི་བ། མཉེན་ཆས་ཕབ་ལེན་བྱེད་ས་དེ་百度དྲ་ཚིགས་རེད་དམ།  
 མ་རེད། (正确回答) རེད།༽ མི་ཤེས།༽
 
 ## 2. ཐོན་རིམ་འདེམ་སྟངས་ངོ་སྤྲོད།
@@ -41,11 +39,10 @@ Saymore ཡིག་འབེབ་མཉེན་ཆས་ཕབ་ལེན་
 
 ![800](images/000002.png)
 
-<p align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d4FQzDNniMM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
 
-2. དྲི་བ། ཡིག་འབེབ་མཉེན་ཆས་གློག་ཀླད་རིགས་གང་གི་ནང་བཀོལ་ཐུབ་བམ། 
+- སློབ་ཚན་གྱི་བརྙན། [དྲ་ཐག་འདིར་སྣུན།](https://drive.google.com/file/d/1OZEfv68RS_vkNYQdnyBf2bMAZKaP8vF0/view?usp=sharing)
+
+2. དྲི་བ། ཡིག་འབེབ་མཉེན་ཆས་གློག་ཀླད་རིགས་གང་གི་ནང་བཀོལ་ཐུབ་བམ།  
 ཀུ་ཤུ་རྟགས་ཅན།༽ སྒེའུ་ཁུང་རྟགས་ཅན།༽ (正确回答) ལུནེ་ཁེ་སི།༽ 
 
 ## 3. ཡིག་འབེབ་མཉེན་ཆས་ཕབ་ལེན་བྱ་ཚུལ།
@@ -56,9 +53,8 @@ Saymore ཡིག་འབེབ་མཉེན་ཆས་ཕབ་ལེན་
 
 ![800](images/000003.png)
  
-<p align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VzhPlGkLDeU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
 
-3. ཡིག་འབེབ་མཉེན་ཆས་ཀྱི་ཐོན་རིམ་རྙིང་བ་རྣམས་བཀོལ་ཐུབ་བམ། 
+- སློབ་ཚན་གྱི་བརྙན། [དྲ་ཐག་འདིར་སྣུན།](https://drive.google.com/file/d/1HEP70iIGeoFLGw3T4Lbg721Y0TUeJm4g/view?usp=sharing)
+
+3. ཡིག་འབེབ་མཉེན་ཆས་ཀྱི་ཐོན་རིམ་རྙིང་བ་རྣམས་བཀོལ་ཐུབ་བམ།  
 མི་ཤེས།༽ མི་ཐུབ།༽ ཐུབ།༽ (正确回答)

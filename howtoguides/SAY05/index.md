@@ -23,11 +23,11 @@ Saymore ཡིག་འབེབ་མཉེན་ཆས་དེ་རང་ཉ
 
 ![800](images/000001.png)
 
-<p align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_JnF__bRmQE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
 
-1. དྲི་བ། མཉེན་ཆས་འཇུག་སྤྲོད་བྱེད་པར་ཐོག་གང་གནོན་དགོས་སམ། 打开文件༽ (正确回答) 运行༽ 安装༽
+- སློབ་ཚན་གྱི་བརྙན། [དྲ་ཐག་འདིར་སྣུན།](https://drive.google.com/file/d/19h_edgt9vT-YlmqwElAGl25iHvxb6Izr/view?usp=sharing)
+
+1. དྲི་བ། མཉེན་ཆས་འཇུག་སྤྲོད་བྱེད་པར་ཐོག་གང་གནོན་དགོས་སམ།  
+打开文件༽ (正确回答) 运行༽ 安装༽
 
 ## 2. ཡིག་འབེབ་མཉེན་ཆས་སྒོ་འབྱེད་ཚུལ།
 
@@ -37,11 +37,11 @@ Saymore ཡིག་འབེབ་མཉེན་ཆས་དེ་རང་ཉ
 
 ![800](images/000002.png)
 
-<p align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4m2ZAMKqhI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
 
-2. དྲི་བ། མཉེན་ཆས་སྒོ་ཕྱེ་དུས་ཐོག་མར་གང་ནས་འཚོལ་དགོས་སམ། 百度༽ 开始༽ (正确回答) software.sil.or༽
+- སློབ་ཚན་གྱི་བརྙན། [དྲ་ཐག་འདིར་སྣུན།](https://drive.google.com/file/d/1wXcDoiwEfen_GTh2pM9nKh6wBInkhtb7/view?usp=sharing)
+
+2. དྲི་བ། མཉེན་ཆས་སྒོ་ཕྱེ་དུས་ཐོག་མར་གང་ནས་འཚོལ་དགོས་སམ།  
+百度༽ 开始༽ (正确回答) software.sil.or༽
 
 ## 3. ཡིག་འབེབ་མཉེན་ཆས་ཀྱི་སྐད་ཡིག་བརྗེ་ཚུལ།
 
@@ -51,8 +51,8 @@ Saymore ཡིག་འབེབ་མཉེན་ཆས་དེ་རང་ཉ
 
 ![800](images/000003.png)
  
-<p align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wYXzaaKXrcc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
 
-3. དྲི་བ། མཉེན་ཆས་ཀྱི་སྐད་ཡིག་བརྗེ་སའི་སྡེ་ཚན་གང་ཡིན་ནམ། 人员༽ 任务༽ 项目༽ (正确回答)
+- སློབ་ཚན་གྱི་བརྙན། [དྲ་ཐག་འདིར་སྣུན།](https://drive.google.com/file/d/1X49ERa4HbH3-jC9MYzzv6p71a15v00Ui/view?usp=sharing)
+
+3. དྲི་བ། མཉེན་ཆས་ཀྱི་སྐད་ཡིག་བརྗེ་སའི་སྡེ་ཚན་གང་ཡིན་ནམ།  
+人员༽ 任务༽ 项目༽ (正确回答)

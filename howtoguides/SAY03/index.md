@@ -25,11 +25,11 @@ Saymore ཡིག་འབེབ་མཉེན་ཆས་ནང་བཀོལ
 
 ![800](images/000001.png)
 
-<p align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ttFDw1e8ygY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
 
-1. དྲི་བ། བརྙན་ཡིག་དང་སྤྱིར་བཏང་ཡིག་རྐྱང་གཉིས་ལ་ཁྱད་པར་ཡོད་དམ། མི་ཤེས།༽ མེད།༽ ཡོད།༽(正确回答)
+- སློབ་ཚན་གྱི་བརྙན། [དྲ་ཐག་འདིར་སྣུན།](https://drive.google.com/file/d/1ssaB7WFAAvGrcdwOiPS74ju64ySLjBrK/view?usp=sharing)
+
+1. དྲི་བ། བརྙན་ཡིག་དང་སྤྱིར་བཏང་ཡིག་རྐྱང་གཉིས་ལ་ཁྱད་པར་ཡོད་དམ།  
+མི་ཤེས།༽ མེད།༽ ཡོད།༽(正确回答)
 
 ## 2. ལས་གཞིའི་རྒྱུ་ཆ་སྒྲ་བརྙན་གང་རུང་གྲ་སྒྲིག
 
@@ -39,11 +39,11 @@ Saymore མཉེན་ཆས་ནང་དངོས་སུ་བཀོལ་
 
 ![800](images/000002.png)
 
-<p align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fKhqVvXoL1E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
 
-2. དྲི་བ། ཡིག་སྣོད་གསར་བཟོ་བྱེད་པར་ཐོག་མར་གང་གནོན་དགོས། མི་ཤེས།༽ 新建༽(正确回答) 文件夹༽
+- སློབ་ཚན་གྱི་བརྙན། [དྲ་ཐག་འདིར་སྣུན།](https://drive.google.com/file/d/1geu8StRnWj8P9ciX7IzDiJs6ZC1kb3FY/view?usp=sharing)
+
+2. དྲི་བ། ཡིག་སྣོད་གསར་བཟོ་བྱེད་པར་ཐོག་མར་གང་གནོན་དགོས།  
+མི་ཤེས།༽ 新建༽(正确回答) 文件夹༽
 
 ## 3. 百度བརྒྱ་འདུའི་དྲ་ཚིཊ་སྒོ་འབྱེད་ཚུལ།
 
@@ -53,8 +53,8 @@ Saymore མཉེན་ཆས་ནང་དངོས་སུ་བཀོལ་
 
 ![800](images/000003.png)
  
-<p align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cUukYXITYFg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
 
-3. དྲི་བ། 百度དྲ་ཚིགས་སྒོ་འབྱེད་དོན་གང་ཡིན་ནམ། སྒྲ་འཚོལ་ཕྱིར།༽ བརྙན་འཚོལ་ཕྱིར།༽ མཉེན་ཆས་ཕབ་གནས་འཚོལ་ཕྱིར།༽(正确回答)
+- སློབ་ཚན་གྱི་བརྙན། [དྲ་ཐག་འདིར་སྣུན།](https://drive.google.com/file/d/1qF0_Xdww4doZ8qkhYw16Gpu1SY6ClVVZ/view?usp=sharing)
+
+3. དྲི་བ། 百度དྲ་ཚིགས་སྒོ་འབྱེད་དོན་གང་ཡིན་ནམ།  
+སྒྲ་འཚོལ་ཕྱིར།༽ བརྙན་འཚོལ་ཕྱིར།༽ མཉེན་ཆས་ཕབ་གནས་འཚོལ་ཕྱིར།༽(正确回答)
