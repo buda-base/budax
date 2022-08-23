@@ -70,7 +70,16 @@
 
 ### 用Saymore为BUDA准备etext文本 Saymoreསྤྱད་ནས་བུདྡྷ་དྲ་ཐོག་དཔེ་མཛོད་ལ་འཕྲུལ་ཡིག་མཐུན་སྦྱོར་བྱེད་པ།
 
-*   [SAY01 - Saymoreམཉེན་ཆས་བཀོལ་ནས་རྩོམ་གྱི་རྒྱུ་ཆ་བསྡུ་ཚུལ། 使用Saymore软件搜集资料](https://github.com/buda-base/budax/blob/master/howtoguides/SAY01/index.md)
+*   SAY01 - [Saymoreམཉེན་ཆས་བཀོལ་ནས་རྩོམ་གྱི་རྒྱུ་ཆ་བསྡུ་ཚུལ། 使用Saymore软件搜集资料](https://github.com/buda-base/budax/blob/master/howtoguides/SAY01/index.md)
+*   SAY02 - [ཕན་ནུས་ངོ་སྤྲོད། benefit](https://github.com/buda-base/budax/blob/master/howtoguides/SAY02/index.md)
+*   SAY03 - [ཡིག་ཆ་གྲ་སྒྲིག Preration](https://github.com/buda-base/budax/blob/master/howtoguides/SAY03/index.md)
+*   SAY04 - [མཉེན་ཆས་འཚོལ་ཞིབ། Search Saymore App](https://github.com/buda-base/budax/blob/master/howtoguides/SAY04/index.md)
+*   SAY05 - [མཉེན་ཆས་འཇུག་སྤྲོད། Install ](https://github.com/buda-base/budax/blob/master/howtoguides/SAY05/index.md)
+*   SAY06 - [རྩ་བའི་བཀོལ་ཚུལ་ཆ་ཚང་།](https://github.com/buda-base/budax/blob/master/howtoguides/SAY06/index.md)
+*   SAY07 - [རྩ་བའི་སྡེ་ཚན་དང་བོ་ལས་གཞི། Project](https://github.com/buda-base/budax/blob/master/howtoguides/SAY07/index.md)
+*   SAY08 - [Sessionལས་འགན་གསར་བཟོ་བྱ་ཚུལ།](https://github.com/buda-base/budax/blob/master/howtoguides/SAY08/index.md)
+*   SAY09 - [ཡིག་འབེབ་དང་ལག་ཆ་ངོ་སྤྲོད། Annotation](https://github.com/buda-base/budax/blob/master/howtoguides/SAY09/index.md)
+*   SAY10 - [སྐད་བསྒྱུར་དང་ཕྱིར་འདྲེན་བྱ་ཚུལ།](https://github.com/buda-base/budax/blob/master/howtoguides/SAY10/index.md)
 
 ## 其它的操作指南 བཀོལ་སྤྱོད་ལམ་སྟོན་གཞན།
 
