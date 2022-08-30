@@ -25,7 +25,7 @@
 
 ![800](images/000001.png)
 
-- སློབ་ཚན་གྱི་བརྙན། [དྲ་ཐག་འདིར་སྣུན།]()
+- སློབ་ཚན་གྱི་བརྙན། [དྲ་ཐག་འདིར་སྣུན།](https://drive.google.com/file/d/1c5zC3cbJAqXact4JjmBfLgynwQROkZ3S/view?usp=sharing)
 
 1. དྲི་བ། SABནང་བོད་ཡིག་ཡིག་གཟུགས་འདེམ་སྐབས་གང་འདེམ་དགོས་སམ།  
 Specify a font file༽ (正确回答) Select a common font༽ Sample Text༽  
@@ -38,7 +38,7 @@ Specify a font file༽ (正确回答) Select a common font༽ Sample Text༽
 ![800](images/000002.png)
 
 
-- སློབ་ཚན་གྱི་བརྙན། [དྲ་ཐག་འདིར་སྣུན།]()
+- སློབ་ཚན་གྱི་བརྙན། [དྲ་ཐག་འདིར་སྣུན།](https://drive.google.com/file/d/1Z3qdcF-cMHcrb-BS3UjZvTz6r9hx3a-x/view?usp=sharing)
 
 2. དྲི་བ། མཉེན་ཆས་རེ་རེ་ལ་Keystore རེ་རེ་གསར་བཟོ་བྱེད་དགོས་སམ། མི་ཤེས།༽ མི་དགོས།༽ (正确回答) དགོས།༽
 
@@ -51,7 +51,7 @@ Specify a font file༽ (正确回答) Select a common font༽ Sample Text༽
 ![800](images/000003.png)
  
 
-- སློབ་ཚན་གྱི་བརྙན། [དྲ་ཐག་འདིར་སྣུན།]()
+- སློབ་ཚན་གྱི་བརྙན། [དྲ་ཐག་འདིར་སྣུན།](https://drive.google.com/file/d/1w8RifguRbPfrtUXxM75DOrnsrMeXnf5W/view?usp=sharing)
 
 
 3. དྲི་བ། མཉེན་ཆས་ཀྱི་སྐད་ཡིག་བོད་འགྱུར་མ་གང་ནས་ཕབ་དགོས། Google༽ 百度༽ 微云༽ (正确回答)
