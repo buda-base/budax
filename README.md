@@ -30,7 +30,7 @@
 *   BDR14 - [བརྗོད་གཞིའི་ཐོག་ནས་འཚོལ་ཚུལ།](https://github.com/buda-base/budax/blob/master/howtoguides/BDR14/index.md)
 *   BDR15 - [བདག་དབང་ཅན་གྱི་དཔེ་ཆ་བལྟ་ཀློག་བྱ་ཚུལ།](https://github.com/buda-base/budax/blob/master/howtoguides/BDR15/index.md)
 
-## SAB གཙུག་ལག་མཉེན་ཆས་སྒྲིག་སྟེགས་ཀྱི་བཀོལ་སྤྱོད་ལམ་སྟོན།
+## SAB གཙུག་ལག་མཉེན་ཆས་སྒྲིག་སྟེགས་ཀྱི་བཀོལ་སྤྱོད་ལམ་སྟོན། འགུལ་རིས།
 
 * [SAB01 - [གཙུག་ལག་མཉེན་ཆས་ཕབ་ལེན་དང་འཇུག་སྤྲོད།](https://github.com/buda-base/budax/blob/master/howtoguides/SAB01/index.md)
 * [SAB02 - [SAB མཉེན་ཆས་ཐུན་མོང་གི་སྒྲིག་འགོད།](https://github.com/buda-base/budax/blob/master/howtoguides/SAB02/index.md)
@@ -43,6 +43,22 @@
 * SAB09 - [SAB ནང་ཚིག་མཛོད་སྒྲིག་ཚུལ།](https://github.com/buda-base/budax/blob/master/howtoguides/SAB09/index.md#sab-%E0%BD%93%E0%BD%84%E0%BD%9A%E0%BD%B2%E0%BD%82%E0%BD%A0%E0%BD%82%E0%BE%B2%E0%BD%BA%E0%BD%A3%E0%BD%A0%E0%BD%87%E0%BD%BC%E0%BD%82%E0%BD%9A%E0%BD%B4%E0%BD%A3)
 * SAB10 - [རྩ་འགྲེལ་སྦྱར་མའི་མཉེན་ཆས་བཀོལ་ཚུལ།](https://github.com/buda-base/budax/blob/master/howtoguides/SAB10/index.md#%E0%BD%A2%E0%BE%A9%E0%BD%A0%E0%BD%82%E0%BE%B2%E0%BD%BA%E0%BD%A3%E0%BD%A6%E0%BE%A6%E0%BE%B1%E0%BD%A2%E0%BD%98%E0%BD%A0%E0%BD%B2%E0%BD%98%E0%BD%89%E0%BD%BA%E0%BD%93%E0%BD%86%E0%BD%A6%E0%BD%96%E0%BD%80%E0%BD%BC%E0%BD%A3%E0%BD%9A%E0%BD%B4%E0%BD%A3)
 * SAB11 - [ཞལ་འདོན་མཉེན་ཆས་སྒྲིག་ཚུལ།(སླེབ་ལ་ཉེ།)](https://github.com/buda-base/budax/blob/master/howtoguides/SAB11/index.md)
+
+## SAB གཙུག་ལག་མཉེན་ཆས་སྒྲིག་སྟེགས་ཀྱི་བཀོལ་སྤྱོད་ལམ་སྟོན། བརྙན་ལྡན།
+
+* [SAB12 - [གཙུག་ལག་མཉེན་ཆས་ཕབ་ལེན་དང་འཇུག་སྤྲོད།](https://github.com/buda-base/budax/blob/master/howtoguides/SAB12/index.md)
+* [SAB13 - [གཙུག་ལག་མཉེན་ཆས་ཕབ་ལེན་དང་འཇུག་སྤྲོད།](https://github.com/buda-base/budax/blob/master/howtoguides/SAB13/index.md)
+* [SAB14 - [གཙུག་ལག་མཉེན་ཆས་ཕབ་ལེན་དང་འཇུག་སྤྲོད།](https://github.com/buda-base/budax/blob/master/howtoguides/SAB14/index.md)
+* [SAB15 - [གཙུག་ལག་མཉེན་ཆས་ཕབ་ལེན་དང་འཇུག་སྤྲོད།](https://github.com/buda-base/budax/blob/master/howtoguides/SAB15/index.md)
+* [SAB16 - [གཙུག་ལག་མཉེན་ཆས་ཕབ་ལེན་དང་འཇུག་སྤྲོད།](https://github.com/buda-base/budax/blob/master/howtoguides/SAB16/index.md)
+* [SAB17 - [གཙུག་ལག་མཉེན་ཆས་ཕབ་ལེན་དང་འཇུག་སྤྲོད།](https://github.com/buda-base/budax/blob/master/howtoguides/SAB17/index.md)
+* [SAB18 - [གཙུག་ལག་མཉེན་ཆས་ཕབ་ལེན་དང་འཇུག་སྤྲོད།](https://github.com/buda-base/budax/blob/master/howtoguides/SAB18/index.md)
+* [SAB19 - [གཙུག་ལག་མཉེན་ཆས་ཕབ་ལེན་དང་འཇུག་སྤྲོད།](https://github.com/buda-base/budax/blob/master/howtoguides/SAB19/index.md)
+* [SAB20 - [གཙུག་ལག་མཉེན་ཆས་ཕབ་ལེན་དང་འཇུག་སྤྲོད།](https://github.com/buda-base/budax/blob/master/howtoguides/SAB20/index.md)
+* [SAB21 - [གཙུག་ལག་མཉེན་ཆས་ཕབ་ལེན་དང་འཇུག་སྤྲོད།](https://github.com/buda-base/budax/blob/master/howtoguides/SAB21/index.md)
+* [SAB22 - [གཙུག་ལག་མཉེན་ཆས་ཕབ་ལེན་དང་འཇུག་སྤྲོད།](https://github.com/buda-base/budax/blob/master/howtoguides/SAB22/index.md)
+
+
 * [Bluestacks བཀོལ་སྤྱོད་བྱེད་སྟངས།](https://github.com/buda-base/budax/blob/master/howtoguides/BLS01/index.md)
 
 ## 文本分析工具 འཕྲུལ་ཡིག་འཚོལ་ཞིབ་ཀྱི་ལག་ཆ་ཁག
