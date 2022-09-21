@@ -56,7 +56,7 @@
 * SAB19 - [ཡིག་ཆ་ནང་འདྲེན་དང་སྒྲ་མཚམས་རེའུ་མིག་བཟོ་ཚུལ།](https://github.com/buda-base/budax/blob/master/howtoguides/SAB19/index.md)
 * SAB20 - [སྒྲ་འགྲེལ་དང་སྒྲ་མཚམས་རེའུ་མིག་འཇོག་ཚུལ།](https://github.com/buda-base/budax/blob/master/howtoguides/SAB20/index.md)
 * SAB21 - [ཞལ་འདོན་མཉེན་ཆས་སྒྲིག་ཚུལ།](https://github.com/buda-base/budax/blob/master/howtoguides/SAB21/index.md)
-* SAB22 - [SAB ནང་ཚིག་མཛོད་སྒྲིག་ཚུལ།](https://github.com/buda-base/budax/blob/master/howtoguides/SAB22/index.md)
+* SAB22 - [SAB ནང་ཚིག་འགྲེལ་མཛོད་སྒྲིག་ཚུལ།](https://github.com/buda-base/budax/blob/master/howtoguides/SAB22/index.md)
 
 
 * [Bluestacks བཀོལ་སྤྱོད་བྱེད་སྟངས།](https://github.com/buda-base/budax/blob/master/howtoguides/BLS01/index.md)
