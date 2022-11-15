@@ -8,7 +8,7 @@
 
 1. [འདིའི་ཐུན་མིན་མཚོན་རྟགས་ངོ་སྤྲོད།](https://github.com/buda-base/budax/blob/master/howtoguides/RAB04/index.md)
 2. Audacityཕབ་ལེན་དང་སྒྲ་སྒྲིག་ཚུལ།
-3. [བྱིས་སྒྲུང་མཉེན་ཆས་དངོས་སུ་སྒྲིག་ཚུལ།]()
+3. [སྒྲ་ལྡན་བྱིས་སྒྲུང་མཉེན་ཆས་དངོས་སུ་སྒྲིག་ཚུལ།](https://github.com/buda-base/budax/blob/master/howtoguides/RAB06/index.md)
 
 ## 2. Audacityཕབ་ལེན་དང་སྒྲ་སྒྲིག་ཚུལ།
 
