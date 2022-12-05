@@ -17,18 +17,18 @@
 *   BDR05 - [དྲ་ཚིགས་ནང་དཔེ་ཀློག་བྱ་ཚུལ།](https://github.com/buda-base/budax/blob/master/howtoguides/BDR05index.md)
 *   PRT01 - [PechaPrinter པར་གཞི་སྒྲིག་ཆས་ཀྱི་བཀོལ་སྤྱོད་ལམ་སྟོན།](https://github.com/buda-base/budax/blob/master/howtoguides/PRT01/index.md#%E0%BD%94%E0%BD%A2%E0%BD%82%E0%BD%9E%E0%BD%B2%E0%BD%A6%E0%BE%92%E0%BE%B2%E0%BD%B2%E0%BD%82%E0%BD%86%E0%BD%A6%E0%BD%96%E0%BD%80%E0%BD%BC%E0%BD%A3%E0%BD%9A%E0%BD%B4%E0%BD%A3)
 
-## BDRC བུདྡྷ་དྲ་ཚིགས་ཀྱི་བཀོལ་སྤྱོད་ལམ་སྟོན། བརྙན།
+## Using BDRC's BUDA online library བུདྡྷ་དྲ་ཚིགས་ཀྱི་བཀོལ་སྤྱོད་ལམ་སྟོན། བརྙན།
 
-*   BDR06 - [ཐོག་མའི་ཐོ་འགོད་བྱ་ཚུལ།](https://github.com/buda-base/budax/blob/master/howtoguides/BDR06/index.md)
-*   BDR07 - [དཔེ་ཀློག་བྱ་ཚུལ།](https://github.com/buda-base/budax/blob/master/howtoguides/BDR07/index.md)
-*   BDR08 - [བཤེར་པར་ཕབ་ལེན་བྱ་ཚུལ།](https://github.com/buda-base/budax/blob/master/howtoguides/BDR08/index.md)
-*   BDR09 - [ཡིག་རྐྱང་ཕབ་ལེན་བྱ་ཚུལ།](https://github.com/buda-base/budax/blob/master/howtoguides/BDR09/index.md)
-*   BDR10 - [ཡིག་རྐྱང་བཀོལ་ཚུལ།](https://github.com/buda-base/budax/blob/master/howtoguides/BDR10/index.md)
-*   BDR11 - [རྩོམ་པ་བོའི་མིང་བྲིས་ཏེ་འཚོལ་ཚུལ།](https://github.com/buda-base/budax/blob/master/howtoguides/BDR11/index.md)
-*   BDR12 - [མི་སྣ་འཚོལ་ཞིབ་བྱ་ཚུལ།](https://github.com/buda-base/budax/blob/master/howtoguides/BDR12/index.md)
-*   BDR13 - [ས་གནས་འཚོལ་ཞིབ་བྱ་ཚུལ།](https://github.com/buda-base/budax/blob/master/howtoguides/BDR13/index.md)
-*   BDR14 - [བརྗོད་གཞིའི་ཐོག་ནས་འཚོལ་ཚུལ།](https://github.com/buda-base/budax/blob/master/howtoguides/BDR14/index.md)
-*   BDR15 - [བདག་དབང་ཅན་གྱི་དཔེ་ཆ་བལྟ་ཀློག་བྱ་ཚུལ།](https://github.com/buda-base/budax/blob/master/howtoguides/BDR15/index.md)
+*   BDR06 - [How to login into BUDA ཐོག་མའི་ཐོ་འགོད་བྱ་ཚུལ།](https://github.com/buda-base/budax/blob/master/howtoguides/BDR06/index.md)
+*   BDR07 - [How to read books on BUDA དཔེ་ཀློག་བྱ་ཚུལ།](https://github.com/buda-base/budax/blob/master/howtoguides/BDR07/index.md)
+*   BDR08 - [How to download scanned images བཤེར་པར་ཕབ་ལེན་བྱ་ཚུལ།](https://github.com/buda-base/budax/blob/master/howtoguides/BDR08/index.md)
+*   BDR09 - [How to download etexts ཡིག་རྐྱང་ཕབ་ལེན་བྱ་ཚུལ།](https://github.com/buda-base/budax/blob/master/howtoguides/BDR09/index.md)
+*   BDR10 - [How to search BUDA's etexts ཡིག་རྐྱང་བཀོལ་ཚུལ།](https://github.com/buda-base/budax/blob/master/howtoguides/BDR10/index.md)
+*   BDR11 - [How to find a book from its author རྩོམ་པ་བོའི་མིང་བྲིས་ཏེ་འཚོལ་ཚུལ།](https://github.com/buda-base/budax/blob/master/howtoguides/BDR11/index.md)
+*   BDR12 - [How to search by person མི་སྣ་འཚོལ་ཞིབ་བྱ་ཚུལ།](https://github.com/buda-base/budax/blob/master/howtoguides/BDR12/index.md)
+*   BDR13 - [How to search by location ས་གནས་འཚོལ་ཞིབ་བྱ་ཚུལ།](https://github.com/buda-base/budax/blob/master/howtoguides/BDR13/index.md)
+*   BDR14 - [How to search by topic བརྗོད་གཞིའི་ཐོག་ནས་འཚོལ་ཚུལ།](https://github.com/buda-base/budax/blob/master/howtoguides/BDR14/index.md)
+*   BDR15 - [How to borrow a copyrighted book བདག་དབང་ཅན་གྱི་དཔེ་ཆ་བལྟ་ཀློག་བྱ་ཚུལ།](https://github.com/buda-base/budax/blob/master/howtoguides/BDR15/index.md)
 
 ## SAB གཙུག་ལག་མཉེན་ཆས་སྒྲིག་སྟེགས་ཀྱི་བཀོལ་སྤྱོད་ལམ་སྟོན། འགུལ་རིས།
 
