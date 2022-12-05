@@ -8,10 +8,10 @@ BDRC ནང་བསྟན་དཔེ་ཚོགས་ལྟེ་གནས་
 
 ངེད་ཚོགས་པའི་དྲ་ཚིགས་ནང་བདག་དབང་ཡོད་པའི་དཔེ་ཆ་ངོས་བཟུང་སྟེ་དེའི་མཚན་བྱང་ངོ་བཤུ་བྱེད་པའི་གྲ་སྒྲིག
 
-![800](images/000001.png)
+<!-- ![800](images/000001.png) -->
 
 <p align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-LlnRcbBHC8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="800" height="450" src="https://www.youtube.com/embed/-LlnRcbBHC8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
 ## 2. internet archive ནང་ཐོ་འགོད་བྱ་ཚུལ།
@@ -20,10 +20,10 @@ BDRC ནང་བསྟན་དཔེ་ཚོགས་ལྟེ་གནས་
 
 👇 དེ་ཅི་ལྟར་བྱ་ཚུལ་ལ་གཟིགས།
 
-![800](images/000002.png)
+<!-- ![800](images/000002.png) -->
 
 <p align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hB99E2CSgK0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="800" height="450" src="https://www.youtube.com/embed/hB99E2CSgK0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
 
@@ -33,10 +33,10 @@ internet archive དྲ་ཚིགས་འདིའི་ནང་གི་བ
 
 👇 དེ་ཅི་ལྟར་བྱ་ཚུལ་ལ་གཟིགས།
 
-![800](images/000003.png)
+<!-- ![800](images/000003.png) -->
 
 <p align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dt1apomoAD4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="800" height="450" src="https://www.youtube.com/embed/Dt1apomoAD4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
 

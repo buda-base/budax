@@ -4,10 +4,10 @@
 
 👇 དེ་ཅི་ལྟར་བྱ་ཚུལ་ལ་གཟིགས།
 
-![800](images/000006.png)
+<!-- ![800](images/000006.png) -->
 
 <p align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eBRqh3I4Imw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="800" height="450" src="https://www.youtube.com/embed/eBRqh3I4Imw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
 ཕན་ཐོགས་སོང་ངམ། ༡༽ ཐོགས་སོང་། ༢༽ ཐོགས་མ་སོང་།
