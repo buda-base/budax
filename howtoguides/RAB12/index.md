@@ -1,14 +1,14 @@
-# Bloomབཀོལ་ཚུལ།2/2
+# Bloomདཔེ་མཛོད་བཀོལ་ཚུལ།2/2
 
 འདིར་Bloomliberary དང་ Bloom editor གཉིས་བཀོལ་ཚུལ་ངོ་སྤྲོད་བྱས་ཡོད། ཞིབ་ཕྲ་གཤམ་ལ་གཟིགས།
 
 ## Bloomབཀོལ་ཚུལ་གྱི་སློབ་ཚན།
 
 འདི་ལ་སློབ་ཚན་སྟོད་སྨད་གཉིས་ཡོད།
-༡ [Bloomliberaryབཀོལ་ཚུལ།]()
-༢ Bloom editor app བཀོལ་ཚུལ།
+1. [Bloomདཔེ་མཛོད་བཀོལ་ཚུལ།](https://github.com/buda-base/budax/blob/master/howtoguides/RAB11/index.md)
+2. Bloom editor app བཀོལ་ཚུལ།
 
-## 2. Bloom editor app བཀོལ་ཚུལ།
+## 2. Bloom མཉེན་ཆས་བཀོལ་ཚུལ།
 
 སློབ་ཚན་སྨད་ཆའི་ནང་ངོ་སྤྲོད་བྱ་རྒྱུའི་ནང་དོན་ཁག་ནི་
 
