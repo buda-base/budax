@@ -55,7 +55,6 @@
 
 ![800](images/000003.png)
  
-![000003](https://user-images.githubusercontent.com/28945342/207481160-ca93f32e-b405-45b7-9c10-f80f3fb03953.png)
 
 - སློབ་ཚན་གྱི་བརྙན། [དྲ་ཐག་འདིར་སྣུན།](https://drive.google.com/file/d/18EgTZeGeyn3TmJuLScYckahuu5tnId11/view?usp=share_link)
 
