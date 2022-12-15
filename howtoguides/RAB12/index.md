@@ -30,7 +30,6 @@
 
 ![800](Images/000001.png)
 
-
 - སློབ་ཚན་གྱི་བརྙན། [དྲ་ཐག་འདིར་སྣུན།](https://drive.google.com/file/d/1PFF3L1-AlUXp1ZpDn7Mandgkurl1pSzH/view?usp=share_link)
 
 1. དྲི་བ། ཕྱོགས་བསྒྲིགས་ཀྱི་སྐད་ཡིག་གཙོ་བོ་འདེམ་གསེས་ནང་བོད་ཡིག་ཡོད་དམ། 
