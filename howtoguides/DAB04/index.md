@@ -8,7 +8,7 @@
 
 1. [DABདང་Wesayམཉེན་ཆས་གཉིས་ཕབ་ལེན།](https://github.com/buda-base/budax/blob/master/howtoguides/DAB01/index.md)
 2. [རྒྱུ་ཆ་གྲ་སྒྲིག་དང་Wesayཡི་སྒྲིག་འགོད།](https://github.com/buda-base/budax/blob/master/howtoguides/DAB02/index.md)
-3. Wesayནང་ཚོག་མཛོད་སྒྲིག་ཚུལ།](https://github.com/buda-base/budax/blob/master/howtoguides/DAB03/index.md)
+3. [Wesayནང་ཚོག་མཛོད་སྒྲིག་ཚུལ།](https://github.com/buda-base/budax/blob/master/howtoguides/DAB03/index.md)
 4. DABནང་ཚིག་མཛོད་སྒྲིག་འཇོག་བྱ་ཚུལ།
 
 ## 4. DABནང་ཚིག་མཛོད་སྒྲིག་འཇོག་བྱ་ཚུལ།
