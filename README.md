@@ -61,6 +61,20 @@
 
 * [Bluestacks བཀོལ་སྤྱོད་བྱེད་སྟངས།](https://github.com/buda-base/budax/blob/master/howtoguides/BLS01/index.md)
 
+## RABདཔེ་ཀློག་མཉེན་ཆས་སྒྲིག་སྟེགས་ཀྱི་བཀོལ་སྤྱོད་ལམ་སྟོན། བརྙན་ལྡན།
+* RAB01 - [དཔེ་ཀློག་མཉེན་ཆསསྒྲིག་སྟེགས་ཕབ་ལེན་དང་འཇུག་སྤྲོད།](https://github.com/buda-base/budax/blob/master/howtoguides/RAB01/index.md)
+* RAB02 - [མཉེན་ཆས་ཁག་ཕབ་ལེན་གྲུབ་ཡོད་མེད་བརྟག་པ།](https://github.com/buda-base/budax/blob/master/howtoguides/RAB02/index.md)
+* RAB03 - [RAB མཉེན་ཆས་ཐུན་མོང་གི་སྒྲིག་འགོད།](https://github.com/buda-base/budax/blob/master/howtoguides/RAB03/index.md)
+* RAB04 - [སྒྲ་ལྡན་བྱིས་སྒྲུང་མཉེན་ཆས་སྒྲིག་ཚུལ།1\3](https://github.com/buda-base/budax/blob/master/howtoguides/RAB04/index.md)
+* RAB05 - [སྒྲ་ལྡན་བྱིས་སྒྲུང་མཉེན་ཆས་སྒྲིག་ཚུལ།2\3](https://github.com/buda-base/budax/blob/master/howtoguides/RAB05/index.md)
+* RAB06 - [སྒྲ་ལྡན་བྱིས་སྒྲུང་མཉེན་ཆས་སྒྲིག་ཚུལ།3\3](https://github.com/buda-base/budax/blob/master/howtoguides/RAB06/index.md)
+* RAB07 - [སྐད་ལ་བརྟེན་ནས་སེམས་ཅན་ངོས་འཛིན།1/2](https://github.com/buda-base/budax/blob/master/howtoguides/RAB07/index.md)
+* RAB08 - [སྐད་ལ་བརྟེན་ནས་སེམས་ཅན་ངོས་འཛིན།2/2](https://github.com/buda-base/budax/blob/master/howtoguides/RAB08/index.md)
+* RAB09 - [RABནང་བརྙན་ལྡན་མཉེན་ཆས་སྒྲིག་ཚུལ།](https://github.com/buda-base/budax/blob/master/howtoguides/RAB09/index.md)
+* RAB10 - [Photopeaབཀོལ་ཚུལ།](https://github.com/buda-base/budax/blob/master/howtoguides/RAB10/index.md)
+* RAB11 - [Bloomདཔེ་མཛོད་བཀོལ་ཚུལ།1/2](https://github.com/buda-base/budax/blob/master/howtoguides/RAB11/index.md)
+* RAB12 - [Bloomདཔེ་མཛོད་བཀོལ་ཚུལ།2/2](https://github.com/buda-base/budax/blob/master/howtoguides/RAB12/index.md)
+
 ## 文本分析工具 འཕྲུལ་ཡིག་འཚོལ་ཞིབ་ཀྱི་ལག་ཆ་ཁག
 
 ### 用Docfetcher离线搜索文本 དྲ་རྒྱ་མི་དགོས་པར་ནགས་ཕྱི་འཚོལ་ཆས་བཀོལ་ནས་འཕྲུལ་ཡིག་འཚོལ་ཞིབ།
