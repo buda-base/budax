@@ -61,7 +61,7 @@
 
 * [Bluestacks བཀོལ་སྤྱོད་བྱེད་སྟངས།](https://github.com/buda-base/budax/blob/master/howtoguides/BLS01/index.md)
 
-## RABདཔེ་ཀློག་མཉེན་ཆས་སྒྲིག་སྟེགས་ཀྱི་བཀོལ་སྤྱོད་ལམ་སྟོན། བརྙན་ལྡན།
+## RAB དཔེ་ཀློག་མཉེན་ཆས་སྒྲིག་སྟེགས་ཀྱི་བཀོལ་སྤྱོད་ལམ་སྟོན། བརྙན་ལྡན།
 * RAB01 - [དཔེ་ཀློག་མཉེན་ཆསསྒྲིག་སྟེགས་ཕབ་ལེན་དང་འཇུག་སྤྲོད།](https://github.com/buda-base/budax/blob/master/howtoguides/RAB01/index.md)
 * RAB02 - [མཉེན་ཆས་ཁག་ཕབ་ལེན་གྲུབ་ཡོད་མེད་བརྟག་པ།](https://github.com/buda-base/budax/blob/master/howtoguides/RAB02/index.md)
 * RAB03 - [RAB མཉེན་ཆས་ཐུན་མོང་གི་སྒྲིག་འགོད།](https://github.com/buda-base/budax/blob/master/howtoguides/RAB03/index.md)
@@ -74,6 +74,12 @@
 * RAB10 - [Photopeaབཀོལ་ཚུལ།](https://github.com/buda-base/budax/blob/master/howtoguides/RAB10/index.md)
 * RAB11 - [Bloomདཔེ་མཛོད་བཀོལ་ཚུལ།1/2](https://github.com/buda-base/budax/blob/master/howtoguides/RAB11/index.md)
 * RAB12 - [Bloomདཔེ་མཛོད་བཀོལ་ཚུལ།2/2](https://github.com/buda-base/budax/blob/master/howtoguides/RAB12/index.md)
+
+## DAB ཚིག་མཛོད་་མཉེན་ཆས་སྒྲིག་སྟེགས་ཀྱི་བཀོལ་སྤྱོད་ལམ་སྟོན། བརྙན་ལྡན།
+DAB01 - [DABཚིག་མཛོད་སྒྲིག་ཚུལ།1/4](https://github.com/buda-base/budax/blob/master/howtoguides/DAB01/index.md)
+DAB02 - [DABཚིག་མཛོད་སྒྲིག་ཚུལ།2/4](https://github.com/buda-base/budax/blob/master/howtoguides/DAB02/index.md)
+DAB03 - [DABཚིག་མཛོད་སྒྲིག་ཚུལ།3/4](https://github.com/buda-base/budax/blob/master/howtoguides/DAB03/index.md)
+DAB04 - [DABཚིག་མཛོད་སྒྲིག་ཚུལ།4/4](https://github.com/buda-base/budax/blob/master/howtoguides/DAB04/index.md)
 
 ## 文本分析工具 འཕྲུལ་ཡིག་འཚོལ་ཞིབ་ཀྱི་ལག་ཆ་ཁག
 
