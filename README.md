@@ -76,10 +76,10 @@
 * RAB12 - [Bloomདཔེ་མཛོད་བཀོལ་ཚུལ།2/2](https://github.com/buda-base/budax/blob/master/howtoguides/RAB12/index.md)
 
 ## DAB ཚིག་མཛོད་་མཉེན་ཆས་སྒྲིག་སྟེགས་ཀྱི་བཀོལ་སྤྱོད་ལམ་སྟོན། བརྙན་ལྡན།
-DAB01 - [DABཚིག་མཛོད་སྒྲིག་ཚུལ།1/4](https://github.com/buda-base/budax/blob/master/howtoguides/DAB01/index.md)
-DAB02 - [DABཚིག་མཛོད་སྒྲིག་ཚུལ།2/4](https://github.com/buda-base/budax/blob/master/howtoguides/DAB02/index.md)
-DAB03 - [DABཚིག་མཛོད་སྒྲིག་ཚུལ།3/4](https://github.com/buda-base/budax/blob/master/howtoguides/DAB03/index.md)
-DAB04 - [DABཚིག་མཛོད་སྒྲིག་ཚུལ།4/4](https://github.com/buda-base/budax/blob/master/howtoguides/DAB04/index.md)
+* DAB01 - [DABཚིག་མཛོད་སྒྲིག་ཚུལ།1/4](https://github.com/buda-base/budax/blob/master/howtoguides/DAB01/index.md)
+* DAB02 - [DABཚིག་མཛོད་སྒྲིག་ཚུལ།2/4](https://github.com/buda-base/budax/blob/master/howtoguides/DAB02/index.md)
+* DAB03 - [DABཚིག་མཛོད་སྒྲིག་ཚུལ།3/4](https://github.com/buda-base/budax/blob/master/howtoguides/DAB03/index.md)
+* DAB04 - [DABཚིག་མཛོད་སྒྲིག་ཚུལ།4/4](https://github.com/buda-base/budax/blob/master/howtoguides/DAB04/index.md)
 
 ## 文本分析工具 འཕྲུལ་ཡིག་འཚོལ་ཞིབ་ཀྱི་ལག་ཆ་ཁག
 
