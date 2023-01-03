@@ -37,7 +37,7 @@
 ༡༽ དྲུག        ༢༽ གསུམ། (正确回答)             ༣༽ གཅིག
 
 ## ༣༽ བོད་ཡིག་གི་སྒྲུང་དེབ་ལ་བྱིས་གཉོར་འཛིན་གྲྭའི་གནས་ཚད་ཀྱི་སྒྲུང་གི་མཚན་ཉིད་བརྟག་པ།
-<img src="https://github.com/buda-base/budax/blob/master/howtoguides/CSW02/images/004.jpg" width="80%" height="80%">
+<img src="https://github.com/buda-base/budax/blob/master/howtoguides/CSW02/images/003.jpg" width="80%" height="80%">
 
 - སློབ་ཚན་གྱི་བརྙན། [དྲ་ཐག་འདིར་སྣུན།](https://drive.google.com/file/d/1Eo4Bi3HVNqbdrWN3VqrT73osng1dIcfl/view?usp=share_link)
 
