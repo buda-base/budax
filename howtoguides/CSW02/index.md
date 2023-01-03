@@ -21,7 +21,7 @@
 - ༣༽ བོད་ཡིག་གི་སྒྲུང་དེབ་ལ་བྱིས་གཉོར་འཛིན་གྲྭའི་གནས་ཚད་ཀྱི་སྒྲུང་གི་མཚན་ཉིད་བརྟག་པ།
 
 ## ༡༽ བྱིས་གཉོར་འཛིན་གྲྭའི་གནས་ཚད་དང་མཐུན་པའི་སྒྲུང་གི་མཚན་ཉིད་བརྟག་ཐབས་ཀྱི་རེའུ་མིག
-<img src="https://github.com/buda-base/budax/blob/master/howtoguides/CSW01/images/001.jpg" width="80%" height="80%">
+<img src="https://github.com/buda-base/budax/blob/master/howtoguides/CSW02/images/001.jpg" width="80%" height="80%">
 
 - སློབ་ཚན་གྱི་བརྙན། [དྲ་ཐག་འདིར་སྣུན།](https://drive.google.com/file/d/1z_MwcCYfN6iG1aMJGb0XArySJPxUaXT4/view?usp=share_link))
 
@@ -29,7 +29,7 @@
 ༡༽ རི་མོ་མང་པོ་དང་ཡི་གེ་ཉུང་ཉུང།  (正确回答)    ༢༽ རི་མོ་ཉུང་ཉུང་དང་ཡི་གེ་མང་པོ།       ༣༽ ཚིག་གྲུབ་གཅིག་གི་ནང་དོན་གཅིག་ལས་མང་སྟོན་པ།
 
 ## ༢༽ བྱིས་གཉོར་འཛིན་གྲྭའི་གནས་ཚད་དང་མཐུན་པའི་སྒྲུང་གི་དཔེ་མཚོན།
-<img src="https://github.com/buda-base/budax/blob/master/howtoguides/CSW01/images/002.jpg" width="80%" height="80%">
+<img src="https://github.com/buda-base/budax/blob/master/howtoguides/CSW02/images/002.jpg" width="80%" height="80%">
 
 - སློབ་ཚན་གྱི་བརྙན། [དྲ་ཐག་འདིར་སྣུན།](https://drive.google.com/file/d/1Ekv189g7lTRt_rbw-O7nJOl1CN4KzdrH/view?usp=share_link)
 
@@ -37,7 +37,7 @@
 ༡༽ དྲུག        ༢༽ གསུམ། (正确回答)             ༣༽ གཅིག
 
 ## ༣༽ བོད་ཡིག་གི་སྒྲུང་དེབ་ལ་བྱིས་གཉོར་འཛིན་གྲྭའི་གནས་ཚད་ཀྱི་སྒྲུང་གི་མཚན་ཉིད་བརྟག་པ།
-<img src="https://github.com/buda-base/budax/blob/master/howtoguides/CSW01/images/004.jpg" width="80%" height="80%">
+<img src="https://github.com/buda-base/budax/blob/master/howtoguides/CSW02/images/004.jpg" width="80%" height="80%">
 
 - སློབ་ཚན་གྱི་བརྙན། [དྲ་ཐག་འདིར་སྣུན།](https://drive.google.com/file/d/1Eo4Bi3HVNqbdrWN3VqrT73osng1dIcfl/view?usp=share_link)
 
