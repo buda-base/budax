@@ -1,4 +1,4 @@
-# དགུ་བ། web images དྲ་སྤེལ་པར་སྣོད་བཟོ་བ།
+# དགུ་བ། Web images དྲ་སྤེལ་པར་སྣོད་བཟོ་བ།
 | དཀར་ཆག   |
 |---------|
 [༡༽ དྲ་སྤེལ་པར་སྣོད་གྲ་སྒྲིག་དང་བརྒྱ་ཆ་འཕྲི་ཐབས།](https://github.com/buda-base/budax/blob/master/howtoguides/DIG13/index.md#%E0%BC%A1-%E0%BD%91%E0%BE%B2%E0%BD%A6%E0%BE%A4%E0%BD%BA%E0%BD%A3%E0%BD%94%E0%BD%A2%E0%BD%A6%E0%BE%A3%E0%BD%BC%E0%BD%91%E0%BD%82%E0%BE%B2%E0%BD%A6%E0%BE%92%E0%BE%B2%E0%BD%B2%E0%BD%82%E0%BD%91%E0%BD%84%E0%BD%96%E0%BD%A2%E0%BE%92%E0%BE%B1%E0%BD%86%E0%BD%A0%E0%BD%95%E0%BE%B2%E0%BD%B2%E0%BD%90%E0%BD%96%E0%BD%A6)
