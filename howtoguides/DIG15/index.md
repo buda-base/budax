@@ -23,7 +23,7 @@
   * [ང༽ དངོས་པོ་དང་འབྲེལ་བའི་གནས་ཚུལ། Item Info](https://github.com/buda-base/budax/blob/master/howtoguides/DIG09/index.md) 
 ### [དྲུག་པ། བཤེར་ཆས་ཀྱི་སྒྲིག་འགོད་གྲ་སྒྲིག](https://github.com/buda-base/budax/blob/master/howtoguides/DIG10/index.md)
 ### [བདུན་པ། བཤེར་འབེབས་དངོས།](https://github.com/buda-base/budax/blob/master/howtoguides/DIG11/index.md)
-### [བརྒྱད་པ། Archive ཉར་ཚགས་པར་སྣོད་བཟོ་བ།](https://github.com/buda-base/budax/blob/master/howtoguides/DIG12/index.md)
-### [དགུ་བ། web images དྲ་སྤེལ་པར་སྣོད་བཟོ་བ།](https://github.com/buda-base/budax/blob/master/howtoguides/DIG13/index.md)
+### [བརྒྱད་པ། Archive images ཉར་ཚགས་པར་སྣོད་བཟོ་བ།](https://github.com/buda-base/budax/blob/master/howtoguides/DIG12/index.md)
+### [དགུ་བ། Web images དྲ་སྤེལ་པར་སྣོད་བཟོ་བ།](https://github.com/buda-base/budax/blob/master/howtoguides/DIG13/index.md)
 ### [བཅུ་བ། བརྩམས་ཆོས་པར་སྣོད་རྩིས་འབུལ་དང་ཉར་ཚགས།](https://github.com/buda-base/budax/blob/master/howtoguides/DIG14/index.md)
 
