@@ -6,8 +6,8 @@
 
 ཡིག་ཆ། |  
 -------|
-[![icons8-downloading-updates-26](https://user-images.githubusercontent.com/17675331/216086860-8b98e78d-9e07-4150-bce2-5946babce10e.png)བཤེར་འབེབས་པའི་ལག་ལེན་གྱི་གོ་རིམ། (fi-7160 བཤེར་ཆས་ཆེད།)](https://github.com/buda-base/digitization-guidelines/files/4584528/DPE.SOP.Using.fi-7160.Scanner.pdf)|
-[![icons8-downloading-updates-26](https://user-images.githubusercontent.com/17675331/216086910-9699cc46-81f6-4ff0-96ce-15bba250fcf2.png)བཤེར་འབེབས་པའི་ལག་ལེན་གྱི་གོ་རིམ། (མི་ལག་ནས་བླུ་བ།)](https://github.com/buda-base/digitization-guidelines/files/4584529/DPE.SOP.Files.received.from.others.pdf)|
+[![icons8-download-from-the-cloud-24 (1)](https://user-images.githubusercontent.com/17675331/216088111-224f0312-b520-4bd4-a217-e27b7b502cc4.png) བཤེར་འབེབས་པའི་ལག་ལེན་གྱི་གོ་རིམ། (fi-7160 བཤེར་ཆས་ཆེད།)](https://github.com/buda-base/digitization-guidelines/files/4584528/DPE.SOP.Using.fi-7160.Scanner.pdf)|
+[![icons8-download-from-the-cloud-24 (1)](https://user-images.githubusercontent.com/17675331/216088161-c17903ea-cc2a-4840-b8e2-b4a602c414f6.png) བཤེར་འབེབས་པའི་ལག་ལེན་གྱི་གོ་རིམ། (མི་ལག་ནས་བླུ་བ།)](https://github.com/buda-base/digitization-guidelines/files/4584529/DPE.SOP.Files.received.from.others.pdf)|
 
 
 ### དང་པོ། ཉེར་མཁོ་གྲ་སྒྲིག
