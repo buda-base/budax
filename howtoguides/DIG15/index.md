@@ -6,7 +6,7 @@
 
 ཡིག་ཆ། |  
 -------|
-[བཤེར་འབེབས་པའི་ལག་ལེན་གྱི་གོ་རིམ། (fi-7160)](https://github.com/buda-base/digitization-guidelines/files/4584528/DPE.SOP.Using.fi-7160.Scanner.pdf) ཕབ་ལེན།|
+[བཤེར་འབེབས་པའི་ལག་ལེན་གྱི་གོ་རིམ། (fi-7160 བཤེར་ཆས་ཆེད།)](https://github.com/buda-base/digitization-guidelines/files/4584528/DPE.SOP.Using.fi-7160.Scanner.pdf) ཕབ་ལེན།|
 [བཤེར་འབེབས་པའི་ལག་ལེན་གྱི་གོ་རིམ། (མི་ལག་ནས་བླུ་བ།)](https://github.com/buda-base/digitization-guidelines/files/4584529/DPE.SOP.Files.received.from.others.pdf)|
 
 
