@@ -12,5 +12,3 @@
 <p align="center">
 <iframe width="800" height="450" src="https://www.youtube.com/embed/4OQlODHrB_8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
-
-ཕན་ཐོགས་སོང་ངམ། ༡༽ ཐོགས་སོང་། ༢༽ ཐོགས་མ་སོང་།
