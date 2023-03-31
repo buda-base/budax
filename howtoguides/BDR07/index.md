@@ -10,5 +10,9 @@
 
 [![800](https://user-images.githubusercontent.com/28945342/229015964-82a7fac8-0c62-4bc3-b0cc-77b3c51dffda.png)](https://youtu.be/zUrFRHV-uXg)
 
+## Embed
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zUrFRHV-uXg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 ཕན་ཐོགས་སོང་ངམ། ༡༽ ཐོགས་སོང་། ༢༽ ཐོགས་མ་སོང་།
