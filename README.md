@@ -28,7 +28,7 @@
 *   BDR12 - [How to search by person མི་སྣ་འཚོལ་ཞིབ་བྱ་ཚུལ།](https://github.com/buda-base/budax/blob/master/howtoguides/BDR12/index.md)
 *   BDR13 - [How to search by location ས་གནས་འཚོལ་ཞིབ་བྱ་ཚུལ།](https://github.com/buda-base/budax/blob/master/howtoguides/BDR13/index.md)
 *   BDR14 - [How to search by topic བརྗོད་གཞིའི་ཐོག་ནས་འཚོལ་ཚུལ།](https://github.com/buda-base/budax/blob/master/howtoguides/BDR14/index.md)
-*   BDR15 - [How to borrow a copyrighted book བདག་དབང་ཅན་གྱི་དཔེ་ཆ་བལྟ་ཀློག་བྱ་ཚུལ།](https://github.com/buda-base/budax/blob/master/howtoguides/BDR15/index.md)
+*   BDR15 - [How to borrow a copyrighted book པར་དབང་ཅན་གྱི་དཔེ་ཆ་བལྟ་ཀློག་བྱ་ཚུལ།](https://github.com/buda-base/budax/blob/master/howtoguides/BDR15/index.md)
 *   BDR16 - [How to search by titles མཚན་བྱང་སྤྱད་དེ་འཚོལ་ཚུལ།](https://github.com/buda-base/budax/blob/master/howtoguides/BDR16/index.md)
 *   BDR17 - [How to use Monlam Dictionary in BDRC Website ཚོགས་པའི་དྲ་ཚིགས་ནང་སྨོན་ལམ་ཚིག་མཛོད་བཀོལ་ཚུལ།](https://github.com/buda-base/budax/blob/master/howtoguides/BDR17/index.md)
 
