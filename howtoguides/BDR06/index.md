@@ -8,6 +8,6 @@
 
 འདྲ་པར་སྒང་ལ་བསྣུན་དང་བརྙན་འཆར་ཡོང་། Click on this image for video
 
-[![alt text](https://user-images.githubusercontent.com/28945342/229011365-38289819-6b6f-4069-865f-c20a2738e730.png)](https://youtu.be/YChumyX51Cw)
+[![alt text](https://user-images.githubusercontent.com/28945342/229011365-38289819-6b6f-4069-865f-c20a2738e730.png)](https://youtu.be/APamat8joWI)
 
 
