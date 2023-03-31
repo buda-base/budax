@@ -6,4 +6,6 @@
 
 👇 དེ་ཇི་ལྟར་བྱ་ཚུལ་ལ་གཟིགས།
 
-[![alt text](https://user-images.githubusercontent.com/28945342/229010710-15e9d976-54d2-4ce0-9412-0c2b011c0463.png)]([https://youtu.be/ERIjgDeuzBI](https://youtu.be/YChumyX51Cw))
+[![alt text](https://user-images.githubusercontent.com/28945342/229011365-38289819-6b6f-4069-865f-c20a2738e730.png)](https://youtu.be/YChumyX51Cw)
+
+
