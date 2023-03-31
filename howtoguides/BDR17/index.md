@@ -11,4 +11,4 @@ BDRC ཡི་དྲ་ཚིགས་གསར་པའི་ནང་ཡིག
 
 [![alt text](https://github.com/buda-base/budax/blob/master/howtoguides/BDR17/images/000001.png)](https://youtu.be/ERIjgDeuzBI)
 
-
+ཕན་ཐོགས་སོང་ངམ། ༡༽ ཐོགས་སོང་། ༢༽ ཐོགས་མ་སོང་།
