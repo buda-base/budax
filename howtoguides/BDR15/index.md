@@ -6,26 +6,27 @@
 
 ## 1. པར་དབང་ཡོད་པའི་དཔེ་ཆ་ངོས་འཛིན།
 
-བུདྡྷ་དཔེ་མཛོད་ཀྱི་དྲ་ཚིགས་ནང་བདག་དབང་ཡོད་པའི་དཔེ་ཆ་ངོས་བཟུང་སྟེ་དེའི་མཚན་བྱང་ངོ་བཤུ་བྱེད་པའི་གྲ་སྒྲིག
+བུདྡྷ་དཔེ་མཛོད་ཀྱི་དྲ་ཚིགས་ནང་པར་དབང་ཡོད་པའི་དཔེ་ཆ་ངོས་བཟུང་སྟེ་དེའི་མཚན་བྱང་ངོ་བཤུ་བྱེད་པའི་གྲ་སྒྲིག
 
-<!-- ![800](images/000001.png) -->
+འདྲ་པར་སྒང་ལ་བསྣུན་དང་བརྙན་ཐུང་འཆར་ཡོང་། Click on this image for video
 
-<p align="center">
-<iframe width="800" height="450" src="https://www.youtube.com/embed/-LlnRcbBHC8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
+[![800](https://user-images.githubusercontent.com/28945342/229060395-e772e856-90ac-48f9-816f-34fd0a2344ac.png)](https://youtu.be/tPVs9WHl3Bg)
+
+## Embed
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPVs9WHl3Bg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## 2. Internet Archive ནང་ཐོ་འགོད་བྱ་ཚུལ།
 
-དྲ་ཚིགས་འདིའི་ནང་ཐོ་འགོད་དང་དཔེ་ཆ་གཡར་བ། དཔེ་ཀློག་བྱ་ཚུལ་བཅས་ངོ་སྤྲོད་བྱས་ཡོད།
+དྲ་ཚིགས་འདིའི་ནང་གསར་དུ་ཐོ་འགོད་དང་དཔེ་ཆ་གཡར་བ། དཔེ་ཀློག་བྱ་ཚུལ་བཅས་ངོ་སྤྲོད་བྱས་ཡོད།
 
 👇 དེ་ཇི་ལྟར་བྱ་ཚུལ་ལ་གཟིགས།
 
-<!-- ![800](images/000002.png) -->
+འདྲ་པར་སྒང་ལ་བསྣུན་དང་བརྙན་ཐུང་འཆར་ཡོང་། Click on this image for video
 
-<p align="center">
-<iframe width="800" height="450" src="https://www.youtube.com/embed/hB99E2CSgK0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
+[![800](https://user-images.githubusercontent.com/28945342/229058595-503ad7c8-b238-4943-a2c3-1818d90ae14d.png)](https://youtu.be/6Mah2K17FI4)
 
+## Embed
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6Mah2K17FI4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## 3. ཝེཡེ་ལེ་ཡིག་གཟུགས་ Wylie བོད་ཡིག་ལ་བསྒྱུར་ཚུལ།
 
@@ -33,11 +34,11 @@ Internet Archive དྲ་ཚིགས་འདིའི་ནང་གི་བ
 
 👇 དེ་ཇི་ལྟར་བྱ་ཚུལ་ལ་གཟིགས།
 
-<!-- ![800](images/000003.png) -->
+འདྲ་པར་སྒང་ལ་བསྣུན་དང་བརྙན་ཐུང་འཆར་ཡོང་། Click on this image for video
 
-<p align="center">
-<iframe width="800" height="450" src="https://www.youtube.com/embed/Dt1apomoAD4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
+[![800](https://user-images.githubusercontent.com/28945342/229064158-7221ca0f-02c8-4111-82ab-e34aea32abfe.png)](https://youtu.be/oUszPfo7MUc)
 
+## Embed
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oUszPfo7MUc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ཕན་ཐོགས་སོང་ངམ། ༡༽ ཐོགས་སོང་། ༢༽ ཐོགས་མ་སོང་།
