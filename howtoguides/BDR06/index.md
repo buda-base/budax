@@ -6,9 +6,4 @@
 
 👇 དེ་ཇི་ལྟར་བྱ་ཚུལ་ལ་གཟིགས།
 
-
-<!-- ![800](images/000001.png) -->
-
-<p align="center">
-<iframe width="800" height="450" src="https://www.youtube.com/embed/4OQlODHrB_8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
+[![alt text](https://user-images.githubusercontent.com/28945342/229010710-15e9d976-54d2-4ce0-9412-0c2b011c0463.png)]([https://youtu.be/ERIjgDeuzBI](https://youtu.be/YChumyX51Cw))
