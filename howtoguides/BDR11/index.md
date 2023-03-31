@@ -4,11 +4,13 @@
 
 👇 དེ་ཇི་ལྟར་བྱ་ཚུལ་ལ་གཟིགས།
 
-<!-- ![800](images/000006.png) -->
+འདྲ་པར་སྒང་ལ་སྣུན་དང་བརྙན་ཐུང་འཆར་ཡོང་། Click on this image for video
 
-<p align="center">
-<iframe width="800" height="450" src="https://www.youtube.com/embed/eBRqh3I4Imw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
+
+[![800](https://user-images.githubusercontent.com/28945342/229033136-3d33b235-6508-4b71-8972-74c945d8fec6.png)](https://youtu.be/tRWjPTeGTrA)
+
+## Embed
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tRWjPTeGTrA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ཕན་ཐོགས་སོང་ངམ། ༡༽ ཐོགས་སོང་། ༢༽ ཐོགས་མ་སོང་།
 
