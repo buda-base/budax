@@ -8,8 +8,10 @@ BDRC ཡི་དྲ་ཚིགས་གསར་པའི་ནང་མཚན
 
 འདྲ་པར་སྒང་ལ་བསྣུན་དང་བརྙན་ཐུང་འཆར་ཡོང་། Click on this image for video
 
+[![alt text](https://github.com/buda-base/budax/blob/master/howtoguides/BDR16/images/000001.png)](https://youtu.be/K9hZQakZfnA)
 
-[![alt text](https://github.com/buda-base/budax/blob/master/howtoguides/BDR16/images/000001.png)](https://youtu.be/jiWR5-qbEUQ)
+## Embed
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K9hZQakZfnA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 ཕན་ཐོགས་སོང་ངམ། ༡༽ ཐོགས་སོང་། ༢༽ ཐོགས་མ་སོང་།
