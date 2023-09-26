@@ -24,7 +24,7 @@
 
 
 ## ༡༽ བརྟག་ཐབས་ཟུར་གསུམ་མའི་གྲུབ་འབྲས་འབྲི་སྟངས།
-<img src="https://github.com/buda-base/budax/blob/master/howtoguides/CSW12/images/001.jpg" width="80%" height="80%">
+<img src="https://github.com/buda-base/budax/blob/master/howtoguides/CSW12/New%20folder/001.jpg" width="80%" height="80%">
 
 - སློབ་ཚན་གྱི་བརྙན། [དྲ་ཐག་འདིར་སྣུན།](https://drive.google.com/file/d/18-hFkqd29z2FAyvC199pBp4SV6a3vztX/view?usp=share_link)
 
@@ -34,7 +34,7 @@
 ག) སྒྲུང་དེབ་གཞིར་བཞག་ནས་འབྲི་དགོས།
 
 ## ༢༽ བརྟག་ཐབས་ཟུར་གསུམ་མའི་དགོས་པ།
-<img src="https://github.com/buda-base/budax/blob/master/howtoguides/CSW12/images/002.jpg" width="80%" height="80%">
+<img src="https://github.com/buda-base/budax/blob/master/howtoguides/CSW12/New%20folder/002.jpg" width="80%" height="80%">
 
 - སློབ་ཚན་གྱི་བརྙན། [དྲ་ཐག་འདིར་སྣུན།](https://drive.google.com/file/d/1ICnVKRgqp8XHEGVfoOpX-IULhhSvToK-/view?usp=share_link)
 
