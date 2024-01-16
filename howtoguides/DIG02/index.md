@@ -34,7 +34,7 @@ Fijitsu fi-7160 [བཤེར་ཆས](https://github.com/buda-base/digitizatio
 
 སྒེའུ་ཁུང་གློག་ཀླད་ནང་ཕབ་ལེན། | ཀུ་ཤུ་རྟགས་ཅན་ནང་ཕབ་ལེན་།
 | -- | -- 
-| <a href="http://download.xnview.com/XnViewMP-win-x64.exe"><button type="button" class="btn btn-success"><i class="fa fa-cloud-download"></i> win 64bit </button></a> | <a href="http://download.xnview.com/XnViewMP-mac.dmg"><button type="button" class="btn btn-success"><i class="fa fa-cloud-download"></i> iMac </button></a>
+| <a href="https://download.xnview.com/XnViewMP-win-x64.exe"><button type="button" class="btn btn-success"><i class="fa fa-cloud-download"></i> win 64bit </button></a> | <a href="http://download.xnview.com/XnViewMP-mac.dmg"><button type="button" class="btn btn-success"><i class="fa fa-cloud-download"></i> iMac </button></a>
  <a href="http://download.xnview.com/XnViewMP-win.exe"><button type="button" class="btn btn-success"><i class="fa fa-cloud-download"></i> win 32bit </button></a>|
 
 མཉེན་ཆས་ནང་འཇུག་བྱེད་སྟངས། 
