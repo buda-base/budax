@@ -27,15 +27,15 @@ Fijitsu fi-7160 [བཤེར་ཆས](https://github.com/buda-base/digitizatio
 
 ![800](images/000003.gif)
 
-#### 3. XNView བཤེར་པར་གཙང་སྒྲིག <br/> 
-[བཤེར་པར](https://github.com/buda-base/digitization-guidelines/wiki/Terminology-%E0%BD%96%E0%BD%A2%E0%BE%A1%E0%BC%8B%E0%BD%86%E0%BD%91%E0%BC%8D-%E6%9C%AF%E8%AF%AD#%E6%89%AB%E6%8F%8F%E7%9A%84%E5%9B%BE%E5%83%8F%E6%95%B0%E5%AD%97%E5%9B%BE%E5%83%8F-%E0%BD%96%E0%BD%A4%E0%BD%BA%E0%BD%A2%E0%BD%94%E0%BD%A2%E0%BD%A2%E0%BD%98%E0%BD%A1%E0%BD%84%E0%BD%93%E0%BD%91%E0%BD%94%E0%BD%BA%E0%BD%94%E0%BD%A2-scanned-imagedigital-image)་ཞིབ་འཇུག་གི་མགོ་གཞུག་ཀུན་ཏུ་XNView མཉེན་ཆས་འདི་བཀོལ་དགོས་པས། ཐོག་མར་ཁྱེད་ཀྱི་གློག་ཀླད་ནང་མཉེན་ཆས་འདི་ངེས་པར་ཕབ་ལེན་བྱེད་དགོས། མཉེན་ཆས་འདིའི་དྲ་ཚིགས་ལ་གཟིགས་འདོད་ཚེ་[འདིར་སྣུན](https://www.xnview.com/en/xnconvert/#downloads)། གཤམ་ནས་རང་གི་གློག་ཀླད་ཀྱི་རིགས་དང་མཐུན་པའི་XNView མཉེན་ཆས་ཕབ་ལེན་བྱོས།
+#### 3. XNViewMP བཤེར་པར་གཙང་སྒྲིག <br/> 
+[བཤེར་པར](https://github.com/buda-base/digitization-guidelines/wiki/Terminology-%E0%BD%96%E0%BD%A2%E0%BE%A1%E0%BC%8B%E0%BD%86%E0%BD%91%E0%BC%8D-%E6%9C%AF%E8%AF%AD#%E6%89%AB%E6%8F%8F%E7%9A%84%E5%9B%BE%E5%83%8F%E6%95%B0%E5%AD%97%E5%9B%BE%E5%83%8F-%E0%BD%96%E0%BD%A4%E0%BD%BA%E0%BD%A2%E0%BD%94%E0%BD%A2%E0%BD%A2%E0%BD%98%E0%BD%A1%E0%BD%84%E0%BD%93%E0%BD%91%E0%BD%94%E0%BD%BA%E0%BD%94%E0%BD%A2-scanned-imagedigital-image)་ཞིབ་འཇུག་གི་མགོ་གཞུག་ཀུན་ཏུ་XNViewMP མཉེན་ཆས་འདི་བཀོལ་དགོས་པས། ཐོག་མར་ཁྱེད་ཀྱི་གློག་ཀླད་ནང་མཉེན་ཆས་འདི་ངེས་པར་ཕབ་ལེན་བྱེད་དགོས། མཉེན་ཆས་འདིའི་དྲ་ཚིགས་ལ་གཟིགས་འདོད་ཚེ་[འདིར་སྣུན](https://www.xnview.com/en/xnviewmp/#downloads)། གཤམ་ནས་རང་གི་གློག་ཀླད་ཀྱི་རིགས་དང་མཐུན་པའི་XNViewMP མཉེན་ཆས་ཕབ་ལེན་བྱོས།
 
 ![](images/000004.png)
 
 སྒེའུ་ཁུང་གློག་ཀླད་ནང་ཕབ་ལེན། | ཀུ་ཤུ་རྟགས་ཅན་ནང་ཕབ་ལེན་།
 | -- | -- 
-| <a href="https://download.xnview.com/XnViewMP-win-x64.exe"><button type="button" class="btn btn-success"><i class="fa fa-cloud-download"></i> win 64bit </button></a> | <a href="http://download.xnview.com/XnViewMP-mac.dmg"><button type="button" class="btn btn-success"><i class="fa fa-cloud-download"></i> iMac </button></a>
- <a href="http://download.xnview.com/XnViewMP-win.exe"><button type="button" class="btn btn-success"><i class="fa fa-cloud-download"></i> win 32bit </button></a>|
+| <a href="https://download.xnview.com/XnViewMP-win-x64.exe"><button type="button" class="btn btn-success"><i class="fa fa-cloud-download"></i> win 64bit </button></a> | <a href="https://download.xnview.com/XnViewMP-mac.dmg"><button type="button" class="btn btn-success"><i class="fa fa-cloud-download"></i> iMac </button></a>
+ <a href="https://download.xnview.com/XnViewMP-win.exe"><button type="button" class="btn btn-success"><i class="fa fa-cloud-download"></i> win 32bit </button></a>|
 
 མཉེན་ཆས་ནང་འཇུག་བྱེད་སྟངས། 
 
