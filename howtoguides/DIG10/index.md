@@ -8,6 +8,9 @@
 [༤༽ བཤེར་པར་གྱི་ཆེ་ཆུང་སོགས་ཀྱི་སྒྲིག་འགོད།](https://github.com/buda-base/budax/blob/master/howtoguides/DIG10/index.md#%E0%BC%A4-%E0%BD%96%E0%BD%A4%E0%BD%BA%E0%BD%A2%E0%BD%94%E0%BD%A2%E0%BD%82%E0%BE%B1%E0%BD%B2%E0%BD%86%E0%BD%BA%E0%BD%86%E0%BD%B4%E0%BD%84%E0%BD%A6%E0%BD%BC%E0%BD%82%E0%BD%A6%E0%BD%80%E0%BE%B1%E0%BD%B2%E0%BD%A6%E0%BE%92%E0%BE%B2%E0%BD%B2%E0%BD%82%E0%BD%A0%E0%BD%82%E0%BD%BC%E0%BD%91) |
 [༥༽ སྒྲིག་འགོད་གཞན་འགའ།](https://github.com/buda-base/budax/blob/master/howtoguides/DIG10/index.md#%E0%BC%A5-%E0%BD%A6%E0%BE%92%E0%BE%B2%E0%BD%B2%E0%BD%82%E0%BD%A0%E0%BD%82%E0%BD%BC%E0%BD%91%E0%BD%82%E0%BD%9E%E0%BD%93%E0%BD%A0%E0%BD%82%E0%BD%A0) |
 
+![Picture14](https://github.com/buda-base/budax/assets/28945342/99305b00-5a69-43ec-aed1-748c6413571e)
+
+
 ### ༡༽ པར་སྣོད་ཁ་ཕྱེ་སྟངས། 
 
 ScandAll-Proཁ་ཕྱེ། 🡲![](images/001.png) སྟེང་ནོན། 🡲 浏览སྟེང་ནོན། 🡲 📂AB12འདེམས། 🡲 📂sourceསྟེང་ནོན། 🡲 📂01སྟེང་ནོན། 🡲确定སྟེང་ནོན།
