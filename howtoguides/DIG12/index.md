@@ -5,6 +5,9 @@
 | [༢༽ པར་མཐའི་ལྷག་མ་རྣམས་གཏུབ་པ།](https://github.com/buda-base/budax/blob/master/howtoguides/DIG12/index.md#%E0%BC%A2-%E0%BD%94%E0%BD%A2%E0%BD%98%E0%BD%90%E0%BD%A0%E0%BD%B2%E0%BD%A3%E0%BE%B7%E0%BD%82%E0%BD%98%E0%BD%A2%E0%BE%A3%E0%BD%98%E0%BD%A6%E0%BD%82%E0%BD%8F%E0%BD%B4%E0%BD%96%E0%BD%94)|
 | [༣༽ པར་མིང་བསྐྱར་འདོགས།](https://github.com/buda-base/budax/blob/master/howtoguides/DIG12/index.md#%E0%BC%A3-%E0%BD%94%E0%BD%A2%E0%BD%98%E0%BD%B2%E0%BD%84%E0%BD%96%E0%BD%A6%E0%BE%90%E0%BE%B1%E0%BD%A2%E0%BD%A0%E0%BD%91%E0%BD%BC%E0%BD%82%E0%BD%A6%E0%BD%96%E0%BE%B1%E0%BD%BA%E0%BD%91%E0%BD%94)|
 
+![Picture16](https://github.com/buda-base/budax/assets/28945342/d2eaf9a9-f3c6-4536-aba9-d7cddf4a4f45)
+
+
 ## ༡༽ ཉར་ཚགས་པར་བཟོ་སྟངས།
 
 XNView མཉེན་ཆས་ཁ་ཕྱེ། 🡲 📂ABC123 ཁ་ཕྱེ། 🡲 📂sourceའདེམས་ནས་ཙི་ཙི་གཡས་རྡེབས་བྱོས། 🡲 批量转换འདེམས།  🡲 输出སྟེང་ནོན། 🡲 文件夹 🡲 C:\Users\......\archiveའདེམས། 🡲 文件名 🡲{filename} 🡲 格式 🡲 Tiff-revision 6འདེམས། 🡲 设置 🡲 彩色图像压缩 🡲 ZIPའདེམས། 🡲 OKནོན། 🡲 当输出文件已经存在时 🡲 重命名འདེམས། 🡲 保特文件结构ལ་རྟགས་རྒྱོབས། 🡲 保留上级目录(པོད་གཅིག་ཅན་ཡིན་ན་འདི་ལ་རྟགས་རྒྱོབས། དེ་མིན་རྟགས་རྒྱགས་མི་དགོས།) 🡲 保留元数据 ལ་རྟགས་རྒྱོབས། 🡲 Use CPU Coresལ་རྟགས་རྒྱབ་ནས་ 🡲 མཐོ་ཤོས་དེ་འདེམས། 🡲 转挨ནོན། 🡲 OKནོན།
