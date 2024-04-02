@@ -8,6 +8,9 @@
 [༥༽ ཤོག་ཚབ་འཇུག་ཚུལ་སོགས།](https://github.com/buda-base/budax/blob/master/howtoguides/DIG11/index.md#%E0%BC%A5-%E0%BD%A4%E0%BD%BC%E0%BD%82%E0%BD%9A%E0%BD%96%E0%BD%A0%E0%BD%87%E0%BD%B4%E0%BD%82%E0%BD%9A%E0%BD%B4%E0%BD%A3%E0%BD%A6%E0%BD%BC%E0%BD%82)|
 
 
+![Picture15](https://github.com/buda-base/budax/assets/28945342/2f599b16-41af-4edd-8384-d20e83ab17b8)
+
+
 ## ༡༽ བཤེར་འབེབས།
 
 ScandAll-Proཁ་ཕྱེ། 🡲![](images/001.png)སྟེང་ནོན། 🡲 扫墓སྟེང་ནོན། 🡲 是(Y) སྟེང་ནོན། 🡲 关闭 སྟེང་ནོན། 🡲 མ་ཕྱི་པར་སྣོད XnView ཁ་ཕྱེ། 🡲 Ctrl+Aམནན་ནས་པར་ཚང་མ་འདེམས། 🡲 批量重命名སྟེང་ནོན། 🡲 名秒模板 🡲 i### ཕྲིས། 🡲 OKནོན།
