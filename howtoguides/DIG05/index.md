@@ -1,6 +1,7 @@
 # བཞི་བ། པར་སྣོད་དང་དན་གྲངས་གོང་མ་གྲ་སྒྲིག
 
-![Picture9](https://github.com/buda-base/budax/assets/28945342/911779ed-1e2e-4187-b177-f65ea5474fab)
+![05](https://github.com/buda-base/budax/assets/28945342/fdee0393-7cf6-46be-a21d-672de15e1ce8)
+
 
 
 ## མཁོ་སྒྲུབ་ཨང་གི་རེའུ་མིག་ནང་མཁོ་སྒྲུབ་ཨང་གསར་བ་ཞིག་བཟོས། AB12
