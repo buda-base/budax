@@ -4,7 +4,8 @@
 | [༡༽ དེང་དུས་ཀྱི་དེབ་གཟུགས་རིགས།](https://github.com/buda-base/budax/blob/master/howtoguides/DIG04/index.md#%E0%BC%A1-%E0%BD%91%E0%BD%BA%E0%BD%84%E0%BD%91%E0%BD%B4%E0%BD%A6%E0%BD%80%E0%BE%B1%E0%BD%B2%E0%BD%91%E0%BD%BA%E0%BD%96%E0%BD%82%E0%BD%9F%E0%BD%B4%E0%BD%82%E0%BD%A6%E0%BD%A2%E0%BD%B2%E0%BD%82%E0%BD%A6)|
 | [༢༽ སྲོལ་རྒྱུན་དཔེ་ཆ་སྣ་རིང་རིགས།](https://github.com/buda-base/budax/blob/master/howtoguides/DIG04/index.md#%E0%BC%A2-%E0%BD%96%E0%BD%BC%E0%BD%91%E0%BD%80%E0%BE%B1%E0%BD%B2%E0%BD%A6%E0%BE%B2%E0%BD%BC%E0%BD%A3%E0%BD%A2%E0%BE%92%E0%BE%B1%E0%BD%B4%E0%BD%93%E0%BD%91%E0%BD%94%E0%BD%BA%E0%BD%86%E0%BD%A6%E0%BE%A3%E0%BD%A2%E0%BD%B2%E0%BD%84%E0%BD%A2%E0%BD%B2%E0%BD%82%E0%BD%A6%E0%BD%91%E0%BD%84%E0%BD%A0%E0%BD%96%E0%BE%B2%E0%BD%BA%E0%BD%A3%E0%BD%96%E0%BD%A0%E0%BD%B2%E0%BD%82%E0%BE%B2%E0%BD%A6%E0%BE%92%E0%BE%B2%E0%BD%B2%E0%BD%82%E0%BD%82%E0%BD%B2%E0%BD%A6%E0%BE%90%E0%BD%BC%E0%BD%A2)|
 
-![Picture7](https://github.com/buda-base/budax/assets/28945342/7cca00cc-3208-40db-8cd6-4d29a34632f5)
+
+![04](https://github.com/buda-base/budax/assets/28945342/46f81a97-18c7-420b-b9f6-a5b3fa14b66b)
 
 
 ### ༡༽ དེང་དུས་ཀྱི་དེབ་གཟུགས་རིགས།
