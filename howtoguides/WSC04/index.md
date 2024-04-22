@@ -1,7 +1,7 @@
 ## སྡེ་ཚན་བཞི་པ། དྲ་རྒྱའི་དྲ་ཐག་འཇོག་ཚུལ། [དྲ་རྒྱ་སྟབས་བདེ་བཟོ་སྟངས། 04/04] 
 ### ༡༽ པར་རིས་སྒང་ལ་དྲ་ཐག་འཇོག་ཚུལ།
 
-<img src="https://github.com/buda-base/budax/blob/master/howtoguides/CSW12/New%20folder/001.jpg" width="80%" height="80%">
+<img src="https://github.com/buda-base/budax/blob/master/howtoguides/WSC04/images/WSC04_01.png" width="80%" height="80%">
 
 - སློབ་ཚན་གྱི་བརྙན། [དྲ་ཐག་འདིར་སྣུན།](https://youtu.be/Gz4aU0ses8g)
 
@@ -12,7 +12,7 @@
  
 ### ༢༽ དྲ་ཐག་གཞན་འཇོག་ཚུལ།
 
-<img src="https://github.com/buda-base/budax/blob/master/howtoguides/CSW12/New%20folder/001.jpg" width="80%" height="80%">
+<img src="https://github.com/buda-base/budax/blob/master/howtoguides/WSC04/images/WSC04_02.png" width="80%" height="80%">
 
 - སློབ་ཚན་གྱི་བརྙན། [དྲ་ཐག་འདིར་སྣུན།](https://youtu.be/LcJTBct6MY0)
 
@@ -32,7 +32,7 @@ Jekyll、Hugo、Hexo 编译判断依据
 当不符合上述1和2条件的时候，就默认使用Jekyll编译。
 有关详细信息，请查看官方网站。 [Gitee.com](https://gitee.com/help/articles/4136#article-header4)
 
-<img src="https://github.com/buda-base/budax/blob/master/howtoguides/CSW12/New%20folder/001.jpg" width="80%" height="80%">
+<img src="https://github.com/buda-base/budax/blob/master/howtoguides/WSC04/images/WSC04_03(01).png" width="80%" height="80%">
 
 #### དྲ་ཚིགས་གྷི་ཐབ་སྟེང་སྤེལ་ཚུལ།
 Creating a GitHub Pages site
@@ -51,4 +51,4 @@ Further reading
 Note: Organization owners can restrict the publication of GitHub Pages sites from repositories owned by the organization. For more information, see "Managing the publication of GitHub Pages sites for your organization."
 For detail please check the official website. [Github.com](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site)
 
-<img src="https://github.com/buda-base/budax/blob/master/howtoguides/CSW12/New%20folder/001.jpg" width="80%" height="80%">
+<img src="https://github.com/buda-base/budax/blob/master/howtoguides/WSC04/images/WSC04_03(02).png" width="80%" height="80%">
