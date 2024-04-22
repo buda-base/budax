@@ -4,7 +4,7 @@
 ## སྡེ་ཚན་དང་པོ། ངོ་སྤྲོད། [དྲ་རྒྱ་སྟབས་བདེ་བཟོ་སྟངས།01/04] 
 ### ༡༽ མི་བཟོས་རིག་ནུས་ངོ་སྤྲོད།
 
-<img src="https://github.com/buda-base/budax/blob/master/howtoguides/WSC01/images/02.jpg" width="80%" height="80%">
+<img src="https://github.com/buda-base/budax/blob/master/howtoguides/WSC01/images/WSC01_01.png" width="80%" height="80%">
 
 - སློབ་ཚན་གྱི་བརྙན། [དྲ་ཐག་འདིར་སྣུན།](https://youtu.be/PxxKbG1XOg4
 
@@ -15,7 +15,7 @@
 
 ### ༢༽ ཐོ་འགོད་དང་ནང་འཛུལ།
 
-<img src="https://github.com/buda-base/budax/blob/master/howtoguides/CSW12/New%20folder/001.jpg" width="80%" height="80%">
+<img src="https://github.com/buda-base/budax/blob/master/howtoguides/WSC01/images/WSC01_02.png" width="80%" height="80%">
 
 - སློབ་ཚན་གྱི་བརྙན། [དྲ་ཐག་འདིར་སྣུན།](https://youtu.be/QJ11_5oS01E)
 
