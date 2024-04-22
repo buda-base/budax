@@ -1,7 +1,7 @@
 ## སྡེ་ཚན་གཉིས་པ། དྲ་ཚིགས་ཀྱི་རྨང་གཞི་ཤེས་བྱ། [དྲ་རྒྱ་སྟབས་བདེ་བཟོ་སྟངས།02/04] 
 ### ༡༽ ཡིག་སྣོད་གྲ་སྒྲིག
 
-<img src="https://github.com/buda-base/budax/blob/master/howtoguides/CSW12/New%20folder/001.jpg" width="80%" height="80%">
+<img src="https://github.com/buda-base/budax/blob/master/howtoguides/WSC02/images/WSC02_01.png" width="80%" height="80%">
 
 - སློབ་ཚན་གྱི་བརྙན། [དྲ་ཐག་འདིར་སྣུན།](https://youtu.be/rwsp1T-Zuwo)
 
@@ -12,7 +12,7 @@
  
 ### ༢༽ དྲ་ཚིགས་སྟབས་བདེ།
 
-<img src="https://github.com/buda-base/budax/blob/master/howtoguides/CSW12/New%20folder/001.jpg" width="80%" height="80%">
+<img src="https://github.com/buda-base/budax/blob/master/howtoguides/WSC02/images/WSC02_02.png" width="80%" height="80%">
 
 - སློབ་ཚན་གྱི་བརྙན། [དྲ་ཐག་འདིར་སྣུན།](https://youtu.be/aBNmt41F7c4)
 
@@ -23,7 +23,7 @@
 
 ### ༣༽ མཚོན་རྟགས་དང་པར་རིས་སོགས་ཁ་སྣོན།
 
-<img src="https://github.com/buda-base/budax/blob/master/howtoguides/CSW12/New%20folder/001.jpg" width="80%" height="80%">
+<img src="https://github.com/buda-base/budax/blob/master/howtoguides/WSC02/images/WSC02_03.png" width="80%" height="80%">
 
 - སློབ་ཚན་གྱི་བརྙན། [དྲ་ཐག་འདིར་སྣུན།](https://youtu.be/cOJOdMwl4TU)
 
