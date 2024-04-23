@@ -8,7 +8,7 @@
 - སྤྱིའི་ངོ་སྤྲོད་སྙིང་བསྡུས། འདིར་AI ནམ་བཅོས་མའི་རིག་ནུས་སྤྱད་དེ་རང་ཉིད་ཀྱི་འདོད་པ་ལྟར་དེའི་འདྲ་པར་བཟོ་ཚུལ་གྱི་ཐབས་ལམ་རྣམས་ངོ་སྤྲོད་བྱས་ཡོད། 
 འདིའི་ཁྱད་ཆོས་གཙོ་བོ། གཙོ་བོ་བོད་ཡིག་མ་གཏོགས་སྐད་ཡིག་གཞན་མི་ཤེས་མཁན་དང་ཤེས་ཀྱང་ཚད་ལྡན་མི་ཤེས་མཁན་རྣམས་དམིགས་འབེན་དུ་བཟུང་ཡོད།
 
-<img src="https://github.com/buda-base/budax/blob/master/howtoguides/WSC04/images/WSC04_01.png" width="80%" height="80%">
+<img src="https://github.com/buda-base/budax/blob/master/howtoguides/BIG01/images/BIG01-01.png" width="80%" height="80%">
 
 - སློབ་ཚན་གྱི་བརྙན། [དྲ་ཐག་འདིར་སྣུན།](https://youtu.be/mxaL0fu5K4g)
 
@@ -23,7 +23,7 @@
 - བོད་ཡིག་སྤྱད་དེ་རང་ཉིད་ཀྱིས་བཟོ་འདོད་པའི་འདྲ་པར་གྱི་འགྲེལ་བཤད་prompt འབྲི་ཚུལ་དང་།
 - དེ་ཡིག་བསྒྱུར་བྱས་ཏེ་རིག་ནུས་ལ་འདྲ་པར་དངོས་སུ་བཟོ་འཇུག་རྒྱུ།
 
-<img src="https://github.com/buda-base/budax/blob/master/howtoguides/WSC04/images/WSC04_01.png" width="80%" height="80%">
+<img src="https://github.com/buda-base/budax/blob/master/howtoguides/BIG01/images/BIG01-02.png" width="80%" height="80%">
 
 - སློབ་ཚན་གྱི་བརྙན། [དྲ་ཐག་འདིར་སྣུན།](https://youtu.be/uZFTf-URB84)
 
@@ -38,7 +38,7 @@
 - འདྲ་པར་ལ་བལྟས་ཏེ་འགྲེལ་བཤད་ཁ་སྣོན་བྱེད་ཚུལ་དང་།
 - Copilot རིག་ནུས་ཀྱི་རམ་འདེགས་བྱེད་ཚུལ།
 
-<img src="https://github.com/buda-base/budax/blob/master/howtoguides/WSC04/images/WSC04_01.png" width="80%" height="80%">
+<img src="https://github.com/buda-base/budax/blob/master/howtoguides/BIG01/images/BIG01-03.png" width="80%" height="80%">
 
 - སློབ་ཚན་གྱི་བརྙན། [དྲ་ཐག་འདིར་སྣུན།](https://youtu.be/gBiEPeR7Hxg)
 
