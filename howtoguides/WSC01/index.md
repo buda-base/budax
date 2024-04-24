@@ -6,7 +6,7 @@
 
 <img src="https://github.com/buda-base/budax/blob/master/howtoguides/WSC01/images/WSC01_01.png" width="80%" height="80%">
 
-- སློབ་ཚན་གྱི་བརྙན། [དྲ་ཐག་འདིར་སྣུན།](https://youtu.be/PxxKbG1XOg4
+- སློབ་ཚན་གྱི་བརྙན། [དྲ་ཐག་འདིར་སྣུན།](https://youtu.be/PxxKbG1XOg4)
 
 #### དྲི་བ། ༡༽ Chatgpt ཟེར་བ་འདི་ག་རེ་རེད།
 - ཀ) རྩེད་མོ་རྩེད་ས། 
