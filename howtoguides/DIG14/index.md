@@ -3,6 +3,11 @@
 |-------|
 | [༡༽ བརྩམས་ཆོས་པར་སྣོད་རྩིས་འབུལ།](https://github.com/buda-base/budax/blob/master/howtoguides/DIG14/index.md#%E0%BC%A1-%E0%BD%96%E0%BD%A2%E0%BE%A9%E0%BD%98%E0%BD%A6%E0%BD%86%E0%BD%BC%E0%BD%A6%E0%BD%94%E0%BD%A2%E0%BD%A6%E0%BE%A3%E0%BD%BC%E0%BD%91%E0%BD%A2%E0%BE%A9%E0%BD%B2%E0%BD%A6%E0%BD%A0%E0%BD%96%E0%BD%B4%E0%BD%A3)|
 | [༢༽ བརྩམས་ཆོས་པར་སྣོད་ཉར་ཚགས།](https://github.com/buda-base/budax/blob/master/howtoguides/DIG14/index.md#%E0%BC%A2%E0%BD%96%E0%BD%A2%E0%BE%A9%E0%BD%98%E0%BD%A6%E0%BD%86%E0%BD%BC%E0%BD%A6%E0%BD%94%E0%BD%A2%E0%BD%A6%E0%BE%A3%E0%BD%BC%E0%BD%91%E0%BD%89%E0%BD%A2%E0%BD%9A%E0%BD%82%E0%BD%A6)|
+
+![Picture19](https://github.com/buda-base/budax/assets/28945342/08e033e6-8675-4d0a-8917-e2d22d251cd4)
+
+
+
 ## ༡༽ བརྩམས་ཆོས་པར་སྣོད་རྩིས་འབུལ།
 
 📂ABC123ཁ་ཕྱེ། 🡲 📂sourceསྟེང་ནོན། 🡲 ཙི་ཙི་གཡས་སྡེབས་བྱོས། 🡲 删除སྟེང་ནོན། 🡲 OKསྟེང་ནོན། 🡲 📂ABC123འདེམས། 🡲 Zipལ་བསྒྱུར། 🡲  微云ཁ་ཕྱེ། 🡲 上传 🡲 ཡིག་ཆ་འདེམས། 🡲 打开སྟེང་ནོན། 🡲 ཡིག་ཆའི་མདུན་གྱི་གྲུ་བཞི་ནང་རྟགས་རྒྱོབས། 🡲 分享འདེམས། 🡲 复制སྟེང་ནོན། 🡲 དྲ་ཐག་བརྒྱུད་བསྐུར་བྱོས།

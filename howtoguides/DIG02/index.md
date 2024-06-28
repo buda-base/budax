@@ -1,10 +1,11 @@
 # དང་པོ། ཉེར་མཁོའི་གྲ་སྒྲིག ༼མཉེན་ཆས།༽
 
-འོག་ཏུ་བྲིས་བའི་མཁོ་ཆས་རིགས་ཀྱི་ཐོ་གཞུང་ནི་བཤེར་འབེབས་པའི་ཨང་བསྒྱར་ལས་གཞི་ལ་མེད་དུ་མི་རུང་བ་ཡིན། གཤམ་ལ་སྲ་ཆས་དང་མཉེན་ཆས་རིགས་གཉིས་སུ་དབྱེ་ནས་སྲ་ཆས་རིགས་བེད་སྤྱོད་བྱེད་ཕྱོགས་དང་། མཉེན་ཆས་ཀྱི་རིགས་ཡིན་ན་ཕབ་ལེན་དང་ནང་འཇུག་ཇི་ལྟར་བྱེད་དགོས་མིན་སོགས་ཀྱི་སྐོར་ནས་ངོ་སྤྲོད་ཐུང་ཙམ་རེ་བྱེད།
+གཤམ་གྱི་ཐོ་གཞུང་ནང་གསལ་བའི་མཁོ་ཆས་རྣམས་ནི་བཤེར་འབེབས་པའི་ཨང་བསྒྱུར་ལས་གཞི་ལ་མེད་དུ་མི་རུང་ཞིང་། སྲ་ཆས་དང་མཉེན་ཆས་རིགས་གཉིས་སུ་དབྱེ་ནས་སྲ་ཆས་རིགས་བེད་སྤྱོད་བྱེད་ཕྱོགས་དང་། མཉེན་ཆས་ཀྱི་རིགས་ཡིན་ན་ཕབ་ལེན་དང་ནང་འཇུག་ཇི་ལྟར་བྱེད་དགོས་མིན་སོགས་ཀྱི་སྐོར་ནས་ངོ་སྤྲོད་ཐུང་ཙམ་རེ་བྱེད་པར་བྱ་སྟེ།
 
-![](images/000012.png)
+![02](https://github.com/buda-base/budax/assets/28945342/898a05e3-f17f-477c-b26c-ad098ba13487)
 
-### མཉེན་ཆས།
+
+### 1.2 མཉེན་ཆས།
 
 #### 1. སྒེའུ་ཁུང་10 <br/>
 ཨང་བསྒྱུར་ལས་རིམ་གྱི་མགོ་ནས་མཇུག་བར་དུ་བཤེར་འབེབས་དང་། པར་གཅོད་གཏུབ། རྣམ་སྒྲིག་བརྗེ་སྒྱུར། ཆེ་ཆུང་བཟོ་བ་སོགས་ལ་ངེས་བར་དུ་མཁོ། གློག་ཀླདལ་ངེས་བར་སྒེའུ་ཁུང་10མཉེན་ཆས་མ་ལག་ཡོད་དགོས།
@@ -27,15 +28,15 @@ Fijitsu fi-7160 [བཤེར་ཆས](https://github.com/buda-base/digitizatio
 
 ![800](images/000003.gif)
 
-#### 3. XNView བཤེར་པར་གཙང་སྒྲིག <br/> 
-[བཤེར་པར](https://github.com/buda-base/digitization-guidelines/wiki/Terminology-%E0%BD%96%E0%BD%A2%E0%BE%A1%E0%BC%8B%E0%BD%86%E0%BD%91%E0%BC%8D-%E6%9C%AF%E8%AF%AD#%E6%89%AB%E6%8F%8F%E7%9A%84%E5%9B%BE%E5%83%8F%E6%95%B0%E5%AD%97%E5%9B%BE%E5%83%8F-%E0%BD%96%E0%BD%A4%E0%BD%BA%E0%BD%A2%E0%BD%94%E0%BD%A2%E0%BD%A2%E0%BD%98%E0%BD%A1%E0%BD%84%E0%BD%93%E0%BD%91%E0%BD%94%E0%BD%BA%E0%BD%94%E0%BD%A2-scanned-imagedigital-image)་ཞིབ་འཇུག་གི་མགོ་གཞུག་ཀུན་ཏུ་XNView མཉེན་ཆས་འདི་བཀོལ་དགོས་པས། ཐོག་མར་ཁྱེད་ཀྱི་གློག་ཀླད་ནང་མཉེན་ཆས་འདི་ངེས་པར་ཕབ་ལེན་བྱེད་དགོས། མཉེན་ཆས་འདིའི་དྲ་ཚིགས་ལ་གཟིགས་འདོད་ཚེ་[འདིར་སྣུན](https://www.xnview.com/en/xnconvert/#downloads)། གཤམ་ནས་རང་གི་གློག་ཀླད་ཀྱི་རིགས་དང་མཐུན་པའི་XNView མཉེན་ཆས་ཕབ་ལེན་བྱོས།
+#### 3. XNViewMP བཤེར་པར་གཙང་སྒྲིག <br/> 
+[བཤེར་པར](https://github.com/buda-base/digitization-guidelines/wiki/Terminology-%E0%BD%96%E0%BD%A2%E0%BE%A1%E0%BC%8B%E0%BD%86%E0%BD%91%E0%BC%8D-%E6%9C%AF%E8%AF%AD#%E6%89%AB%E6%8F%8F%E7%9A%84%E5%9B%BE%E5%83%8F%E6%95%B0%E5%AD%97%E5%9B%BE%E5%83%8F-%E0%BD%96%E0%BD%A4%E0%BD%BA%E0%BD%A2%E0%BD%94%E0%BD%A2%E0%BD%A2%E0%BD%98%E0%BD%A1%E0%BD%84%E0%BD%93%E0%BD%91%E0%BD%94%E0%BD%BA%E0%BD%94%E0%BD%A2-scanned-imagedigital-image)་ཞིབ་འཇུག་གི་མགོ་གཞུག་ཀུན་ཏུ་XNViewMP མཉེན་ཆས་འདི་བཀོལ་དགོས་པས། ཐོག་མར་ཁྱེད་ཀྱི་གློག་ཀླད་ནང་མཉེན་ཆས་འདི་ངེས་པར་ཕབ་ལེན་བྱེད་དགོས། མཉེན་ཆས་འདིའི་དྲ་ཚིགས་ལ་གཟིགས་འདོད་ཚེ་[འདིར་སྣུན](https://www.xnview.com/en/xnviewmp/#downloads)། གཤམ་ནས་རང་གི་གློག་ཀླད་ཀྱི་རིགས་དང་མཐུན་པའི་XNViewMP མཉེན་ཆས་ཕབ་ལེན་བྱོས།
 
 ![](images/000004.png)
 
 སྒེའུ་ཁུང་གློག་ཀླད་ནང་ཕབ་ལེན། | ཀུ་ཤུ་རྟགས་ཅན་ནང་ཕབ་ལེན་།
 | -- | -- 
-| <a href="http://download.xnview.com/XnViewMP-win-x64.exe"><button type="button" class="btn btn-success"><i class="fa fa-cloud-download"></i> win 64bit </button></a> | <a href="http://download.xnview.com/XnViewMP-mac.dmg"><button type="button" class="btn btn-success"><i class="fa fa-cloud-download"></i> iMac </button></a>
- <a href="http://download.xnview.com/XnViewMP-win.exe"><button type="button" class="btn btn-success"><i class="fa fa-cloud-download"></i> win 32bit </button></a>|
+| <a href="https://download.xnview.com/XnViewMP-win-x64.exe"><button type="button" class="btn btn-success"><i class="fa fa-cloud-download"></i> win 64bit </button></a> | <a href="https://download.xnview.com/XnViewMP-mac.dmg"><button type="button" class="btn btn-success"><i class="fa fa-cloud-download"></i> iMac </button></a>
+ <a href="https://download.xnview.com/XnViewMP-win.exe"><button type="button" class="btn btn-success"><i class="fa fa-cloud-download"></i> win 32bit </button></a>|
 
 མཉེན་ཆས་ནང་འཇུག་བྱེད་སྟངས། 
 

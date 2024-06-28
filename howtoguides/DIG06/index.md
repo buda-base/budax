@@ -1,4 +1,8 @@
 # ལྔ་བ། དན་གྲངས་གོང་མ་འགེང་ཚུལ། Biblio Info Sheet 
+
+![Picture10](https://github.com/buda-base/budax/assets/28945342/2d803e75-5cef-4abf-9d7d-16d5f2e09df3)
+
+
 **ཐོག་མར།** དྲ་ཐག་འདིར་ [དཔེ་སྐྲུན་གནས་ཚུལ་](https://github.com/buda-base/digitization-guidelines/files/4654363/Biblipgraphic.Info.Sheet.xlsx) བསྣུན་ནས་ཕབ་ལེན་བྱོས། ཕབ་ལེན་བྱས་རྗེས་གློག་ཀླད་ནང་ཉར་ཚགས་བྱས་ཏེ་དགོས་སྐབས་ངོ་བཤུ་བྱ་ཆོག་པ་ཡིན།
 
 ## དང་བོ། བཤེར་འབེབས་པ་དང་འབྲེལ་བའི་དན་གྲངས་གོང་མ་འགེང་ཚུལ།
